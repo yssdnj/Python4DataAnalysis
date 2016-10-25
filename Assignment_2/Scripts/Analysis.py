@@ -68,7 +68,7 @@ for i in range(0,dif_days_int + 1):
                     current_influ = dict_state_influ_count[state_name][0]
                     dict_state_influ_count[state_name] = (max(current_influ, tweet['retweet_count'] * tweet['user']['followers_count']),tweet['text'])
             # print(len(dict_state_count), dict_state_count)    
-            print(len(tweets))
+            # print(len(tweets))
 
 
     # analysis 1
