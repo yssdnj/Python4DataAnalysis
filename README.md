@@ -42,4 +42,4 @@ optional arguments:
   --max_date MAX_DATE   max date in yyyy-mm-dd
 ```
 Here is the sample result
-![alt tag](https://github.com/yssdnj/Python4DataAnalysis/Assignment_2/sample)
+![alt tag](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Assignment_2/sample.png)
