@@ -4,7 +4,7 @@ Python4DataAnalysis
 # Assignment_2
 There are two .py files in the Assignment_2/Scripts called PythonTwitterTool_Fetch.py and Analysis.py. 
 The first one is used to search and save data. The second one is used to perform relevant anyalysis.
--Step 1: use below command to fetch data with search_term and tweet_date
+*Step 1: use below command to fetch data with search_term and tweet_date
 ```sh
 python PythonTwitterTool_Fentch.py --h
 usage: PythonTwitterTool_Fetch.py [-h] [--search_term SEARCH_TERM]
@@ -19,7 +19,7 @@ optional arguments:
   --tweet_date TWEET_DATE
                         tweet created date in yyyy-mm-dd
 ```
--Step 2:use belpw coomand to show the analysis result according the data fetched via step 1
+*Step 2: use belpw coomand to show the analysis result according the data fetched via step 1
 ```sh
 python Analysis.py --h
 usage: Analysis.py [-h] [--search_term SEARCH_TERM] [--min_date MIN_DATE]
