@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39666308,1,pd.read_csv by default treats integers like floats

@@ -1,0 +1,2784 @@
+{
+    "has_more": true,
+    "quota_max": 10000,
+    "quota_remaining": 7144,
+    "items": [
+        {
+            "view_count": 28,
+            "down_vote_count": 0,
+            "creation_date": 1474552001,
+            "last_activity_date": 1474552001,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "python-3.x",
+                "pandas",
+                "timezone",
+                "hdf5"
+            ],
+            "link": "http://stackoverflow.com/questions/39640860/already-tz-aware-error-when-reading-h5-file-using-pandas-python-3-but-not-2",
+            "is_answered": false,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2712770/james-kelleher",
+                "reputation": 542,
+                "user_type": "registered",
+                "display_name": "James Kelleher",
+                "accept_rate": 92,
+                "profile_image": "https://graph.facebook.com/1341540476/picture?type=large",
+                "user_id": 2712770
+            },
+            "title": "&quot;Already tz-aware&quot; error when reading h5 file using pandas, python 3 (but not 2)",
+            "question_id": 39640860
+        },
+        {
+            "view_count": 34,
+            "down_vote_count": 0,
+            "creation_date": 1474549176,
+            "last_activity_date": 1474553391,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib",
+                "plot"
+            ],
+            "link": "http://stackoverflow.com/questions/39639794/trying-to-plot-a-dataframe-with-missing-values-none",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/328725/posdef",
+                "reputation": 3264,
+                "user_type": "registered",
+                "display_name": "posdef",
+                "accept_rate": 67,
+                "profile_image": "https://i.stack.imgur.com/XWh3b.jpg?s=128&g=1",
+                "user_id": 328725
+            },
+            "title": "Trying to plot a dataframe with missing values (None)",
+            "question_id": 39639794
+        },
+        {
+            "view_count": 21,
+            "down_vote_count": 0,
+            "creation_date": 1474547519,
+            "last_activity_date": 1474627176,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "xml",
+                "pandas",
+                "data-analysis"
+            ],
+            "link": "http://stackoverflow.com/questions/39639160/convert-pandas-dataframe-column-with-xml-data-to-normalised-columns",
+            "is_answered": false,
+            "last_edit_date": 1474627176,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/213334/sfactor",
+                "reputation": 2885,
+                "user_type": "registered",
+                "display_name": "sfactor",
+                "accept_rate": 61,
+                "profile_image": "https://www.gravatar.com/avatar/f7d036a88299407f3258b7426829f011?s=128&d=identicon&r=PG",
+                "user_id": 213334
+            },
+            "title": "Convert pandas dataframe column with xml data to normalised columns?",
+            "question_id": 39639160
+        },
+        {
+            "view_count": 26,
+            "down_vote_count": 0,
+            "creation_date": 1474546604,
+            "last_activity_date": 1474547067,
+            "accepted_answer_id": 39638881,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "series"
+            ],
+            "link": "http://stackoverflow.com/questions/39638833/aggregate-dataframe-indices-in-python",
+            "is_answered": true,
+            "last_edit_date": 1474546776,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5366046/sundong",
+                "reputation": 313,
+                "user_type": "registered",
+                "display_name": "SUNDONG",
+                "accept_rate": 50,
+                "profile_image": "https://graph.facebook.com/1172441706115735/picture?type=large",
+                "user_id": 5366046
+            },
+            "title": "Aggregate dataframe indices in python",
+            "question_id": 39638833
+        },
+        {
+            "view_count": 45,
+            "down_vote_count": 0,
+            "creation_date": 1474546513,
+            "last_activity_date": 1474550718,
+            "accepted_answer_id": 39640134,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "count",
+                "sum"
+            ],
+            "link": "http://stackoverflow.com/questions/39638801/loop-over-groups-pandas-dataframe-and-get-sum-count",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6485635/dataaddicted",
+                "reputation": 81,
+                "user_type": "registered",
+                "display_name": "DataAddicted",
+                "accept_rate": 61,
+                "profile_image": "https://www.gravatar.com/avatar/5b149a6e25b392ce3331f4eaafb82816?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6485635
+            },
+            "title": "Loop over groups Pandas Dataframe and get sum/count",
+            "question_id": 39638801
+        },
+        {
+            "view_count": 27,
+            "down_vote_count": 0,
+            "creation_date": 1474546440,
+            "last_activity_date": 1474547906,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "indexing",
+                "condition",
+                "tableau"
+            ],
+            "link": "http://stackoverflow.com/questions/39638777/how-to-apply-filter-on-one-variable-considering-other-two-variable-using-python",
+            "is_answered": true,
+            "last_edit_date": 1474547906,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6639780/snehal-pimpare",
+                "user_type": "registered",
+                "display_name": "snehal pimpare",
+                "profile_image": "https://lh5.googleusercontent.com/-RCwNzfZmGgc/AAAAAAAAAAI/AAAAAAAAAAo/hRMUE0GTd6o/photo.jpg?sz=128",
+                "reputation": 23,
+                "user_id": 6639780
+            },
+            "title": "how to apply filter on one variable considering other two variable using python",
+            "question_id": 39638777
+        },
+        {
+            "view_count": 36,
+            "down_vote_count": 0,
+            "creation_date": 1474545769,
+            "last_activity_date": 1474545769,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "excel",
+                "pandas",
+                "excel-formula",
+                "xlsxwriter"
+            ],
+            "link": "http://stackoverflow.com/questions/39638533/how-to-fill-color-cells-with-2-percentage-data-from-other-cells",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4866196/fuzunspm",
+                "reputation": 104,
+                "user_type": "registered",
+                "display_name": "fuzunspm",
+                "accept_rate": 86,
+                "profile_image": "https://www.gravatar.com/avatar/def3631f0e6ecd43f3f58222c89b0c51?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4866196
+            },
+            "title": "how to fill color cells with 2 percentage data from other cells",
+            "question_id": 39638533
+        },
+        {
+            "view_count": 22,
+            "down_vote_count": 0,
+            "creation_date": 1474545420,
+            "last_activity_date": 1474548688,
+            "accepted_answer_id": 39638446,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "add",
+                "categorical-data",
+                "in-place"
+            ],
+            "link": "http://stackoverflow.com/questions/39638403/valueerror-cannot-use-inplace-with-categoricalindex",
+            "is_answered": true,
+            "last_edit_date": 1474548688,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4117997/julian-c",
+                "reputation": 20,
+                "user_type": "registered",
+                "display_name": "Julian C",
+                "accept_rate": 50,
+                "profile_image": "https://www.gravatar.com/avatar/af99cb7199f4813a0d9a0e2e0e180636?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4117997
+            },
+            "title": "ValueError: cannot use inplace with CategoricalIndex",
+            "question_id": 39638403
+        },
+        {
+            "view_count": 20,
+            "down_vote_count": 0,
+            "creation_date": 1474539062,
+            "last_activity_date": 1474539620,
+            "accepted_answer_id": 39636326,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "indexing",
+                "series"
+            ],
+            "link": "http://stackoverflow.com/questions/39636224/get-pandas-subseries-by-values-when-each-value-is-a-ndarray",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5366046/sundong",
+                "reputation": 313,
+                "user_type": "registered",
+                "display_name": "SUNDONG",
+                "accept_rate": 50,
+                "profile_image": "https://graph.facebook.com/1172441706115735/picture?type=large",
+                "user_id": 5366046
+            },
+            "title": "Get pandas subseries by values when each value is a ndarray",
+            "question_id": 39636224
+        },
+        {
+            "view_count": 30,
+            "down_vote_count": 0,
+            "creation_date": 1474538436,
+            "last_activity_date": 1474539517,
+            "accepted_answer_id": 39636105,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39635993/how-to-convert-pandas-dataframe-rows-into-columns-based-on-category",
+            "is_answered": true,
+            "last_edit_date": 1474539517,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/513355/software-mechanic",
+                "reputation": 167,
+                "user_type": "registered",
+                "display_name": "Software Mechanic",
+                "accept_rate": 100,
+                "profile_image": "https://www.gravatar.com/avatar/faa7a15b0c213f2e26c8f17df4f67821?s=128&d=identicon&r=PG",
+                "user_id": 513355
+            },
+            "title": "How to convert pandas dataframe rows into columns, based on category?",
+            "question_id": 39635993
+        },
+        {
+            "view_count": 43,
+            "down_vote_count": 0,
+            "creation_date": 1474535282,
+            "last_activity_date": 1474569772,
+            "accepted_answer_id": 39637096,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "csv",
+                "pandas",
+                "matplotlib",
+                "genfromtxt"
+            ],
+            "link": "http://stackoverflow.com/questions/39634777/python-convert-datetime-from-csv-for-matplotlib",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6714290/wazzahenry",
+                "user_type": "registered",
+                "display_name": "wazzahenry",
+                "profile_image": "https://i.stack.imgur.com/wpMWM.jpg?s=128&g=1",
+                "reputation": 3,
+                "user_id": 6714290
+            },
+            "title": "Python Convert Datetime from csv for matplotlib",
+            "question_id": 39634777
+        },
+        {
+            "view_count": 33,
+            "down_vote_count": 0,
+            "creation_date": 1474534154,
+            "last_activity_date": 1474552049,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "json",
+                "pandas",
+                "dictionary",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39634369/4-dimensional-nested-dictionary-to-pandas-data-frame",
+            "is_answered": true,
+            "last_edit_date": 1474552049,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5754771/alexander-eser",
+                "reputation": 36,
+                "user_type": "registered",
+                "display_name": "Alexander Eser",
+                "accept_rate": 25,
+                "profile_image": "https://lh5.googleusercontent.com/-TjyY2Arj3iw/AAAAAAAAAAI/AAAAAAAAARo/ro2lw31vAXo/photo.jpg?sz=128",
+                "user_id": 5754771
+            },
+            "title": "4 dimensional nested dictionary to pandas data frame",
+            "question_id": 39634369
+        },
+        {
+            "view_count": 33,
+            "down_vote_count": 0,
+            "creation_date": 1474534017,
+            "last_activity_date": 1474541075,
+            "accepted_answer_id": 39635606,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39634312/pandas-append-multiple-columns-for-a-single-one",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2587904/georg-heiler",
+                "reputation": 943,
+                "user_type": "registered",
+                "display_name": "Georg Heiler",
+                "accept_rate": 98,
+                "profile_image": "https://i.stack.imgur.com/31ZTY.jpg?s=128&g=1",
+                "user_id": 2587904
+            },
+            "title": "Pandas append multiple columns for a single one",
+            "question_id": 39634312
+        },
+        {
+            "view_count": 26,
+            "down_vote_count": 0,
+            "creation_date": 1474533600,
+            "last_activity_date": 1474534822,
+            "accepted_answer_id": 39634269,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "filter",
+                "group-by",
+                "condition"
+            ],
+            "link": "http://stackoverflow.com/questions/39634175/pandas-groupby-with-condition",
+            "is_answered": true,
+            "last_edit_date": 1474534822,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6840039/petr-petrov",
+                "reputation": 165,
+                "user_type": "registered",
+                "display_name": "Petr Petrov",
+                "accept_rate": 63,
+                "profile_image": "https://www.gravatar.com/avatar/bbe8da8fb805e0564d583715d6addb74?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6840039
+            },
+            "title": "Pandas: groupby with condition",
+            "question_id": 39634175
+        },
+        {
+            "view_count": 49,
+            "down_vote_count": 0,
+            "creation_date": 1474528522,
+            "last_activity_date": 1474539014,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "machine-learning",
+                "scikit-learn"
+            ],
+            "link": "http://stackoverflow.com/questions/39632573/processing-data-with-different-number-of-features",
+            "is_answered": false,
+            "last_edit_date": 1474539014,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1591930/david-mii",
+                "user_type": "registered",
+                "display_name": "David_MII",
+                "profile_image": "https://www.gravatar.com/avatar/89076ce94e972567ba4618aa245fdb13?s=128&d=identicon&r=PG",
+                "reputation": 13,
+                "user_id": 1591930
+            },
+            "title": "Processing data with different number of features",
+            "question_id": 39632573
+        },
+        {
+            "view_count": 30,
+            "down_vote_count": 0,
+            "creation_date": 1474527526,
+            "last_activity_date": 1474528808,
+            "accepted_answer_id": 39632450,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "pivot",
+                "pivot-table",
+                "nan"
+            ],
+            "link": "http://stackoverflow.com/questions/39632277/pandas-nan-introduced-by-pivot-table",
+            "is_answered": true,
+            "last_edit_date": 1474528808,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2587904/georg-heiler",
+                "reputation": 943,
+                "user_type": "registered",
+                "display_name": "Georg Heiler",
+                "accept_rate": 98,
+                "profile_image": "https://i.stack.imgur.com/31ZTY.jpg?s=128&g=1",
+                "user_id": 2587904
+            },
+            "title": "Pandas NaN introduced by pivot_table",
+            "question_id": 39632277
+        },
+        {
+            "view_count": 18,
+            "down_vote_count": 0,
+            "creation_date": 1474527422,
+            "last_activity_date": 1474529567,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "json",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39632248/how-to-import-normalised-json-data-from-several-files-into-a-pandas-dataframe",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/213334/sfactor",
+                "reputation": 2885,
+                "user_type": "registered",
+                "display_name": "sfactor",
+                "accept_rate": 61,
+                "profile_image": "https://www.gravatar.com/avatar/f7d036a88299407f3258b7426829f011?s=128&d=identicon&r=PG",
+                "user_id": 213334
+            },
+            "title": "How to import normalised json data from several files into a pandas dataframe?",
+            "question_id": 39632248
+        },
+        {
+            "view_count": 26,
+            "down_vote_count": 0,
+            "creation_date": 1474525347,
+            "last_activity_date": 1474525849,
+            "accepted_answer_id": 39631714,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "list",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39631678/can-a-pandas-dataframe-hold-non-scalar-values",
+            "is_answered": true,
+            "last_edit_date": 1474525849,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1025255/nandaloo",
+                "reputation": 157,
+                "user_type": "registered",
+                "display_name": "nandaloo",
+                "accept_rate": 92,
+                "profile_image": "https://www.gravatar.com/avatar/dccaae1b0c4faccaba94a51c4d0ff445?s=128&d=identicon&r=PG",
+                "user_id": 1025255
+            },
+            "title": "Can a pandas DataFrame hold non-scalar values?",
+            "question_id": 39631678
+        },
+        {
+            "view_count": 36,
+            "down_vote_count": 0,
+            "creation_date": 1474522161,
+            "last_activity_date": 1474616508,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "python-3.x",
+                "pandas",
+                "matplotlib"
+            ],
+            "link": "http://stackoverflow.com/questions/39630928/how-to-plot-a-figure-with-chinese-characters-in-label",
+            "is_answered": true,
+            "last_edit_date": 1474528242,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6862189/%e8%b5%b5%e9%9b%a8%e8%bd%a9",
+                "user_type": "registered",
+                "display_name": "\u8d75\u96e8\u8f69",
+                "profile_image": "https://www.gravatar.com/avatar/703693f492e734e00a7a815ed06dc76a?s=128&d=identicon&r=PG&f=1",
+                "reputation": 4,
+                "user_id": 6862189
+            },
+            "title": "How to plot a figure with Chinese Characters in label",
+            "question_id": 39630928
+        },
+        {
+            "view_count": 39,
+            "down_vote_count": 1,
+            "creation_date": 1474517864,
+            "last_activity_date": 1475397757,
+            "accepted_answer_id": 39630379,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "scikit-learn",
+                "classification",
+                "data-representation"
+            ],
+            "link": "http://stackoverflow.com/questions/39630178/what-is-the-best-way-to-represent-or-shape-data-with-700-features-for-classific",
+            "is_answered": true,
+            "last_edit_date": 1475397757,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1219003/boltthrower",
+                "reputation": 90,
+                "user_type": "registered",
+                "display_name": "boltthrower",
+                "accept_rate": 36,
+                "profile_image": "https://i.stack.imgur.com/e2Mbp.gif?s=128&g=1",
+                "user_id": 1219003
+            },
+            "title": "What is the best way to represent or shape data with &gt;700 features for classification?",
+            "question_id": 39630178
+        },
+        {
+            "view_count": 30,
+            "down_vote_count": 0,
+            "creation_date": 1474515617,
+            "last_activity_date": 1474520583,
+            "accepted_answer_id": 39630640,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39629852/write-pandas-series-vertically-using-to-csv",
+            "is_answered": true,
+            "last_edit_date": 1474517987,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4713173/rjay155",
+                "reputation": 110,
+                "user_type": "registered",
+                "display_name": "Rjay155",
+                "accept_rate": 68,
+                "profile_image": "https://www.gravatar.com/avatar/bf9cb0ed3b487ae3d4fd3f099e4e44a6?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4713173
+            },
+            "title": "Write Pandas Series Vertically using to_csv",
+            "question_id": 39629852
+        },
+        {
+            "view_count": 47,
+            "down_vote_count": 0,
+            "creation_date": 1474510351,
+            "last_activity_date": 1474589298,
+            "accepted_answer_id": 39642909,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib",
+                "plot",
+                "series"
+            ],
+            "link": "http://stackoverflow.com/questions/39629183/create-a-2d-plot-pixel-grid-based-on-a-pandas-series-of-lists",
+            "is_answered": true,
+            "last_edit_date": 1474589298,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2013448/srodriguex",
+                "reputation": 766,
+                "user_type": "registered",
+                "display_name": "srodriguex",
+                "accept_rate": 100,
+                "profile_image": "https://i.stack.imgur.com/rEEjx.png?s=128&g=1",
+                "user_id": 2013448
+            },
+            "title": "Create a 2D plot pixel grid based on a pandas series of lists",
+            "question_id": 39629183
+        },
+        {
+            "view_count": 39,
+            "down_vote_count": 1,
+            "creation_date": 1474504178,
+            "last_activity_date": 1474550468,
+            "accepted_answer_id": 39628581,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39628453/parsing-an-irregularly-spaced-text-file-in-python-pandas",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/3609179/user3609179",
+                "reputation": 31,
+                "user_type": "registered",
+                "display_name": "user3609179",
+                "accept_rate": 100,
+                "profile_image": "https://www.gravatar.com/avatar/d036abc1e3d01d4ba62433d2593b46c1?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3609179
+            },
+            "title": "Parsing an irregularly spaced text file in Python pandas",
+            "question_id": 39628453
+        },
+        {
+            "view_count": 48,
+            "down_vote_count": 0,
+            "creation_date": 1474502579,
+            "last_activity_date": 1474521297,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "histogram",
+                "bins"
+            ],
+            "link": "http://stackoverflow.com/questions/39628242/histograms-in-pandas",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6605582/deserthiker",
+                "reputation": 13,
+                "user_type": "registered",
+                "display_name": "deserthiker",
+                "accept_rate": 20,
+                "profile_image": "https://www.gravatar.com/avatar/746f888bf2752afe40507acf81ce9742?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6605582
+            },
+            "title": "Histograms in Pandas",
+            "question_id": 39628242
+        },
+        {
+            "view_count": 24,
+            "down_vote_count": 0,
+            "creation_date": 1474501145,
+            "last_activity_date": 1474501145,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "hdf5"
+            ],
+            "link": "http://stackoverflow.com/questions/39628082/improve-hdf5-data-frames-query-time",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1253493/user1253493",
+                "reputation": 32,
+                "user_type": "registered",
+                "display_name": "user1253493",
+                "accept_rate": 80,
+                "profile_image": "https://www.gravatar.com/avatar/1a86432a098c356369f544fc2588cccb?s=128&d=identicon&r=PG",
+                "user_id": 1253493
+            },
+            "title": "Improve HDF5 Data frames Query time",
+            "question_id": 39628082
+        },
+        {
+            "view_count": 28,
+            "down_vote_count": 0,
+            "closed_reason": "duplicate",
+            "creation_date": 1474496868,
+            "last_activity_date": 1474525992,
+            "accepted_answer_id": 39628451,
+            "answer_count": 1,
+            "title": "replacing html syntax/ascii code in pandas columns",
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39627504/replacing-html-syntax-ascii-code-in-pandas-columns",
+            "is_answered": true,
+            "last_edit_date": 1474525992,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5062134/medev21",
+                "reputation": 88,
+                "user_type": "registered",
+                "display_name": "medev21",
+                "accept_rate": 75,
+                "profile_image": "https://i.stack.imgur.com/c2Ea0.jpg?s=128&g=1",
+                "user_id": 5062134
+            },
+            "closed_date": 1474530563,
+            "question_id": 39627504
+        },
+        {
+            "view_count": 32,
+            "down_vote_count": 0,
+            "creation_date": 1474493142,
+            "last_activity_date": 1474520399,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39626818/python-pandas-write-certain-rows-in-file",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2965601/tumbler",
+                "reputation": 150,
+                "user_type": "registered",
+                "display_name": "tumbler",
+                "accept_rate": 24,
+                "profile_image": "https://www.gravatar.com/avatar/18bc0758ee7957d6f5835534989068cd?s=128&d=identicon&r=PG&f=1",
+                "user_id": 2965601
+            },
+            "title": "Python Pandas: Write certain rows in file",
+            "question_id": 39626818
+        },
+        {
+            "view_count": 63,
+            "down_vote_count": 0,
+            "creation_date": 1474491346,
+            "last_activity_date": 1474493730,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39626439/appropriate-time-to-dynamically-set-variable-names",
+            "is_answered": true,
+            "last_edit_date": 1474492965,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5319229/rafael-martins",
+                "reputation": 460,
+                "user_type": "registered",
+                "display_name": "Rafael Martins",
+                "accept_rate": 84,
+                "profile_image": "https://i.stack.imgur.com/Itvb5.jpg?s=128&g=1",
+                "user_id": 5319229
+            },
+            "title": "Appropriate Time to Dynamically Set Variable Names?",
+            "question_id": 39626439
+        },
+        {
+            "view_count": 34,
+            "down_vote_count": 0,
+            "creation_date": 1474490906,
+            "last_activity_date": 1474524544,
+            "accepted_answer_id": 39627468,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39626332/n-dataframes-inner-joined-to-final-dataframe",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2277435/user2277435",
+                "reputation": 100,
+                "user_type": "registered",
+                "display_name": "user2277435",
+                "accept_rate": 100,
+                "profile_image": "https://www.gravatar.com/avatar/beb86dde6a7c498f482249eab564ad48?s=128&d=identicon&r=PG",
+                "user_id": 2277435
+            },
+            "title": "n-dataframes inner joined to final dataframe",
+            "question_id": 39626332
+        },
+        {
+            "view_count": 34,
+            "down_vote_count": 0,
+            "creation_date": 1474487245,
+            "last_activity_date": 1474489034,
+            "accepted_answer_id": 39625417,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "datetime",
+                "pandas",
+                "time-series",
+                "hour"
+            ],
+            "link": "http://stackoverflow.com/questions/39625328/pandas-grouping-by-datetime",
+            "is_answered": true,
+            "last_edit_date": 1474489034,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2605262/lukasz",
+                "reputation": 401,
+                "user_type": "registered",
+                "display_name": "Lukasz",
+                "accept_rate": 92,
+                "profile_image": "https://www.gravatar.com/avatar/1a5d81ecf2f500b5a9856140a1b2e372?s=128&d=identicon&r=PG",
+                "user_id": 2605262
+            },
+            "title": "Pandas Grouping By Datetime",
+            "question_id": 39625328
+        },
+        {
+            "view_count": 25,
+            "down_vote_count": 0,
+            "creation_date": 1474487150,
+            "last_activity_date": 1474487511,
+            "accepted_answer_id": 39625407,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39625302/find-first-instance-of-a-row-in-pandas-dataframe-matching-a-criterion",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1382498/rbmales",
+                "user_type": "registered",
+                "display_name": "rbmales",
+                "profile_image": "https://www.gravatar.com/avatar/3ef575ee8410f5b1998f2f7a77199384?s=128&d=identicon&r=PG",
+                "reputation": 43,
+                "user_id": 1382498
+            },
+            "title": "find first instance of a row in pandas dataframe matching a criterion",
+            "question_id": 39625302
+        },
+        {
+            "view_count": 19,
+            "down_vote_count": 2,
+            "creation_date": 1474483375,
+            "last_activity_date": 1474488821,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib"
+            ],
+            "link": "http://stackoverflow.com/questions/39624252/loop-over-colums-in-pandas-dataframe-to-create-multiple-plots-with-one-x-variabl",
+            "is_answered": false,
+            "score": -2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6177375/k-boyle",
+                "user_type": "registered",
+                "display_name": "K. Boyle",
+                "profile_image": "https://www.gravatar.com/avatar/53f4886ba2939fa5b3fa03c08cd24653?s=128&d=identicon&r=PG&f=1",
+                "reputation": 1,
+                "user_id": 6177375
+            },
+            "title": "Loop over Colums in Pandas Dataframe to create multiple plots with one x variable and mulitple y (colum values)",
+            "question_id": 39624252
+        },
+        {
+            "view_count": 43,
+            "down_vote_count": 0,
+            "creation_date": 1474482465,
+            "last_activity_date": 1474486790,
+            "answer_count": 5,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "boolean",
+                "condition"
+            ],
+            "link": "http://stackoverflow.com/questions/39623977/in-pandas-dataframe-generate-third-column-data-based-on-results-in-two-other-co",
+            "is_answered": true,
+            "last_edit_date": 1474483420,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6860006/kozowh",
+                "user_type": "registered",
+                "display_name": "kozowh",
+                "profile_image": "https://www.gravatar.com/avatar/73db12ee33a4774ac515c4f8a6c1eba7?s=128&d=identicon&r=PG&f=1",
+                "reputation": 11,
+                "user_id": 6860006
+            },
+            "title": "In pandas dataframe, generate third column data based on results in two other columns",
+            "question_id": 39623977
+        },
+        {
+            "view_count": 43,
+            "down_vote_count": 0,
+            "creation_date": 1474482060,
+            "last_activity_date": 1474488392,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "csv",
+                "hadoop",
+                "pandas",
+                "pyspark"
+            ],
+            "link": "http://stackoverflow.com/questions/39623858/creating-a-pandas-dataframe-with-hdfs-file-in-csv-format",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4980269/raghav-gupta",
+                "user_type": "registered",
+                "display_name": "Raghav Gupta",
+                "profile_image": "https://graph.facebook.com/10207066911615362/picture?type=large",
+                "reputation": 6,
+                "user_id": 4980269
+            },
+            "title": "Creating a Pandas DataFrame with HDFS file in .csv format",
+            "question_id": 39623858
+        },
+        {
+            "view_count": 35,
+            "down_vote_count": 0,
+            "creation_date": 1474480827,
+            "last_activity_date": 1474483410,
+            "answer_count": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "link": "http://stackoverflow.com/questions/39623521/need-help-pivoting-pandas-table",
+            "is_answered": true,
+            "last_edit_date": 1474483001,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4215760/navy-green",
+                "reputation": 2,
+                "user_type": "registered",
+                "display_name": "navy_green",
+                "accept_rate": 0,
+                "profile_image": "https://www.gravatar.com/avatar/d8b698fa788475b7ce0dd05d59040be0?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4215760
+            },
+            "title": "need help pivoting pandas table",
+            "question_id": 39623521
+        },
+        {
+            "view_count": 32,
+            "down_vote_count": 0,
+            "creation_date": 1474479670,
+            "last_activity_date": 1474489236,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39623187/valueerror-could-not-broadcast-during-pandas-dataframe-apply-when-chunking",
+            "is_answered": false,
+            "last_edit_date": 1474489236,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4450508/jessewut",
+                "reputation": 71,
+                "user_type": "registered",
+                "display_name": "jesseWUT",
+                "accept_rate": 71,
+                "profile_image": "https://www.gravatar.com/avatar/b0e206ac1790201f4d3dd8cb6ebf2a62?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4450508
+            },
+            "title": "ValueError: Could not broadcast during Pandas Dataframe Apply When Chunking",
+            "question_id": 39623187
+        },
+        {
+            "view_count": 39,
+            "down_vote_count": 0,
+            "creation_date": 1474478594,
+            "last_activity_date": 1474479731,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "list",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39622884/pandas-groupby-over-list",
+            "is_answered": true,
+            "last_edit_date": 1474479368,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/3839243/user36729",
+                "reputation": 90,
+                "user_type": "registered",
+                "display_name": "user36729",
+                "accept_rate": 81,
+                "profile_image": "https://www.gravatar.com/avatar/f2dae740bd725c10fb3ae1e6e97c9b33?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3839243
+            },
+            "title": "Pandas groupby over list",
+            "question_id": 39622884
+        },
+        {
+            "view_count": 56,
+            "down_vote_count": 0,
+            "creation_date": 1474477832,
+            "last_activity_date": 1474490147,
+            "accepted_answer_id": 39623292,
+            "answer_count": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "link": "http://stackoverflow.com/questions/39622639/how-to-break-numpy-array-into-smaller-chunks-batches-then-iterate-through-them",
+            "is_answered": true,
+            "last_edit_date": 1474490147,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/3340234/leb-broth",
+                "reputation": 473,
+                "user_type": "registered",
+                "display_name": "Leb_Broth",
+                "accept_rate": 100,
+                "profile_image": "https://graph.facebook.com/127103057/picture?type=large",
+                "user_id": 3340234
+            },
+            "title": "How to break numpy array into smaller chunks/batches, then iterate through them",
+            "question_id": 39622639
+        },
+        {
+            "view_count": 23,
+            "down_vote_count": 0,
+            "creation_date": 1474477326,
+            "last_activity_date": 1474479820,
+            "accepted_answer_id": 39623235,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39622487/cumulative-set-in-pandas",
+            "is_answered": true,
+            "last_edit_date": 1474478902,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/165658/gregory-saxton",
+                "reputation": 387,
+                "user_type": "registered",
+                "display_name": "Gregory Saxton",
+                "accept_rate": 93,
+                "profile_image": "https://www.gravatar.com/avatar/f15cbd2e790283fff8cec037cb047a7b?s=128&d=identicon&r=PG",
+                "user_id": 165658
+            },
+            "title": "Cumulative Set in PANDAS",
+            "question_id": 39622487
+        },
+        {
+            "view_count": 20,
+            "down_vote_count": 0,
+            "creation_date": 1474475946,
+            "last_activity_date": 1474476577,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "casting"
+            ],
+            "link": "http://stackoverflow.com/questions/39622081/pandas-dataframe-automatic-typecasting",
+            "is_answered": true,
+            "last_edit_date": 1474476353,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/3107858/dangoodrick",
+                "reputation": 339,
+                "user_type": "registered",
+                "display_name": "DanGoodrick",
+                "accept_rate": 54,
+                "profile_image": "https://i.stack.imgur.com/sehuC.jpg?s=128&g=1",
+                "user_id": 3107858
+            },
+            "title": "Pandas Dataframe automatic typecasting",
+            "question_id": 39622081
+        },
+        {
+            "view_count": 38,
+            "down_vote_count": 0,
+            "creation_date": 1474475523,
+            "last_activity_date": 1474478183,
+            "accepted_answer_id": 39622513,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "reshape"
+            ],
+            "link": "http://stackoverflow.com/questions/39621965/np-reshape-within-pandas-apply",
+            "is_answered": true,
+            "last_edit_date": 1474478054,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4464245/leocella",
+                "reputation": 90,
+                "user_type": "registered",
+                "display_name": "LeoCella",
+                "accept_rate": 62,
+                "profile_image": "https://lh3.googleusercontent.com/-a03G7KLMzrM/AAAAAAAAAAI/AAAAAAAAADg/SqxuLV1C2YI/photo.jpg?sz=128",
+                "user_id": 4464245
+            },
+            "title": "np reshape within pandas apply",
+            "question_id": 39621965
+        },
+        {
+            "view_count": 22,
+            "down_vote_count": 0,
+            "creation_date": 1474475367,
+            "last_activity_date": 1474478486,
+            "accepted_answer_id": 39622485,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39621914/pd-read-csv-ignores-columns-that-dont-have-headers",
+            "is_answered": true,
+            "last_edit_date": 1474477633,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6041629/kingle",
+                "user_type": "registered",
+                "display_name": "Kingle",
+                "profile_image": "https://www.gravatar.com/avatar/cf6dc03a931fb6a758622a805e7dbadf?s=128&d=identicon&r=PG&f=1",
+                "reputation": 20,
+                "user_id": 6041629
+            },
+            "title": "pd.read_csv ignores columns that don&#39;t have headers",
+            "question_id": 39621914
+        },
+        {
+            "view_count": 31,
+            "down_vote_count": 0,
+            "creation_date": 1474471090,
+            "last_activity_date": 1474471090,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "python-2.7",
+                "csv",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39620523/use-of-extended-ascii-as-separator-with-python-and-pandas",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5769402/melo",
+                "user_type": "registered",
+                "display_name": "melo",
+                "profile_image": "https://i.stack.imgur.com/5QY0e.gif?s=128&g=1",
+                "reputation": 1,
+                "user_id": 5769402
+            },
+            "title": "Use of extended ASCII as separator with python and pandas",
+            "question_id": 39620523
+        },
+        {
+            "view_count": 28,
+            "down_vote_count": 0,
+            "creation_date": 1474469973,
+            "last_activity_date": 1474471954,
+            "accepted_answer_id": 39620728,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "python-3.x",
+                "pandas",
+                "gis",
+                "proj"
+            ],
+            "link": "http://stackoverflow.com/questions/39620105/converting-between-projections-using-pyproj-in-pandas-dataframe",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1718097/user1718097",
+                "reputation": 628,
+                "user_type": "registered",
+                "display_name": "user1718097",
+                "accept_rate": 66,
+                "profile_image": "https://www.gravatar.com/avatar/3faba5007ad1829ae836e761bdc9c395?s=128&d=identicon&r=PG",
+                "user_id": 1718097
+            },
+            "title": "Converting between projections using pyproj in Pandas dataframe",
+            "question_id": 39620105
+        },
+        {
+            "view_count": 24,
+            "down_vote_count": 0,
+            "creation_date": 1474469103,
+            "last_activity_date": 1474469816,
+            "accepted_answer_id": 39619839,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "indexing",
+                "set",
+                "condition"
+            ],
+            "link": "http://stackoverflow.com/questions/39619799/python-pandas-select-rows-based-on-membership-of-another-collection-set",
+            "is_answered": true,
+            "last_edit_date": 1474469816,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/948655/ray",
+                "reputation": 1543,
+                "user_type": "registered",
+                "display_name": "Ray",
+                "accept_rate": 75,
+                "profile_image": "https://www.gravatar.com/avatar/4abf5c53b3048abbbc5b4a3d398ed86e?s=128&d=identicon&r=PG",
+                "user_id": 948655
+            },
+            "title": "Python Pandas select rows based on membership of another collection (set)",
+            "question_id": 39619799
+        },
+        {
+            "view_count": 18,
+            "down_vote_count": 0,
+            "creation_date": 1474467682,
+            "last_activity_date": 1474468642,
+            "accepted_answer_id": 39619316,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "int",
+                "multiple-columns"
+            ],
+            "link": "http://stackoverflow.com/questions/39619295/integer-parameter-in-pandas-dataframe-drop-function",
+            "is_answered": true,
+            "last_edit_date": 1474468642,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5491423/peter-b",
+                "reputation": 102,
+                "user_type": "registered",
+                "display_name": "Peter B.",
+                "accept_rate": 88,
+                "profile_image": "https://i.stack.imgur.com/VQHSd.jpg?s=128&g=1",
+                "user_id": 5491423
+            },
+            "title": "Integer parameter in pandas DataFrame.drop function",
+            "question_id": 39619295
+        },
+        {
+            "view_count": 32,
+            "down_vote_count": 0,
+            "creation_date": 1474466206,
+            "last_activity_date": 1474467677,
+            "accepted_answer_id": 39619291,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "dataframe",
+                "casting"
+            ],
+            "link": "http://stackoverflow.com/questions/39618678/pandas-convert-columns-type-from-list-to-np-array",
+            "is_answered": true,
+            "last_edit_date": 1474466921,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4464245/leocella",
+                "reputation": 90,
+                "user_type": "registered",
+                "display_name": "LeoCella",
+                "accept_rate": 62,
+                "profile_image": "https://lh3.googleusercontent.com/-a03G7KLMzrM/AAAAAAAAAAI/AAAAAAAAADg/SqxuLV1C2YI/photo.jpg?sz=128",
+                "user_id": 4464245
+            },
+            "title": "Pandas convert columns type from list to np.array",
+            "question_id": 39618678
+        },
+        {
+            "view_count": 34,
+            "down_vote_count": 0,
+            "creation_date": 1474464295,
+            "last_activity_date": 1474464295,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39617894/concatenate-or-average-a-dataframe-in-a-function",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4713173/rjay155",
+                "reputation": 110,
+                "user_type": "registered",
+                "display_name": "Rjay155",
+                "accept_rate": 68,
+                "profile_image": "https://www.gravatar.com/avatar/bf9cb0ed3b487ae3d4fd3f099e4e44a6?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4713173
+            },
+            "title": "Concatenate or Average A Dataframe In A Function",
+            "question_id": 39617894
+        },
+        {
+            "view_count": 45,
+            "down_vote_count": 0,
+            "creation_date": 1474462825,
+            "last_activity_date": 1474465083,
+            "accepted_answer_id": 39617474,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "group-by",
+                "aggregate",
+                "multiple-columns"
+            ],
+            "link": "http://stackoverflow.com/questions/39617298/make-a-table-from-2-columns",
+            "is_answered": true,
+            "last_edit_date": 1474464972,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6858449/f-jury",
+                "user_type": "registered",
+                "display_name": "F. Jury",
+                "profile_image": "https://www.gravatar.com/avatar/eacfd80ad672ad2ddfa470f12318c1de?s=128&d=identicon&r=PG&f=1",
+                "reputation": 13,
+                "user_id": 6858449
+            },
+            "title": "Make a table from 2 columns",
+            "question_id": 39617298
+        },
+        {
+            "view_count": 38,
+            "down_vote_count": 0,
+            "creation_date": 1474461883,
+            "last_activity_date": 1474468617,
+            "accepted_answer_id": 39617086,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "csv",
+                "pandas",
+                "numpy"
+            ],
+            "link": "http://stackoverflow.com/questions/39616931/how-to-create-rows-and-columns-in-a-csv-file-from-log-file",
+            "is_answered": true,
+            "last_edit_date": 1474468617,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6858388/peter-whitehead",
+                "user_type": "registered",
+                "display_name": "Peter Whitehead",
+                "profile_image": "https://lh3.googleusercontent.com/-Ir-GMUSO2mo/AAAAAAAAAAI/AAAAAAAAA6w/t8bG3UXpMRU/photo.jpg?sz=128",
+                "reputation": 13,
+                "user_id": 6858388
+            },
+            "title": "How to create rows and columns in a .csv file from .log file",
+            "question_id": 39616931
+        },
+        {
+            "view_count": 32,
+            "down_vote_count": 0,
+            "creation_date": 1474461431,
+            "last_activity_date": 1474472653,
+            "accepted_answer_id": 39617769,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "group-by",
+                "missing-data",
+                "imputation"
+            ],
+            "link": "http://stackoverflow.com/questions/39616764/pandas-per-group-imputation-of-missing-values",
+            "is_answered": true,
+            "last_edit_date": 1474472653,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2587904/georg-heiler",
+                "reputation": 943,
+                "user_type": "registered",
+                "display_name": "Georg Heiler",
+                "accept_rate": 98,
+                "profile_image": "https://i.stack.imgur.com/31ZTY.jpg?s=128&g=1",
+                "user_id": 2587904
+            },
+            "title": "Pandas per group imputation of missing values",
+            "question_id": 39616764
+        },
+        {
+            "view_count": 34,
+            "down_vote_count": 0,
+            "creation_date": 1474458900,
+            "last_activity_date": 1474482972,
+            "accepted_answer_id": 39616114,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "link": "http://stackoverflow.com/questions/39615871/function-to-calculate-value-from-first-row-in-python-pandas",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4882074/chandan-kumar",
+                "reputation": 20,
+                "user_type": "registered",
+                "display_name": "Chandan Kumar",
+                "accept_rate": 75,
+                "profile_image": "https://lh6.googleusercontent.com/-MS-ToDYJ0aQ/AAAAAAAAAAI/AAAAAAAAA9o/xjHcJuydOAg/photo.jpg?sz=128",
+                "user_id": 4882074
+            },
+            "title": "Function to calculate value from first row in Python Pandas",
+            "question_id": 39615871
+        },
+        {
+            "view_count": 55,
+            "down_vote_count": 0,
+            "creation_date": 1474457834,
+            "last_activity_date": 1474460718,
+            "accepted_answer_id": 39616033,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "string",
+                "python-2.7",
+                "pandas",
+                "word-cloud"
+            ],
+            "link": "http://stackoverflow.com/questions/39615520/pandas-create-word-cloud-from-a-column-with-strings",
+            "is_answered": true,
+            "last_edit_date": 1474460718,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1479974/chintan-s",
+                "reputation": 575,
+                "user_type": "registered",
+                "display_name": "chintan s",
+                "accept_rate": 55,
+                "profile_image": "https://www.gravatar.com/avatar/4cea72bb02e8c58be163b707022245a4?s=128&d=identicon&r=PG",
+                "user_id": 1479974
+            },
+            "title": "Pandas: create word cloud from a column with strings",
+            "question_id": 39615520
+        },
+        {
+            "view_count": 33,
+            "down_vote_count": 0,
+            "creation_date": 1474457808,
+            "last_activity_date": 1474496712,
+            "accepted_answer_id": 39627483,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39615506/pandas-write-condition-to-filter-in-dataframe",
+            "is_answered": true,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6840039/petr-petrov",
+                "reputation": 165,
+                "user_type": "registered",
+                "display_name": "Petr Petrov",
+                "accept_rate": 63,
+                "profile_image": "https://www.gravatar.com/avatar/bbe8da8fb805e0564d583715d6addb74?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6840039
+            },
+            "title": "Pandas: write condition to filter in dataframe",
+            "question_id": 39615506
+        },
+        {
+            "view_count": 17,
+            "down_vote_count": 0,
+            "creation_date": 1474457709,
+            "last_activity_date": 1474459827,
+            "accepted_answer_id": 39615610,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "list",
+                "pandas",
+                "dataframe",
+                "tuples"
+            ],
+            "link": "http://stackoverflow.com/questions/39615476/converting-dataframe-to-list-of-tuples-on-condition",
+            "is_answered": true,
+            "last_edit_date": 1474459827,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/140100/night-walker",
+                "reputation": 6303,
+                "user_type": "registered",
+                "display_name": "Night Walker ",
+                "accept_rate": 91,
+                "profile_image": "https://www.gravatar.com/avatar/45768f1f29efb6c418b1cd8a665d8950?s=128&d=identicon&r=PG",
+                "user_id": 140100
+            },
+            "title": "converting dataframe to list of tuples on condition",
+            "question_id": 39615476
+        },
+        {
+            "view_count": 31,
+            "down_vote_count": 0,
+            "closed_reason": "duplicate",
+            "creation_date": 1474457070,
+            "last_activity_date": 1474457821,
+            "accepted_answer_id": 39615515,
+            "answer_count": 2,
+            "title": "how could i delete rows with repeating/duplicate index from dataframe",
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39615238/how-could-i-delete-rows-with-repeating-duplicate-index-from-dataframe",
+            "is_answered": true,
+            "last_edit_date": 1474457370,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6624389/pratish-v",
+                "reputation": 17,
+                "user_type": "registered",
+                "display_name": "pratish_v",
+                "accept_rate": 40,
+                "profile_image": "https://www.gravatar.com/avatar/1daabee4ae1aba0f0309f7d75e841102?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6624389
+            },
+            "closed_date": 1474620220,
+            "question_id": 39615238
+        },
+        {
+            "view_count": 41,
+            "down_vote_count": 0,
+            "creation_date": 1474456991,
+            "last_activity_date": 1474527100,
+            "accepted_answer_id": 39615395,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "multiple-columns",
+                "nan"
+            ],
+            "link": "http://stackoverflow.com/questions/39615199/fill-nan-with-another-lookup-table",
+            "is_answered": true,
+            "last_edit_date": 1474527100,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/3937192/user37970",
+                "reputation": 21,
+                "user_type": "registered",
+                "display_name": "user37970",
+                "accept_rate": 60,
+                "profile_image": "https://www.gravatar.com/avatar/c546b730f6a7b48a333907b57076ba92?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3937192
+            },
+            "title": "fill NaN with another lookup table",
+            "question_id": 39615199
+        },
+        {
+            "view_count": 27,
+            "down_vote_count": 1,
+            "creation_date": 1474453848,
+            "last_activity_date": 1474455981,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39614059/collect-rows-and-columns-based-on-id-matching",
+            "is_answered": false,
+            "last_edit_date": 1474455981,
+            "score": -1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6620395/sebastian44",
+                "user_type": "registered",
+                "display_name": "sebastian44",
+                "profile_image": "https://www.gravatar.com/avatar/1653bfeb1bfac171824622842a3821cf?s=128&d=identicon&r=PG&f=1",
+                "reputation": 1,
+                "user_id": 6620395
+            },
+            "title": "collect rows and columns based on id matching",
+            "question_id": 39614059
+        },
+        {
+            "view_count": 37,
+            "down_vote_count": 0,
+            "creation_date": 1474451675,
+            "last_activity_date": 1474453584,
+            "accepted_answer_id": 39613343,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39613228/pandas-concatenate-dataframes",
+            "is_answered": true,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6840039/petr-petrov",
+                "reputation": 165,
+                "user_type": "registered",
+                "display_name": "Petr Petrov",
+                "accept_rate": 63,
+                "profile_image": "https://www.gravatar.com/avatar/bbe8da8fb805e0564d583715d6addb74?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6840039
+            },
+            "title": "Pandas: concatenate dataframes",
+            "question_id": 39613228
+        },
+        {
+            "view_count": 27,
+            "down_vote_count": 0,
+            "creation_date": 1474449363,
+            "last_activity_date": 1474454175,
+            "accepted_answer_id": 39612385,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "python-2.7",
+                "pandas",
+                "indexing",
+                "condition"
+            ],
+            "link": "http://stackoverflow.com/questions/39612300/pandas-change-values-chosen-by-boolean-indexing-in-a-column-without-getting-a-w",
+            "is_answered": true,
+            "last_edit_date": 1474450115,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2756793/khris",
+                "reputation": 754,
+                "user_type": "registered",
+                "display_name": "Khris",
+                "accept_rate": 88,
+                "profile_image": "https://www.gravatar.com/avatar/1cbe8b8b0848c306245687e301f8c95d?s=128&d=identicon&r=PG&f=1",
+                "user_id": 2756793
+            },
+            "title": "Pandas: Change values chosen by boolean indexing in a column without getting a warning",
+            "question_id": 39612300
+        },
+        {
+            "view_count": 34,
+            "down_vote_count": 0,
+            "creation_date": 1474449209,
+            "last_activity_date": 1474449398,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "json",
+                "pandas",
+                "unicode"
+            ],
+            "link": "http://stackoverflow.com/questions/39612240/writing-pandas-dataframe-to-json-in-unicode",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4800086/swier",
+                "reputation": 590,
+                "user_type": "registered",
+                "display_name": "Swier",
+                "accept_rate": 78,
+                "profile_image": "https://i.stack.imgur.com/yZ08p.png?s=128&g=1",
+                "user_id": 4800086
+            },
+            "title": "Writing pandas DataFrame to JSON in unicode",
+            "question_id": 39612240
+        },
+        {
+            "view_count": 35,
+            "down_vote_count": 0,
+            "creation_date": 1474447394,
+            "last_activity_date": 1475141705,
+            "accepted_answer_id": 39611585,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "csv",
+                "pandas",
+                "multiple-columns",
+                "separator"
+            ],
+            "link": "http://stackoverflow.com/questions/39611568/select-columns-in-pandas-df",
+            "is_answered": true,
+            "last_edit_date": 1475141705,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6506593/juliana-rivera",
+                "reputation": 84,
+                "user_type": "registered",
+                "display_name": "Juliana Rivera",
+                "accept_rate": 78,
+                "profile_image": "https://i.stack.imgur.com/78OXX.jpg?s=128&g=1",
+                "user_id": 6506593
+            },
+            "title": "Select Columns in pandas DF",
+            "question_id": 39611568
+        },
+        {
+            "view_count": 26,
+            "down_vote_count": 0,
+            "creation_date": 1474446305,
+            "last_activity_date": 1474447903,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "ram"
+            ],
+            "link": "http://stackoverflow.com/questions/39611197/pandas-memory-consumption-hdf-file-grouping",
+            "is_answered": true,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5770622/giulio-moment%c3%a8",
+                "user_type": "registered",
+                "display_name": "Giulio Moment&#232;",
+                "profile_image": "https://i.stack.imgur.com/W1jp7.png?s=128&g=1",
+                "reputation": 11,
+                "user_id": 5770622
+            },
+            "title": "pandas memory consumption hdf file grouping",
+            "question_id": 39611197
+        },
+        {
+            "view_count": 35,
+            "down_vote_count": 2,
+            "creation_date": 1474443667,
+            "last_activity_date": 1474445189,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "for-loop"
+            ],
+            "link": "http://stackoverflow.com/questions/39610336/invalid-syntax-error-in-for-loop-pandas",
+            "is_answered": false,
+            "score": -2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6857038/manasa-murugan",
+                "user_type": "registered",
+                "display_name": "Manasa Murugan",
+                "profile_image": "https://lh6.googleusercontent.com/-1Sik3NjqdHs/AAAAAAAAAAI/AAAAAAAACj0/c3e-67Oi1bk/photo.jpg?sz=128",
+                "reputation": 1,
+                "user_id": 6857038
+            },
+            "title": "Invalid syntax error in for loop pandas",
+            "question_id": 39610336
+        },
+        {
+            "view_count": 40,
+            "down_vote_count": 0,
+            "creation_date": 1474440968,
+            "last_activity_date": 1474442894,
+            "accepted_answer_id": 39609639,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "python-2.7",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39609426/pandas-remove-encoding-from-the-string",
+            "is_answered": true,
+            "last_edit_date": 1474442894,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1479974/chintan-s",
+                "reputation": 575,
+                "user_type": "registered",
+                "display_name": "chintan s",
+                "accept_rate": 55,
+                "profile_image": "https://www.gravatar.com/avatar/4cea72bb02e8c58be163b707022245a4?s=128&d=identicon&r=PG",
+                "user_id": 1479974
+            },
+            "title": "Pandas: remove encoding from the string",
+            "question_id": 39609426
+        },
+        {
+            "view_count": 46,
+            "down_vote_count": 0,
+            "creation_date": 1474440833,
+            "last_activity_date": 1474443272,
+            "accepted_answer_id": 39609439,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "python-2.7",
+                "pandas",
+                "numpy",
+                "scipy"
+            ],
+            "link": "http://stackoverflow.com/questions/39609391/pandas-how-to-split-dataframe-by-column-by-interval",
+            "is_answered": true,
+            "last_edit_date": 1474442234,
+            "score": 4,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2821224/9blue",
+                "reputation": 1450,
+                "user_type": "registered",
+                "display_name": "9blue",
+                "accept_rate": 76,
+                "profile_image": "https://i.stack.imgur.com/eaKnm.png?s=128&g=1",
+                "user_id": 2821224
+            },
+            "title": "Pandas how to split dataframe by column by interval",
+            "question_id": 39609391
+        },
+        {
+            "view_count": 35,
+            "down_vote_count": 0,
+            "creation_date": 1474436180,
+            "last_activity_date": 1474492593,
+            "answer_count": 3,
+            "tags": [
+                "python",
+                "string",
+                "pandas",
+                "casting",
+                "int"
+            ],
+            "link": "http://stackoverflow.com/questions/39608282/pandas-error-trying-to-convert-string-into-integer",
+            "is_answered": true,
+            "last_edit_date": 1474437644,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5606318/sanban",
+                "reputation": 48,
+                "user_type": "registered",
+                "display_name": "SanBan",
+                "accept_rate": 33,
+                "profile_image": "https://www.gravatar.com/avatar/59c68181122d164a4f5fa7fc1e6cd948?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5606318
+            },
+            "title": "Pandas error trying to convert string into integer",
+            "question_id": 39608282
+        },
+        {
+            "view_count": 45,
+            "down_vote_count": 0,
+            "creation_date": 1474431944,
+            "last_activity_date": 1474435739,
+            "accepted_answer_id": 39608197,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39607540/count-the-number-of-occurrence-of-values-based-on-another-column",
+            "is_answered": true,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6777053/niche-p",
+                "reputation": 139,
+                "user_type": "registered",
+                "display_name": "Niche.P",
+                "accept_rate": 100,
+                "profile_image": "https://www.gravatar.com/avatar/faa5839a80edf55da010c3202beac658?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6777053
+            },
+            "title": "Count the number of Occurrence of Values based on another column",
+            "question_id": 39607540
+        },
+        {
+            "view_count": 26,
+            "down_vote_count": 0,
+            "creation_date": 1474424673,
+            "last_activity_date": 1474462803,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "multidimensional-array",
+                "xml-parsing"
+            ],
+            "link": "http://stackoverflow.com/questions/39606540/how-to-read-multidimensional-dataframe-in-pandas",
+            "is_answered": false,
+            "last_edit_date": 1474462803,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6236113/shrutik-katchhi",
+                "user_type": "registered",
+                "display_name": "shrutik katchhi",
+                "profile_image": "https://lh4.googleusercontent.com/-18JFpPv8HPU/AAAAAAAAAAI/AAAAAAAAK7I/31YP7HM_tSw/photo.jpg?sz=128",
+                "reputation": 1,
+                "user_id": 6236113
+            },
+            "title": "How to read multidimensional dataframe in Pandas?",
+            "question_id": 39606540
+        },
+        {
+            "view_count": 45,
+            "down_vote_count": 0,
+            "creation_date": 1474424629,
+            "last_activity_date": 1474546395,
+            "accepted_answer_id": 39614914,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "sqlalchemy"
+            ],
+            "link": "http://stackoverflow.com/questions/39606534/sqlalchemy-pandas-how-do-i-create-an-sqlalchemy-selectable-to-pass-to-pd-r",
+            "is_answered": true,
+            "last_edit_date": 1474546395,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1764089/evan54",
+                "reputation": 1001,
+                "user_type": "registered",
+                "display_name": "evan54",
+                "accept_rate": 86,
+                "profile_image": "https://www.gravatar.com/avatar/0b7ee3dbad9444e2f1fe8f8b317bd75c?s=128&d=identicon&r=PG",
+                "user_id": 1764089
+            },
+            "title": "sqlalchemy / pandas - How do I create an sqlalchemy `selectable` to pass to pd.read_sql?",
+            "question_id": 39606534
+        },
+        {
+            "view_count": 51,
+            "down_vote_count": 0,
+            "creation_date": 1474416011,
+            "last_activity_date": 1474624833,
+            "accepted_answer_id": 39605942,
+            "answer_count": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "link": "http://stackoverflow.com/questions/39605512/twist-dataframe-by-rank",
+            "is_answered": true,
+            "last_edit_date": 1474418983,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2336654/pirsquared",
+                "reputation": 30161,
+                "user_type": "registered",
+                "display_name": "piRSquared",
+                "accept_rate": 96,
+                "profile_image": "https://i.stack.imgur.com/cZOEs.jpg?s=128&g=1",
+                "user_id": 2336654
+            },
+            "title": "twist dataframe by rank",
+            "question_id": 39605512
+        },
+        {
+            "view_count": 33,
+            "down_vote_count": 0,
+            "creation_date": 1474413388,
+            "last_activity_date": 1474417109,
+            "accepted_answer_id": 39605166,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39605156/convert-datetime-to-sequential-day-of-the-year",
+            "is_answered": true,
+            "last_edit_date": 1474414325,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6148300/swaggy-a",
+                "user_type": "registered",
+                "display_name": "Swaggy A",
+                "profile_image": "https://i.stack.imgur.com/bE9nC.jpg?s=128&g=1",
+                "reputation": 20,
+                "user_id": 6148300
+            },
+            "title": "Convert DateTime to sequential day of the year",
+            "question_id": 39605156
+        },
+        {
+            "view_count": 34,
+            "down_vote_count": 0,
+            "creation_date": 1474409807,
+            "last_activity_date": 1474413050,
+            "accepted_answer_id": 39604756,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "time-series"
+            ],
+            "link": "http://stackoverflow.com/questions/39604586/pandas-apply-with-list-output-gives-valueerror-once-df-contains-timeseries",
+            "is_answered": true,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2629357/grinsbaeckchen",
+                "reputation": 44,
+                "user_type": "registered",
+                "display_name": "grinsbaeckchen",
+                "accept_rate": 80,
+                "profile_image": "https://www.gravatar.com/avatar/ec9791e8cf91865ee0a0f44eece314d6?s=128&d=identicon&r=PG",
+                "user_id": 2629357
+            },
+            "title": "Pandas apply with list output gives ValueError once df contains timeseries",
+            "question_id": 39604586
+        },
+        {
+            "view_count": 45,
+            "down_vote_count": 0,
+            "creation_date": 1474409158,
+            "last_activity_date": 1474541206,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "json",
+                "pandas",
+                "dictionary",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39604461/api-call-multi-dimensional-nested-dictionary-to-pandas-data-frame",
+            "is_answered": true,
+            "last_edit_date": 1474541206,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5754771/alexander-eser",
+                "reputation": 36,
+                "user_type": "registered",
+                "display_name": "Alexander Eser",
+                "accept_rate": 25,
+                "profile_image": "https://lh5.googleusercontent.com/-TjyY2Arj3iw/AAAAAAAAAAI/AAAAAAAAARo/ro2lw31vAXo/photo.jpg?sz=128",
+                "user_id": 5754771
+            },
+            "title": "API Call - Multi dimensional nested dictionary to pandas data frame",
+            "question_id": 39604461
+        },
+        {
+            "view_count": 37,
+            "down_vote_count": 0,
+            "creation_date": 1474408620,
+            "last_activity_date": 1474408704,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "link": "http://stackoverflow.com/questions/39604348/pd-read-clipboard-giving-me-an-error-on-python-2",
+            "is_answered": false,
+            "last_edit_date": 1474408704,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/3796635/user3796635",
+                "user_type": "registered",
+                "display_name": "user3796635",
+                "profile_image": "https://graph.facebook.com/100003517526344/picture?type=large",
+                "reputation": 4,
+                "user_id": 3796635
+            },
+            "title": "pd.read_clipboard() giving me an error on Python 2",
+            "question_id": 39604348
+        },
+        {
+            "view_count": 43,
+            "down_vote_count": 0,
+            "creation_date": 1474407230,
+            "last_activity_date": 1474408029,
+            "accepted_answer_id": 39604232,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39604094/pandas-delete-all-rows-that-are-not-a-datetime-type",
+            "is_answered": true,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2605262/lukasz",
+                "reputation": 401,
+                "user_type": "registered",
+                "display_name": "Lukasz",
+                "accept_rate": 92,
+                "profile_image": "https://www.gravatar.com/avatar/1a5d81ecf2f500b5a9856140a1b2e372?s=128&d=identicon&r=PG",
+                "user_id": 2605262
+            },
+            "title": "Pandas delete all rows that are not a &#39;datetime&#39; type",
+            "question_id": 39604094
+        },
+        {
+            "view_count": 33,
+            "down_vote_count": 0,
+            "creation_date": 1474404975,
+            "last_activity_date": 1474406704,
+            "accepted_answer_id": 39603747,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39603571/key-error-in-data-frame-handling",
+            "is_answered": true,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4972716/stacey",
+                "reputation": 332,
+                "user_type": "registered",
+                "display_name": "Stacey",
+                "accept_rate": 48,
+                "profile_image": "https://www.gravatar.com/avatar/a7c5b54d4f13c6bb4d1d4d40ca4d4ad1?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4972716
+            },
+            "title": "Key error in data-frame handling",
+            "question_id": 39603571
+        },
+        {
+            "view_count": 44,
+            "down_vote_count": 0,
+            "creation_date": 1474404960,
+            "last_activity_date": 1474467217,
+            "accepted_answer_id": 39604159,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39603567/how-to-combine-csv-files-with-pandas-and-add-identifying-column",
+            "is_answered": true,
+            "last_edit_date": 1474467217,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5319229/rafael-martins",
+                "reputation": 460,
+                "user_type": "registered",
+                "display_name": "Rafael Martins",
+                "accept_rate": 84,
+                "profile_image": "https://i.stack.imgur.com/Itvb5.jpg?s=128&g=1",
+                "user_id": 5319229
+            },
+            "title": "How to Combine CSV Files with Pandas (And Add Identifying Column)",
+            "question_id": 39603567
+        },
+        {
+            "view_count": 45,
+            "down_vote_count": 0,
+            "creation_date": 1474404193,
+            "last_activity_date": 1474405919,
+            "accepted_answer_id": 39603437,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "mean",
+                "numeric",
+                "resampling"
+            ],
+            "link": "http://stackoverflow.com/questions/39603399/pandas-daily-average-pandas-resample",
+            "is_answered": true,
+            "last_edit_date": 1474405919,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6855318/ogmgic",
+                "user_type": "registered",
+                "display_name": "OGMGIC",
+                "profile_image": "https://www.gravatar.com/avatar/493fafd6b3b9f66f79d204fbff78a746?s=128&d=identicon&r=PG&f=1",
+                "reputation": 18,
+                "user_id": 6855318
+            },
+            "title": "pandas daily average, pandas.resample",
+            "question_id": 39603399
+        },
+        {
+            "view_count": 47,
+            "down_vote_count": 0,
+            "creation_date": 1474401639,
+            "last_activity_date": 1474405019,
+            "accepted_answer_id": 39602902,
+            "answer_count": 3,
+            "tags": [
+                "python",
+                "string",
+                "python-2.7",
+                "pandas",
+                "replace"
+            ],
+            "link": "http://stackoverflow.com/questions/39602824/pandas-replace-string-with-another-string",
+            "is_answered": true,
+            "last_edit_date": 1474402659,
+            "score": 4,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1479974/chintan-s",
+                "reputation": 575,
+                "user_type": "registered",
+                "display_name": "chintan s",
+                "accept_rate": 55,
+                "profile_image": "https://www.gravatar.com/avatar/4cea72bb02e8c58be163b707022245a4?s=128&d=identicon&r=PG",
+                "user_id": 1479974
+            },
+            "title": "pandas: replace string with another string",
+            "question_id": 39602824
+        },
+        {
+            "view_count": 31,
+            "down_vote_count": 0,
+            "creation_date": 1474401547,
+            "last_activity_date": 1474449043,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39602802/combining-data-divided-between-multiple-columns-after-pivoting-pandas-data-table",
+            "is_answered": false,
+            "last_edit_date": 1474449043,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6131788/h-corbett",
+                "user_type": "registered",
+                "display_name": "H. Corbett",
+                "profile_image": "https://www.gravatar.com/avatar/d7c3c84e6332b0cecde63938fd0f2392?s=128&d=identicon&r=PG&f=1",
+                "reputation": 25,
+                "user_id": 6131788
+            },
+            "title": "Combining data divided between multiple columns after pivoting pandas data table",
+            "question_id": 39602802
+        },
+        {
+            "view_count": 40,
+            "down_vote_count": 0,
+            "creation_date": 1474401484,
+            "last_activity_date": 1474450070,
+            "accepted_answer_id": 39612548,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39602785/complex-time-operations-in-pandas",
+            "is_answered": true,
+            "last_edit_date": 1474450070,
+            "score": 4,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6263724/mysterious-guy",
+                "reputation": 115,
+                "user_type": "registered",
+                "display_name": "mysterious_guy",
+                "accept_rate": 86,
+                "profile_image": "https://www.gravatar.com/avatar/b36a0356ba4c350d4bd2affb3a49470a?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6263724
+            },
+            "title": "Complex time operations in Pandas",
+            "question_id": 39602785
+        },
+        {
+            "view_count": 21,
+            "down_vote_count": 0,
+            "creation_date": 1474400732,
+            "last_activity_date": 1474402057,
+            "accepted_answer_id": 39602922,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "data-munging"
+            ],
+            "link": "http://stackoverflow.com/questions/39602588/python-pandas-issue-applying-function-to-a-column-in-a-dataframe-to-replace-o",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2564864/professionalamateur",
+                "reputation": 136,
+                "user_type": "registered",
+                "display_name": "ProfessionalAmateur",
+                "accept_rate": 62,
+                "profile_image": "https://www.gravatar.com/avatar/f46cc44a66c20306b99be1ac583317cf?s=128&d=identicon&r=PG",
+                "user_id": 2564864
+            },
+            "title": "Python, Pandas - Issue applying function to a column in a dataframe to replace only certain items",
+            "question_id": 39602588
+        },
+        {
+            "view_count": 92,
+            "down_vote_count": 0,
+            "creation_date": 1474398470,
+            "last_activity_date": 1474409443,
+            "accepted_answer_id": 39602108,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "comparison",
+                "floating-accuracy",
+                "comparison-operators"
+            ],
+            "link": "http://stackoverflow.com/questions/39602004/can-i-use-pandas-dataframe-isin-with-a-numeric-tolerance-parameter",
+            "is_answered": true,
+            "last_edit_date": 1474409443,
+            "score": 6,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5976692/webmaker",
+                "reputation": 93,
+                "user_type": "registered",
+                "display_name": "webmaker",
+                "accept_rate": 50,
+                "profile_image": "https://www.gravatar.com/avatar/7038c0853787afc28d3ac4844a9d106e?s=128&d=identicon&r=PG",
+                "user_id": 5976692
+            },
+            "title": "Can I use pandas.dataframe.isin() with a numeric tolerance parameter?",
+            "question_id": 39602004
+        },
+        {
+            "view_count": 43,
+            "down_vote_count": 0,
+            "creation_date": 1474398077,
+            "last_activity_date": 1474398077,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "pivot"
+            ],
+            "link": "http://stackoverflow.com/questions/39601892/does-the-lambda-x-x-hack-no-longer-work-in-pandas-pivot-table",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6428010/tanveer-gupta",
+                "user_type": "registered",
+                "display_name": "Tanveer Gupta",
+                "profile_image": "https://www.gravatar.com/avatar/f0f338b9bc9a73b3f35ce54734499efc?s=128&d=identicon&r=PG&f=1",
+                "reputation": 1,
+                "user_id": 6428010
+            },
+            "title": "Does the &quot;lambda x: x&quot; hack no longer work in pandas pivot table?",
+            "question_id": 39601892
+        },
+        {
+            "view_count": 23,
+            "down_vote_count": 0,
+            "creation_date": 1474397938,
+            "last_activity_date": 1474398633,
+            "accepted_answer_id": 39601872,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "python-2.7",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39601854/pandas-slice-dataframe-based-on-nan",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1479974/chintan-s",
+                "reputation": 575,
+                "user_type": "registered",
+                "display_name": "chintan s",
+                "accept_rate": 55,
+                "profile_image": "https://www.gravatar.com/avatar/4cea72bb02e8c58be163b707022245a4?s=128&d=identicon&r=PG",
+                "user_id": 1479974
+            },
+            "title": "pandas: slice dataframe based on NaN",
+            "question_id": 39601854
+        },
+        {
+            "view_count": 53,
+            "down_vote_count": 0,
+            "creation_date": 1474395974,
+            "last_activity_date": 1474397116,
+            "accepted_answer_id": 39601325,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39601251/python-error-when-calling-column-data-from-pandas-dataframe",
+            "is_answered": true,
+            "last_edit_date": 1474397116,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/5487839/carl-pch",
+                "reputation": 139,
+                "user_type": "registered",
+                "display_name": "carl_pch",
+                "accept_rate": 87,
+                "profile_image": "https://i.stack.imgur.com/4WIG4.png?s=128&g=1",
+                "user_id": 5487839
+            },
+            "title": "Python error when calling column data from Pandas DataFrame",
+            "question_id": 39601251
+        },
+        {
+            "view_count": 26,
+            "down_vote_count": 0,
+            "creation_date": 1474395564,
+            "last_activity_date": 1474397312,
+            "accepted_answer_id": 39601213,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "performance",
+                "pandas",
+                "optimization",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39601126/transposing-a-subset-of-columns-in-a-pandas-dataframe-while-using-others-as-grou",
+            "is_answered": true,
+            "last_edit_date": 1474396409,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1566200/user1566200",
+                "reputation": 429,
+                "user_type": "registered",
+                "display_name": "user1566200",
+                "accept_rate": 71,
+                "profile_image": "https://www.gravatar.com/avatar/5123ca9217a405695f6cb56e4645d84f?s=128&d=identicon&r=PG",
+                "user_id": 1566200
+            },
+            "title": "Transposing a subset of columns in a Pandas DataFrame while using others as grouping variable?",
+            "question_id": 39601126
+        },
+        {
+            "view_count": 38,
+            "down_vote_count": 0,
+            "creation_date": 1474395489,
+            "last_activity_date": 1474404582,
+            "accepted_answer_id": 39603487,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "indexing",
+                "dataframe",
+                "multi-index"
+            ],
+            "link": "http://stackoverflow.com/questions/39601110/how-to-access-prior-rows-within-a-multiindex-panda-dataframe",
+            "is_answered": true,
+            "last_edit_date": 1474398320,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2582017/pythus",
+                "reputation": 88,
+                "user_type": "registered",
+                "display_name": "Pythus",
+                "accept_rate": 69,
+                "profile_image": "https://www.gravatar.com/avatar/ae743b0340c4440e14438f6f19b27397?s=128&d=identicon&r=PG",
+                "user_id": 2582017
+            },
+            "title": "How to access prior rows within a multiindex Panda dataframe",
+            "question_id": 39601110
+        },
+        {
+            "view_count": 28,
+            "down_vote_count": 0,
+            "creation_date": 1474394436,
+            "last_activity_date": 1474406220,
+            "accepted_answer_id": 39602426,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "link": "http://stackoverflow.com/questions/39600816/setting-pandas-dataframe-string-dtype-not-file-based",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1650345/everial",
+                "reputation": 35,
+                "user_type": "registered",
+                "display_name": "everial",
+                "accept_rate": 75,
+                "profile_image": "https://www.gravatar.com/avatar/21e2ede2aeeeb53b7291e06e91cda29f?s=128&d=identicon&r=PG",
+                "user_id": 1650345
+            },
+            "title": "Setting pandas.DataFrame string dtype (not file based)",
+            "question_id": 39600816
+        },
+        {
+            "view_count": 25,
+            "down_vote_count": 1,
+            "creation_date": 1474390555,
+            "last_activity_date": 1474393910,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "html",
+                "pandas",
+                "beautifulsoup"
+            ],
+            "link": "http://stackoverflow.com/questions/39599802/python-conditionally-add-class-to-td-tags-in-html-table",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/1708772/brno792",
+                "reputation": 978,
+                "user_type": "registered",
+                "display_name": "brno792",
+                "accept_rate": 56,
+                "profile_image": "https://www.gravatar.com/avatar/edfa95d36c2a3b071607604d1f2d4c5c?s=128&d=identicon&r=PG",
+                "user_id": 1708772
+            },
+            "title": "Python Conditionally Add Class to &lt;td&gt; Tags in HTML Table",
+            "question_id": 39599802
+        },
+        {
+            "view_count": 67,
+            "down_vote_count": 1,
+            "creation_date": 1474388400,
+            "last_activity_date": 1475011351,
+            "answer_count": 4,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39599192/fill-in-time-data-in-pandas",
+            "is_answered": true,
+            "last_edit_date": 1474619194,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2965673/adam",
+                "reputation": 330,
+                "user_type": "registered",
+                "display_name": "Adam",
+                "accept_rate": 38,
+                "profile_image": "https://www.gravatar.com/avatar/e9605225083416e8dd3da79c71189df0?s=128&d=identicon&r=PG&f=1",
+                "user_id": 2965673
+            },
+            "title": "Fill in time data in pandas",
+            "question_id": 39599192
+        },
+        {
+            "view_count": 27,
+            "down_vote_count": 0,
+            "creation_date": 1474386663,
+            "last_activity_date": 1474386975,
+            "accepted_answer_id": 39598726,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "datetime",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39598618/pandas-filter-on-date-for-quarterly-ends",
+            "is_answered": true,
+            "last_edit_date": 1474386856,
+            "score": 3,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6797207/ben121",
+                "reputation": 30,
+                "user_type": "registered",
+                "display_name": "ben121",
+                "accept_rate": 50,
+                "profile_image": "https://www.gravatar.com/avatar/8c336fdecd8cc219aa0c40a1f4423614?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6797207
+            },
+            "title": "Pandas Filter on date for quarterly ends",
+            "question_id": 39598618
+        },
+        {
+            "view_count": 43,
+            "down_vote_count": 0,
+            "creation_date": 1474386215,
+            "last_activity_date": 1475243848,
+            "accepted_answer_id": 39793260,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "link": "http://stackoverflow.com/questions/39598449/convert-hex-column-in-pandas-without-iterating",
+            "is_answered": true,
+            "last_edit_date": 1474390160,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6854280/zsmyth",
+                "user_type": "registered",
+                "display_name": "ZSmyth",
+                "profile_image": "https://www.gravatar.com/avatar/00638b8a8fbfe4a8534793ac440cc937?s=128&d=identicon&r=PG&f=1",
+                "reputation": 6,
+                "user_id": 6854280
+            },
+            "title": "Convert Hex Column in Pandas Without Iterating",
+            "question_id": 39598449
+        },
+        {
+            "view_count": 32,
+            "down_vote_count": 0,
+            "creation_date": 1474384438,
+            "last_activity_date": 1474390037,
+            "accepted_answer_id": 39599650,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "plot",
+                "group-by",
+                "filtering"
+            ],
+            "link": "http://stackoverflow.com/questions/39597785/pandas-multicolumn-groupby-plotting",
+            "is_answered": true,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/3698214/steelydanish",
+                "reputation": 61,
+                "user_type": "registered",
+                "display_name": "SteelyDanish",
+                "accept_rate": 64,
+                "profile_image": "https://www.gravatar.com/avatar/a2e0c7447aa6470041654c845d8b94f9?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3698214
+            },
+            "title": "Pandas Multicolumn Groupby Plotting",
+            "question_id": 39597785
+        },
+        {
+            "view_count": 30,
+            "down_vote_count": 0,
+            "creation_date": 1474383767,
+            "last_activity_date": 1474384615,
+            "accepted_answer_id": 39597704,
+            "answer_count": 1,
+            "tags": [
+                "python",
+                "list",
+                "datetime",
+                "pandas",
+                "datetimeindex"
+            ],
+            "link": "http://stackoverflow.com/questions/39597553/from-datetimeindex-to-list-of-times",
+            "is_answered": true,
+            "last_edit_date": 1474384615,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6485635/dataaddicted",
+                "reputation": 81,
+                "user_type": "registered",
+                "display_name": "DataAddicted",
+                "accept_rate": 61,
+                "profile_image": "https://www.gravatar.com/avatar/5b149a6e25b392ce3331f4eaafb82816?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6485635
+            },
+            "title": "From DatetimeIndex to list of times",
+            "question_id": 39597553
+        },
+        {
+            "view_count": 41,
+            "down_vote_count": 0,
+            "creation_date": 1474377706,
+            "last_activity_date": 1474381618,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "ironpython",
+                "python.net"
+            ],
+            "link": "http://stackoverflow.com/questions/39595327/how-to-install-packages-modules-in-ironpython",
+            "is_answered": false,
+            "last_edit_date": 1474381618,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/6849301/hikaru",
+                "user_type": "registered",
+                "display_name": "Hikaru",
+                "profile_image": "https://www.gravatar.com/avatar/fe753b9e793f4867a6e0615dbc2ed0ff?s=128&d=identicon&r=PG&f=1",
+                "reputation": 6,
+                "user_id": 6849301
+            },
+            "title": "How to install packages/modules in IronPython",
+            "question_id": 39595327
+        },
+        {
+            "view_count": 35,
+            "down_vote_count": 0,
+            "creation_date": 1474374419,
+            "last_activity_date": 1474376357,
+            "accepted_answer_id": 39594268,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39594080/how-to-compare-dataframe-unique-values-with-a-list",
+            "is_answered": true,
+            "last_edit_date": 1474374996,
+            "score": 1,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2251840/student-t",
+                "reputation": 2789,
+                "user_type": "registered",
+                "display_name": "Student T",
+                "accept_rate": 89,
+                "profile_image": "https://i.stack.imgur.com/O3LmV.png?s=128&g=1",
+                "user_id": 2251840
+            },
+            "title": "How to compare dataframe unique values with a list?",
+            "question_id": 39594080
+        },
+        {
+            "view_count": 48,
+            "down_vote_count": 0,
+            "creation_date": 1474373658,
+            "last_activity_date": 1474376878,
+            "accepted_answer_id": 39594846,
+            "answer_count": 2,
+            "tags": [
+                "python",
+                "json",
+                "pandas"
+            ],
+            "link": "http://stackoverflow.com/questions/39593821/convert-a-dict-to-a-pandas-dataframe",
+            "is_answered": true,
+            "last_edit_date": 1474375079,
+            "score": 2,
+            "owner": {
+                "link": "http://stackoverflow.com/users/4745336/mitsi",
+                "reputation": 80,
+                "user_type": "registered",
+                "display_name": "mitsi",
+                "accept_rate": 100,
+                "profile_image": "https://www.gravatar.com/avatar/b95ee122d064c4b0467bf5eec519a4af?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4745336
+            },
+            "title": "Convert a dict to a pandas DataFrame",
+            "question_id": 39593821
+        },
+        {
+            "view_count": 35,
+            "down_vote_count": 0,
+            "creation_date": 1474372942,
+            "last_activity_date": 1474466062,
+            "answer_count": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "seaborn"
+            ],
+            "link": "http://stackoverflow.com/questions/39593569/changing-major-minor-axis-interval-and-color-scheme-for-heatmap",
+            "is_answered": false,
+            "score": 0,
+            "owner": {
+                "link": "http://stackoverflow.com/users/2532296/user2532296",
+                "reputation": 319,
+                "user_type": "registered",
+                "display_name": "user2532296",
+                "accept_rate": 78,
+                "profile_image": "https://www.gravatar.com/avatar/f1bb8f49fd7e3c29aa5c9819232a2f40?s=128&d=identicon&r=PG",
+                "user_id": 2532296
+            },
+            "title": "changing major/minor axis interval and color scheme for heatmap",
+            "question_id": 39593569
+        }
+    ]
+}

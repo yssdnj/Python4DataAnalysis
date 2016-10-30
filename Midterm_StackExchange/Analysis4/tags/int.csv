@@ -1,0 +1,4 @@
+QuesID,    AnsCount,    QuesTitle
+39694192,2,Convert string column to integer
+39619295,1,Integer parameter in pandas DataFrame.drop function
+39608282,3,Pandas error trying to convert string into integer

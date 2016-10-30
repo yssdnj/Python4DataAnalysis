@@ -1,0 +1,7 @@
+QuesID,    AnsCount,    QuesTitle
+39663596,1,spark Dataframe/RDD equivalent to pandas command given in description?
+39623858,1,Creating a Pandas DataFrame with HDFS file in .csv format
+39587451,2,"How to extract year and week number in a dataframe and put it in a new column, python"
+39555091,0,Pyspark save `datetime` to 15-digits int
+39550147,3,Convert Pandas Dataframe from Row based to Columnar
+39521341,1,pyspark error: AttributeError: &#39;SparkSession&#39; object has no attribute &#39;parallelize&#39;

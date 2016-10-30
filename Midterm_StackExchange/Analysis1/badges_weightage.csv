@@ -1,0 +1,601 @@
+user_id,weightage,bronze,silver,gold,question title
+194000,0.188442,190,104,33,Store array of string values in column in pandas?
+1179880,0.1799,169,86,35,Faster method of looping through pixels
+140100,0.174147,167,101,30,converting dataframe to list of tuples on condition
+316082,0.102367,110,59,17,AttributeError: module &#39;mypandas&#39; has no attribute &#39;print_pandas_df&#39;
+559827,0.09336,131,57,13,On the default/fill value for *multi-key* outer joins
+559827,0.09336,131,57,13,On the default/fill value for outer joins
+213334,0.092587,107,53,15,How to handle JSON documents that have float values with no leading zeroes before decimal points?
+213334,0.092587,107,53,15,How to import normalised json data from several files into a pandas dataframe?
+213334,0.092587,107,53,15,Convert pandas dataframe column with xml data to normalised columns?
+626537,0.082455,118,52,11,pandas: error on DataFrame.unstack
+2411320,0.079892,75,36,16,sklearn SVM performing awfully poor
+222151,0.076373,74,40,14,"Pandas, Concurrent.Futures and the GIL"
+222151,0.076373,74,40,14,Mean of a Pandas Panel
+405818,0.074006,74,36,14,Fill missing values of 1 data frame from another data frame using pandas
+1317018,0.067304,78,38,11,"Converting python tuple, lists, dictionaries containing pandas objects (series/dataframes) to json"
+53491,0.066787,87,49,8,"How to delete duplicates, but keep the first instance and a blank cell for the duplicates in Pandas?"
+3510736,0.052924,74,39,6,Is There Complete Overlap Between `pd.pivot_table` and `pd.DataFrame.groupby` + `pd.DataFrame.unstack`?
+274392,0.050728,75,35,6,Python Pandas - how is 25 percentile calculated by describe function
+668624,0.04487,65,28,6,pd.read_csv by default treats integers like floats
+668624,0.04487,65,28,6,testing for NaN values: df[df[&#39;col1&#39;] == np.nan] does NOT equal np.isnan(df[&#39;col1&#39;])
+668624,0.04487,65,28,6,determine length (or number of digits) of every row in column
+2146894,0.042681,62,30,5,How to make a group id using pandas
+328725,0.042675,66,24,6,Trying to plot a dataframe with missing values (None)
+104969,0.040709,58,23,6,Calculating weighted moving average using pandas Rolling method
+48956,0.039214,55,31,4,pandas.Series.get fails with: object has no attribute &#39;values&#39;
+998967,0.038229,47,22,6,Pandas - column not found in dataframe
+2251840,0.037662,50,25,5,How to compare dataframe unique values with a list?
+1708772,0.036881,42,26,5,Python Conditionally Add Class to &lt;td&gt; Tags in HTML Table
+2213669,0.036402,53,22,5,Python: creating a group column in a Pandas dataframe based on an integer range of values
+992600,0.035912,53,26,4,Convert column&#39;s data to enumerated dictionary key-value
+2342399,0.034927,45,17,6,pandas: rename axis in df
+2336654,0.032362,53,20,4,convenient way to reindex one level of a multiindex
+2336654,0.032362,53,20,4,find the manhatten sum of a dataframe given two points
+2336654,0.032362,53,20,4,How do I display floats as currency with negative sign before currency
+2336654,0.032362,53,20,4,how to use the `query` method to check if elements of a column contain a specific string
+2336654,0.032362,53,20,4,extend a pandas datetimeindex by 1 period
+2336654,0.032362,53,20,4,How do I replace all values equal to x in nth level of a multi index
+2336654,0.032362,53,20,4,twist dataframe by rank
+420892,0.028131,45,20,3,Pandas replace a character in all column names
+2821224,0.025703,28,16,4,Pandas how to split dataframe by column by interval
+2821224,0.025703,28,16,4,"Pandas, split dataframe by monotonic increase of column value"
+2821224,0.025703,28,16,4,Panda how to groupby rows into different time buckets?
+1052985,0.025703,28,16,4,Plot multiple series with non-overlapping x-axis
+2821224,0.025703,28,16,4,Panda group dataframe based on datetime type into different period ignoring date part
+2378710,0.024538,35,12,4,Group data into classes with numpy
+2378710,0.024538,35,12,4,Concatenate numpy array to pandas dataframe
+2378710,0.024538,35,12,4,Elementwise operation on pandas series
+1231450,0.022882,42,12,3,DataFrame value startswith
+1231450,0.022882,42,12,3,Pandas dataframe slicing
+1625098,0.022769,31,15,3,Convert range to timestamp in Pandas
+948655,0.022125,37,17,2,Python Pandas select rows based on membership of another collection (set)
+454773,0.021825,45,19,1,Setting a row index on and querying a pandas dataframe with multi-index columns
+1118236,0.01939,32,9,3,Pandas Dataframe return index with inaccurate decimals
+847663,0.018772,41,15,1,How to measure the memory footprint of importing pandas?
+1609428,0.01848,33,12,2,how to slice and combine specific row values in a Pandas groupby?
+1479974,0.017845,23,9,3,Pandas: create word cloud from a column with strings
+1479974,0.017845,23,9,3,pandas: replace string with another string
+1479974,0.017845,23,9,3,Pandas: How to open certain files
+1479974,0.017845,23,9,3,Matplotlib: skip xtick for dates
+1479974,0.017845,23,9,3,Pandas: remove encoding from the string
+1479974,0.017845,23,9,3,pandas: slice dataframe based on NaN
+1479974,0.017845,23,9,3,pandas: extract date and time from timestamp
+1479974,0.017845,23,9,3,python: best way convey missing value count
+1082349,0.017245,39,13,1,Parallelize groupby with multiple arguments
+1082349,0.017245,39,13,1,Efficiently collect links in dataframe
+1082349,0.017245,39,13,1,Pandas replaces NAN with arbitrary number when to_latex
+1496984,0.015657,20,11,2,pandas - Merging on string columns not working (bug?)
+1496984,0.015657,20,11,2,scikit-learn - train_test_split and ShuffleSplit yielding very different results
+1290147,0.014713,34,15,0,Merging mutliple pandas dfs time series on DATE index and which are contained in a python dictionary
+2752265,0.01444,33,10,1,How to use a pandas DataFrame as data parameter in Seaborn lmplot
+2752265,0.01444,33,10,1,Count how many attributes have a word as a substring of longer text value
+2752265,0.01444,33,10,1,Finding value of another attribute given an attribute
+440732,0.013976,24,7,2,sum of &#39;float64&#39; column type in pandas return float instead of numpy.float64
+1887261,0.013701,35,13,0,Select certain row values and make them columns in pandas
+2179021,0.012441,38,10,0,How to separate a numpy array into separate columns in pandas
+2179021,0.012441,38,10,0,How to divide the sum with the size in a pandas groupby
+2179021,0.012441,38,10,0,How to swap columns conditionally in pandas
+2179021,0.012441,38,10,0,How to create an adjacency list from an edge list efficiently
+2179021,0.012441,38,10,0,Pandas groupby where all columns are added to a list prefixed by column name
+2769240,0.012036,19,10,1,Running a Python function on Spark Dataframe
+4759209,0.011978,29,7,1,Pandas.read_csv() with special characters (accents) in column names �
+1236336,0.011883,25,8,1,Filtering / smoothing a step function to retrieve biggest increments
+3993270,0.011067,30,10,0,python pandas: date/time function to compute time period
+3993270,0.011067,30,10,0,pandas histogram: plot histogram for each column as subplot of a big figure
+3993270,0.011067,30,10,0,pandas: find percentile stats of a given column
+3993270,0.011067,30,10,0,pyspark error: AttributeError: &#39;SparkSession&#39; object has no attribute &#39;parallelize&#39;
+3993270,0.011067,30,10,0,pandas: Using color in a scatter plot
+1700890,0.011024,20,8,1,"Pandas crosstab, but with values from aggregation of third column"
+2242044,0.010896,29,10,0,getting percentage of values meeting conditions within a Pandas group by
+2242044,0.010896,29,10,0,Adding Grouped Dataframes
+1568919,0.010509,17,8,1,Pandas - Expand DataFrame by fetching data using one column
+1568919,0.010509,17,8,1,pandas elementwise difference between two DatetimeIndex
+1764089,0.010209,25,10,0,sqlalchemy / pandas - How do I create an sqlalchemy `selectable` to pass to pd.read_sql?
+1754273,0.009918,17,7,1,Solving sets of non-linear equations as an array
+1269634,0.009789,26,9,0,How can I resample a DataFrame so that it is properly aligned with another DataFrame?
+969907,0.009669,19,6,1,Pandas - applying groupings and counts to multiple columns in order to generate/change a dataframe
+2204131,0.009593,22,5,1,Pandas: strip numbers and parenthesis from string
+2370863,0.009274,23,9,0,Filtering a multiindex dataframe based on column values dropping all rows inside level
+1718097,0.008811,14,6,1,Converting between projections using pyproj in Pandas dataframe
+433253,0.008682,23,8,0,BeautifulSoup table object with rowspan to pandas dataframe
+2587904,0.008511,22,8,0,Python deduplicate records - dedupe
+2587904,0.008511,22,8,0,How to get data from R to pandas
+2587904,0.008511,22,8,0,Pandas NaN introduced by pivot_table
+2587904,0.008511,22,8,0,Pandas per group imputation of missing values
+2587904,0.008511,22,8,0,Pandas nested dict to dataframe
+2587904,0.008511,22,8,0,Pandas append multiple columns for a single one
+2587904,0.008511,22,8,0,Pandas operations on selected columns
+4802797,0.008434,25,7,0,rename the pandas Series
+2023986,0.008219,14,5,1,&#39;expected string or buffer&#39; when using re.match with pandas
+1678467,0.008167,20,8,0,Python function redefines variables that are not passed
+1035217,0.007971,16,4,1,Python Pandas Debugging on to_datetime
+1035217,0.007971,16,4,1,Pandas Join Two Tables Based On Time Condition
+1035217,0.007971,16,4,1,Python Pandas .Apply Function to Vectorized Form
+3779667,0.007747,21,7,0,Pandas groupby and sum operators
+3430345,0.007532,10,5,1,Set a current row in a dataframe based off of future values
+5110870,0.007327,22,6,0,Pandas: adding new column to existing Data Frame for grouping purposes
+5110870,0.007327,22,6,0,Pandas: how to draw a bar plot with two categories and four series each?
+5110870,0.007327,22,6,0,Pandas: how to plot a line in a scatter and bring it to the back/front?
+165658,0.007284,12,4,1,Cumulative Set in PANDAS
+4909923,0.00725,25,5,0,Pandas: KeyError when attempting to print value from df.loc in Excel file
+4909923,0.00725,25,5,0,"Pandas: Set variable to value in cell, if another cell on same row contains string"
+1172265,0.006735,22,5,0,Reduction the Pandas dataframe to other dataframe
+2384800,0.006692,12,3,1,Create or modify DataFrame using another DataFrame
+4800086,0.006616,15,2,1,Writing pandas DataFrame to JSON in unicode
+3864281,0.006392,20,5,0,reindex some DataFrame columns to multi index
+2308132,0.006024,15,1,1,Normalise between 0 and 1 ignoring NaN
+1961582,0.005929,11,2,1,Update Pandas dataframe value based on present value
+2013448,0.005782,13,6,0,Create a 2D plot pixel grid based on a pandas series of lists
+5029589,0.005457,18,4,0,Group by Column in Dataframe and create seperate csv for each group
+4114372,0.00538,21,3,0,How to create a pandas &quot;link&quot; (href) style?
+6284734,0.005337,11,1,1,pandas series drop when multiindex is not unique
+5209231,0.005337,11,1,1,python pandas summarizing nominal variables (counting)
+6464893,0.005037,19,3,0,Skip first row in pandas dataframe when creating list
+1097200,0.004994,9,1,1,Fancy time series grouping operations with Pandas dataframe
+2756793,0.004942,15,4,0,Python Pandas: SettingWithCopyWarning appearing only on first execution in new console
+2756793,0.004942,15,4,0,Pandas: Change values chosen by boolean indexing in a column without getting a warning
+671211,0.004942,15,4,0,Sort tenors in finance notation
+2753629,0.004942,15,4,0,Splitting stacked dataframe in pandas
+4995876,0.004865,18,3,0,Pandas relabel rows to recognize unique values within a groupby
+4995876,0.004865,18,3,0,pandas histogram with by: possible to make axes uniform?
+4995876,0.004865,18,3,0,Get bar heights on pandas hist plot to sum to 1
+1842486,0.004865,18,3,0,pandas dataframe issue with special characters
+4544413,0.004847,11,5,0,Join dataframes by column values pandas
+2712770,0.004694,17,3,0,"&quot;Already tz-aware&quot; error when reading h5 file using pandas, python 3 (but not 2)"
+4143292,0.004522,16,3,0,Identify cells containing specific strings and overwrite content with numbers using Python
+3340234,0.004522,16,3,0,"How to break numpy array into smaller chunks/batches, then iterate through them"
+4143292,0.004522,16,3,0,How to partially remove content from cell in a dataframe using Python
+517835,0.004522,16,3,0,"For half-hourly intervals can I use Pandas TimeDeltaIndex, PeriodIndex or DateTimeIndex?"
+3340234,0.004522,16,3,0,Tensorflow: loss is decreasing normally but accuracy is fluctuating through couple of value
+4143292,0.004522,16,3,0,Copying (efficiently) dataframe content inside of another dataframe using Python
+4143292,0.004522,16,3,0,Convert whole dataframe from lower case to upper case with Pandas
+3763732,0.004522,16,3,0,Pandas: Drop quasi-duplicates by column values
+2605262,0.004427,12,4,0,Pandas Grouping By Datetime
+2605262,0.004427,12,4,0,"Pandas groupby datetime, getting the count and price"
+2605262,0.004427,12,4,0,TypeError for bar plot with custom date range
+2605262,0.004427,12,4,0,Pandas delete all rows that are not a &#39;datetime&#39; type
+3130926,0.00435,15,3,0,pandas reset_index after groupby.value_counts()
+4169892,0.00435,15,3,0,pandas error when convert object to datetime
+2817602,0.004179,14,3,0,Counting occurrence of a gender in a dataframe by age
+4706745,0.004179,14,3,0,How to append several data frame into one
+4706745,0.004179,14,3,0,How to sort/ group a Pandas data frame by class label or any specific column
+1752959,0.004179,14,3,0,Find cells in dataframe where value is between x and y
+3142347,0.004179,14,3,0,Pandas check if row exist in another dataframe and append index
+6664393,0.004102,17,2,0,"Getting the last value for each week, with the matching date"
+2218402,0.004084,10,4,0,Pandas DatetimeIndex strange behaviour
+3314282,0.00393,16,2,0,Python Pandas Groupby-Apply Returning &#39;ValueError: Wrong number of items passed..&#39;
+3895697,0.003835,12,3,0,Issue with null character received by qpython/pandas from kdb
+3604836,0.003759,15,2,0,Python: Add Mean Column by Symbol Column
+5061557,0.003759,15,2,0,Calculate cumulative p_value hourly in pandas
+1566200,0.003492,10,3,0,Transposing a subset of columns in a Pandas DataFrame while using others as grouping variable?
+3782963,0.003415,13,2,0,Get minimum number column wise in a multidimensional Pandas DataFrame - Python
+3960038,0.003415,13,2,0,Pandas `read_json` function converts strings to DateTime objects even the `convert_dates=False` attr is specified
+3107858,0.003415,13,2,0,Pandas Dataframe automatic typecasting
+2272156,0.003415,13,2,0,Create new column in pandas based on value of another column
+4697430,0.003338,16,1,0,pandas assign value based on mean
+5319229,0.003338,16,1,0,How to Combine CSV Files with Pandas (And Add Identifying Column)
+5319229,0.003338,16,1,0,Appropriate Time to Dynamically Set Variable Names?
+1017373,0.003244,12,2,0,Merging multiple dataframe bassed on matching values from three column into single dataframe
+1017373,0.003244,12,2,0,Mapping multiple dataframe based on the matching columns
+2532296,0.003167,15,1,0,changing major/minor axis interval and color scheme for heatmap
+4896087,0.003167,15,1,0,How to find out number of unique rows within a pandas groupby object?
+5366046,0.003072,11,2,0,Aggregate dataframe indices in python
+5366046,0.003072,11,2,0,"python .loc with some condition(string, regex etc)"
+5366046,0.003072,11,2,0,Get pandas subseries by values when each value is a ndarray
+1785589,0.003072,11,2,0,multiple conditions for np.where python pandas
+2965601,0.002995,14,1,0,Python Pandas: Write certain rows in file
+513355,0.002995,14,1,0,"How to convert pandas dataframe rows into columns, based on category?"
+2965601,0.002995,14,1,0,Python Pandas: Reuse stored means correctly to replace nan
+4309943,0.002995,14,1,0,Can I set variable column widths in pandas?
+2965601,0.002995,14,1,0,Python Pandas: Retrieve id of data from a chunk
+5062134,0.0029,10,2,0,combining two pandas dataframes as single json output
+4203807,0.0029,10,2,0,Trying to use pandas pivot like excel pivot
+1025255,0.0029,10,2,0,Can a pandas DataFrame hold non-scalar values?
+5062134,0.0029,10,2,0,replacing html syntax/ascii code in pandas columns
+6005062,0.002823,13,1,0,"In python, speed up pandas.DataFrame.loc performance within for loops"
+3115675,0.002823,13,1,0,(Python) Using DictVectoriser from sklearn class with strings
+3419728,0.002728,9,2,0,Marking certain days in date indexed pandas dataframes
+2965673,0.002728,9,2,0,Fill in time data in pandas
+3288092,0.002652,12,1,0,Comparing a dataframe on string lengths for different columns
+1219003,0.002652,12,1,0,What is the best way to represent or shape data with &gt;700 features for classification?
+3288092,0.002652,12,1,0,Getting substring based on another column in a pandas dataframe
+5487839,0.002652,12,1,0,Python error when calling column data from Pandas DataFrame
+5487839,0.002652,12,1,0,building datetime from 3 integer/float columns in pandas
+1219003,0.002652,12,1,0,Process a list in a Dataframe column
+1431625,0.002557,8,2,0,Pandas Dataframe performance vs list performance
+5235265,0.00248,11,1,0,rolling apply in pandas shows &quot;TypeError: only length-1 arrays can be converted to Python scalars&quot;
+5491423,0.00248,11,1,0,Integer parameter in pandas DataFrame.drop function
+2402501,0.002308,10,1,0,Python DataFrame Transform Rows to Column
+2857982,0.002308,10,1,0,How to row-wise concatenate several columns containing strings?
+6609272,0.002308,10,1,0,Finding efficiently pandas (part of) rows with unique values
+5405782,0.002308,10,1,0,Format a table that was added to a plot using pandas.DataFrame.plot
+5405782,0.002308,10,1,0,Error when trying to write a matplotlib plot from Pandas DataFrame to pdf
+4115378,0.002137,9,1,0,"Indexing dataframe by datetime python ignoring hour, minutes, seconds"
+1675909,0.002137,9,1,0,Counting Mulitple Values in a Python pandas Dataframe Column
+1934212,0.002137,9,1,0,Weird artefacts in a matplotlib bar plot
+3430943,0.002137,9,1,0,Pandas GroupBy Doesn&#39;t Persist After Applying Quantiles?
+1934212,0.002137,9,1,0,Adding items to empty pandas DataFrame
+3906918,0.002137,9,1,0,How can I advance the index of a pandas.dataframe by one quarter?
+6222331,0.002137,9,1,0,covariance between two columns in pandas groupby pandas
+4936409,0.002137,9,1,0,subtract consecutive rows from a .dat file
+4972716,0.002137,9,1,0,Key error in data-frame handling
+6222331,0.002137,9,1,0,dask dataframe how to convert column to to_datetime
+4936409,0.002137,9,1,0,Subtracting the rows of a column from the preceding rows in a python pandas dataframe
+1934212,0.002137,9,1,0,Cannot combine bar and line plot using pandas plot() function
+4115378,0.002137,9,1,0,Formatting datetime for plotting time-series with pandas
+2259735,0.00206,12,0,0,"Cannot get pandas to open CSV [Python, Jupyter, Pandas]"
+2013250,0.00206,12,0,0,numpy/scipy Python Equivalent of R code for rolling rank
+2770803,0.00206,12,0,0,Calling a subset of a dataset
+4464245,0.00206,12,0,0,np reshape within pandas apply
+2770803,0.00206,12,0,0,Replacing NA in my dataframe in python
+4044400,0.00206,12,0,0,LabelEncoder().fit_transform vs. pd.get_dummies for categorical coding
+4464245,0.00206,12,0,0,Pandas convert columns type from list to np.array
+4044400,0.00206,12,0,0,How To Combine Multiple Rows Into One Based on Shared Value in Pandas
+4464245,0.00206,12,0,0,"Group a list of dates by month, year"
+4484709,0.00206,12,0,0,Pandas Nested functions: apply does not seem to recognize internal function
+4981251,0.001965,8,1,0,pd.rolling_max and min with groupby or similar
+4981251,0.001965,8,1,0,Dataframe column showing half hour intervals
+3839243,0.001888,11,0,0,Pandas groupby over list
+4313321,0.001888,11,0,0,How to calculate the values of a pandas DataFrame column depending on the results of a rolling function from another column
+5199451,0.001888,11,0,0,pandas: sort alphabetically if rows have same rank
+2322973,0.001888,11,0,0,Plotting a type of Histogram
+2277435,0.001888,11,0,0,n-dataframes inner joined to final dataframe
+3502161,0.001793,7,1,0,Python - Perform a FIFO operation on data in Pandas DataFrame
+4554446,0.001793,7,1,0,querying panda df to filter rows where a column is not Nan
+1344508,0.001793,7,1,0,regain formatting for a Python Pandas dataframe
+3197044,0.001793,7,1,0,Pandas extract comment lines
+1909918,0.001793,7,1,0,expanding rows in pandas dataframe
+5784297,0.001717,10,0,0,Fill missing values from another Pandas dataframe with different shape
+4866196,0.001717,10,0,0,how to fill color cells with 2 percentage data from other cells
+3471881,0.001717,10,0,0,Pandas pivot_table to calculate share of margin
+6108661,0.001717,10,0,0,pandas assign with new column name as string
+6696657,0.001717,10,0,0,Printing Column Names and Values in Dataframe
+6507553,0.001717,10,0,0,How to compare four columns of pandas dataframe at a time?
+3471881,0.001717,10,0,0,"Pandas add column values based on dict, cannot reindex from a duplicate axis"
+6507553,0.001717,10,0,0,How to compare decimal numbers available in columns of pandas dataframe?
+3471881,0.001717,10,0,0,Add column to dataframe based on date column range
+6507553,0.001717,10,0,0,How to check values of column in one dataframe available or not in column of another dataframe?
+2564864,0.001622,6,1,0,"Python, Pandas - Issue applying function to a column in a dataframe to replace only certain items"
+3707237,0.001622,6,1,0,How can I average ACROSS groups in python-pandas?
+1736893,0.001622,6,1,0,Python Pandas Data sampling/aggregation
+4661552,0.001545,9,0,0,Mapping data from other dataset. Python Pandas
+4661552,0.001545,9,0,0,Display values that does not end with &quot;.0&quot; Python Pandas
+2367240,0.001545,9,0,0,Looking up Pandas dataFrame
+4661552,0.001545,9,0,0,Intergrating 2 dataframes based on specific column values
+6201445,0.001545,9,0,0,text to columns with comma delimiter using python
+2916309,0.001545,9,0,0,how to insert new row in pandas data frame at desired index
+3121439,0.001545,9,0,0,How to assign unique identifier to DataFrame row
+3182105,0.001545,9,0,0,Pandas: Compare a column to all other columns of a dataframe
+5436714,0.001545,9,0,0,Parse pandas df column with regex extracting substrings
+3121439,0.001545,9,0,0,Columns blank after join
+3121439,0.001545,9,0,0,how to add coordinate array as rows in panda dataframe
+6204900,0.001545,9,0,0,Using `apply` on datetime64 series in pandas
+5698888,0.001545,9,0,0,"How to extract year and week number in a dataframe and put it in a new column, python"
+4215394,0.001545,9,0,0,Include two different sized data frames together in a pandas panel
+4661552,0.001545,9,0,0,Changing values in column selectively. Python Pandas
+1206923,0.001545,9,0,0,Convert Python project to Cython
+5436714,0.001545,9,0,0,Pandas and apply function to match a string
+2002061,0.001545,9,0,0,Pandas tz_localize: Infer dst when localizing timezone in data with duplicates
+6621781,0.00145,5,1,0,Pyspark save `datetime` to 15-digits int
+6139162,0.001373,8,0,0,concatenate excel datas with python or Excel
+5976692,0.001373,8,0,0,Can I use pandas.dataframe.isin() with a numeric tolerance parameter?
+4713504,0.001373,8,0,0,Pandas pd.cut Field Where Other Field Equals Value
+6627176,0.001373,8,0,0,Insert fig into excel workbook using a for loop and pandas
+4567933,0.001373,8,0,0,Display Pandas DataFrame in csv format
+4695774,0.001373,8,0,0,dataframe column slices excluding specific columns
+5320219,0.001373,8,0,0,Pandas series.rename gives TypeError: &#39;str&#39; object is not callable error
+5946185,0.001373,8,0,0,Convert Pandas dataframe to Dask dataframe
+6724844,0.001373,8,0,0,groupby and add some rows
+3609179,0.001373,8,0,0,python pandas parse date without delimiters &#39;time data &#39;060116&#39; does not match format &#39;%dd%mm%YY&#39; (match)&#39;
+6627176,0.001373,8,0,0,strftime function pandas - Python
+6724844,0.001373,8,0,0,How to add new column with handling nan value
+4402942,0.001373,8,0,0,Pandas dataframe pivot - Memory Error
+828602,0.001373,8,0,0,Convert string column to integer
+6773083,0.001373,8,0,0,name &#39;CustomBusinessDay&#39; is not defined
+2629357,0.001373,8,0,0,Pandas apply with list output gives ValueError once df contains timeseries
+6724844,0.001373,8,0,0,How to groupby time series data
+4810381,0.001373,8,0,0,Is it a good idea to apply ML libraries on pandas data frame?
+5617886,0.001373,8,0,0,spark Dataframe/RDD equivalent to pandas command given in description?
+6263724,0.001373,8,0,0,Complex time operations in Pandas
+828602,0.001373,8,0,0,Applying condition and update on same column
+828602,0.001373,8,0,0,Convert float to int and leave nulls
+6386056,0.001373,8,0,0,Python pandas most pythonic way to calculate rolling betas on a DataFrame
+6724844,0.001373,8,0,0,How to check whether particular column completely match or not
+3609179,0.001373,8,0,0,python pandas &#39;AttributeError: Can only use .dt accessor with datetimelike values&#39; decimal to hours
+4713173,0.001373,8,0,0,Concatenate or Average A Dataframe In A Function
+6532319,0.001373,8,0,0,Derive extra column from Pandas dataframe columns
+4483411,0.001373,8,0,0,Add prefix to specific columns of Dataframe
+6564826,0.001373,8,0,0,pandas date to string
+5550203,0.001373,8,0,0,Pandas DataFrame with date and time from JSON format
+5040701,0.001373,8,0,0,Pulling data from from a dataframe in pandas using size method
+6056160,0.001373,8,0,0,Do something to every row on a pandas dataframe
+4916076,0.001373,8,0,0,How to get a list of useless features using sklearn?
+3609179,0.001373,8,0,0,Parsing an irregularly spaced text file in Python pandas
+4566565,0.001373,8,0,0,vectorize upper level of a vectoized code - python - numpy
+4695774,0.001373,8,0,0,how to initialize multiple columns to existing pandas DataFrame
+4610828,0.001373,8,0,0,Return Pandas DataFrame references/names to a list?
+6538640,0.001373,8,0,0,Trying to loop over colums in DataFrame and strip Dollar Sign
+4567933,0.001373,8,0,0,Pandas DataFrame slicing based on logical conditions?
+4695774,0.001373,8,0,0,"get desired element in numpy array of unequal row lengths, without using for loop"
+4695774,0.001373,8,0,0,convert pandas timedelta output from days to quarter
+4847498,0.001373,8,0,0,Extract series objects from Pandas DataFrame
+4713173,0.001373,8,0,0,Write Pandas Series Vertically using to_csv
+4776662,0.001373,8,0,0,Python pandas nonzero cumsum
+5095138,0.001373,8,0,0,Identifying overlapping rows in multiple dataframes
+5617886,0.001373,8,0,0,How to drop columns which have same values in all rows via pandas or spark dataframe?
+4713504,0.001373,8,0,0,PANDAS Combine Rows And Preserve Column Order
+6538640,0.001373,8,0,0,"Combining Rows of two DataFrames, then deleting repeat entries"
+5040701,0.001373,8,0,0,"Pandas/python and working with a column, in a dataframe, with a date"
+3547465,0.001278,4,1,0,Mapping each element in list to different column in pandas dataframe
+4424682,0.001278,4,1,0,Pandas: when can I directly assign to values array
+3698214,0.001202,7,0,0,Pandas Multicolumn Groupby Plotting
+3547551,0.001202,7,0,0,Need to edit subset of rows from MySQL table using Pandas Dataframe
+6777053,0.001202,7,0,0,Assign Unique Values according Distinct Columns Values
+5236124,0.001202,7,0,0,Pandas groupby sum
+6890604,0.001202,7,0,0,Python Pandas datetime64[ns] comparision
+5093471,0.001202,7,0,0,Convert Pandas Dataframe from Row based to Columnar
+6840039,0.001202,7,0,0,"TypeError: first argument must be an iterable of pandas objects, you passed an object of type &quot;DataFrame&quot;"
+6840039,0.001202,7,0,0,Pandas: groupby with condition
+3822779,0.001202,7,0,0,Get List of Unique String values per column in a dataframe using python
+6206935,0.001202,7,0,0,How to find max in dataframe with in a certain length in python?
+6485635,0.001202,7,0,0,Loop over groups Pandas Dataframe and get sum/count
+6485635,0.001202,7,0,0,Group DataFrame by period of time with aggregation
+3285014,0.001202,7,0,0,Compare between 2 Excel files and give difference based on key column
+6840039,0.001202,7,0,0,Pandas: aggregate data through the dataframe
+6485635,0.001202,7,0,0,From DatetimeIndex to list of times
+6840039,0.001202,7,0,0,Pandas: write condition to filter in dataframe
+6777053,0.001202,7,0,0,Shifting Column to the left Pandas Dataframe
+6777053,0.001202,7,0,0,Merging 2 dataframe using similar columns
+6545542,0.001202,7,0,0,Create groups/classes based on conditions within columns
+6840039,0.001202,7,0,0,python: generate numeric column to column with string
+5718518,0.001202,7,0,0,Selecting certain features from a dataset according to a list.
+6071128,0.001202,7,0,0,TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; (python 2.7)
+5437137,0.001202,7,0,0,Append row with counts in PANDAS
+6877346,0.001202,7,0,0,List in column Python + Pandas
+6530451,0.001202,7,0,0,Assigning indicators based on observation quantile
+3822779,0.001202,7,0,0,How to use pd.melt for two rows as headers
+6890604,0.001202,7,0,0,pandas.DataFrame returns Series not a Dataframe
+6491801,0.001202,7,0,0,Python pandas dataframe sort_values does not work
+4745336,0.001202,7,0,0,Convert a dict to a pandas DataFrame
+6117337,0.001202,7,0,0,How to extract date form data frame column?
+5093471,0.001202,7,0,0,Transform to normal Data Frame which has row as list. Split rows to column
+6840039,0.001202,7,0,0,Pandas: concatenate dataframes
+6890604,0.001202,7,0,0,Pandas Dataframe Data Type Conversion or Isomap Transformation
+5376493,0.001202,7,0,0,Python unique values per column in csv file row
+6491801,0.001202,7,0,0,Pandas read_csv does not get the last line in the CSV in python
+5744310,0.001202,7,0,0,"Pandas scatter_matrix analog function to pairs(lower.panel, upper.panel)"
+5405545,0.001202,7,0,0,Getting percentages after binning pandas dataframe
+3698214,0.001202,7,0,0,"Pandas group by, filter &amp; plot"
+6840039,0.001202,7,0,0,Pandas: count some values in a column
+5426588,0.001202,7,0,0,Python: Replace df1.col values with df2.col2 values
+5718518,0.001202,7,0,0,Selecting values from a series in pandas
+6777053,0.001202,7,0,0,Count the number of Occurrence of Values based on another column
+5405545,0.001202,7,0,0,Creating summary rows in pivot tables
+5536001,0.001202,7,0,0,Advantages of SQLAlchemy instead of straight pymssql
+4872718,0.001202,7,0,0,Sum up values in a column using Pandas
+6840039,0.001202,7,0,0,Python: read files from directory and concatenate that
+6485635,0.001202,7,0,0,Resampling timeseries with a given timedelta
+3822779,0.001202,7,0,0,pandas.io.common.CParserError: Error tokenizing data. C error: out of memory
+5239351,0.00103,6,0,0,Removing values from dataframe based on groupby condition
+1650345,0.00103,6,0,0,Setting pandas.DataFrame string dtype (not file based)
+6571492,0.00103,6,0,0,"How do I get np.where to accept more arguments, so it will filter &gt;, &lt; , and =; not just &gt; and &lt;?"
+6295849,0.00103,6,0,0,How do I do diff analysis across grouped records?
+6719911,0.00103,6,0,0,Python for loop over two lists for all the pairs
+5263412,0.00103,6,0,0,Pandas broadcasting values given logical condition in group by
+6163540,0.00103,6,0,0,Aggregate function to data frame in pandas
+5865631,0.00103,6,0,0,How can I sort datetime columns by row value in a Pandas dataframe?
+5677595,0.00103,6,0,0,Pivot Table with All the Index
+5239351,0.00103,6,0,0,Faster way of converting Date column to weekday name in Pandas
+5239351,0.00103,6,0,0,Counting values using pandas groupby
+6661895,0.00103,6,0,0,Insert list into cells which meet column conditions
+2582017,0.00103,6,0,0,Apply weight formula over rows of Dataframe Pandas
+6806330,0.00103,6,0,0,Transpose the data in a column every nth rows in PANDAS
+4541216,0.00103,6,0,0,python pandas groupby sorting and concatenating
+6506593,0.00103,6,0,0,Select Columns in pandas DF
+2182234,0.00103,6,0,0,Pandas HDF5 Showing Large Overhead per Observation
+5367974,0.00103,6,0,0,Rearranging groupings in bar chart from pandas dataframe
+4530884,0.00103,6,0,0,Using set_index within a custom function
+4541216,0.00103,6,0,0,python pandas/numpy quick way of replacing all values according to a mapping scheme
+5337399,0.00103,6,0,0,Replace values in a dataframes using other dataframe with strings as keys with Pandas
+2582017,0.00103,6,0,0,TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; even after using np.multiply
+3415821,0.00103,6,0,0,python dataframe std deviation of a column/row containing all Nan values except one element
+2582017,0.00103,6,0,0,how to add a row to a Datetime Multiindex Panda Dataframe
+6571492,0.00103,6,0,0,"Trying to plot a random series on a chart with matplotlib, but the chart will not display when the programe is ran."
+219992,0.00103,6,0,0,Pandas memory consumption after reading HDF5 file
+2582017,0.00103,6,0,0,How to access prior rows within a multiindex Panda dataframe
+6719911,0.00103,6,0,0,Index values of specific rows in python
+5179643,0.00103,6,0,0,Ignore preceding values for a given column when calculating rolling.mean using Pandas
+5301837,0.00103,6,0,0,How to get distinct count of keys along with other aggregations in pandas
+6661895,0.00103,6,0,0,Creating a list based on column conditions
+2582017,0.00103,6,0,0,Apply Numpy function over entire Dataframe
+5606318,0.00103,6,0,0,Pandas error trying to convert string into integer
+6163540,0.00103,6,0,0,Create a set from a series in pandas
+6875401,0.00103,6,0,0,Unable to import csv file to python using the pd.read_csv command
+3937192,0.00103,6,0,0,fill NaN with another lookup table
+5904495,0.00103,6,0,0,Quickly sampling large number of rows from large dataframes in python
+4229273,0.00103,6,0,0,Is there a more pythonic way to write this?
+6163540,0.00103,6,0,0,Rename several unnamed columns in a pandas dataframe
+1590555,0.00103,6,0,0,Pandas group by chunks not single values
+5179643,0.00103,6,0,0,Pandas rolling.mean is returning unexpected values
+6571492,0.00103,6,0,0,"I can load multiple stock tickers from yahoo finance, but I am having trouble adding new columns before it is saved to a csv"
+4264062,0.00103,6,0,0,Apply shift for comparison on multiple columns over groupby pandas
+6618225,0.00103,6,0,0,Calculate a new column with Pandas
+2582017,0.00103,6,0,0,substract from date tuple
+6618225,0.00103,6,0,0,Define date format in Python / Pandas
+2582017,0.00103,6,0,0,Apply a weight formula over a Dataframe using Numpy
+4450508,0.00103,6,0,0,ValueError: Could not broadcast during Pandas Dataframe Apply When Chunking
+5239351,0.00103,6,0,0,Use apply() with Pandas Series
+2582017,0.00103,6,0,0,Filtering out string in a Panda Dataframe
+6875401,0.00103,6,0,0,pd.read_html() imports a list rather than a dataframe
+6618225,0.00103,6,0,0,Python Pandas convert column data type
+1609464,0.00103,6,0,0,Resampling (Upsample) Pandas multiindex dataframe
+1783974,0.00103,6,0,0,geopandas AttributeError: &#39;MultiPolygon&#39; object has no attribute &#39;exterior&#39;
+5112032,0.00103,6,0,0,Pandas slicing by element in cell
+5082048,0.00103,6,0,0,iterate over GroupBy object in dask
+6577353,0.00103,6,0,0,read_sql and redshift giving error on unicode
+6506593,0.00103,6,0,0,Division error in Python Pandas: libmkl_vml_avx.so: undefined symbol: mkl_serv_getenv
+2582017,0.00103,6,0,0,Adding a column to a Multiindex Dataframe
+4574710,0.000935,2,1,0,Uploading User Details from an excel file using pandas in python to postgres Database
+6293038,0.000858,5,0,0,Pandas Dataframe comparison with range/stdev
+6227378,0.000858,5,0,0,Access values for a dictionary within a list in a column of a pandas dataframe
+6891053,0.000858,5,0,0,Import Pandas Into Python
+4893407,0.000858,5,0,0,How best to use pandas.DataFrame.pivot?
+6835733,0.000858,5,0,0,Counting how many times in a row the result of a sum is positive (or negative)
+1382498,0.000858,5,0,0,find first instance of a row in pandas dataframe matching a criterion
+4795243,0.000858,5,0,0,How to separate a CSV file when there are &quot;&quot; lines?
+4602441,0.000858,5,0,0,Pandas - Alternative to rank() function that gives unique ordinal ranks for a column
+6186122,0.000858,5,0,0,Trying to create a pandas series within a dataframe with values based on whether or not keys are in another dataframe
+6412947,0.000858,5,0,0,How to groupby and assign an array to a column in python-pandas?
+6258628,0.000858,5,0,0,Reshaping pandas dataframe: New row for every 76 entries
+6849055,0.000858,5,0,0,merge() missing 1 required positional argument: &#39;right&#39;
+5355800,0.000858,5,0,0,Looping over pandas data frame applying formula to each value
+6865456,0.000858,5,0,0,"TypeError: Signature mismatch. Keys must be dtype &lt;dtype: &#39;string&#39;&gt;, got &lt;dtype:&#39;int64&#39;&gt;"
+6835733,0.000858,5,0,0,Part II: Counting how many times in a row the result of a sum is positive (or negative)
+2039162,0.000858,5,0,0,Get next value from a row that satisfies a condition in pandas
+3854325,0.000858,5,0,0,calculating result of a function for a column of a dataframe in python
+5754771,0.000858,5,0,0,API Call - Multi dimensional nested dictionary to pandas data frame
+6866170,0.000858,5,0,0,Using Pandas to &quot;applymap&quot; with access to index/column?
+6186122,0.000858,5,0,0,Histogram of Correlations
+6865456,0.000858,5,0,0,TypeError: argument of type &#39;float&#39; is not iterable-Tensorflow wide_n_deep_tutorial
+6835733,0.000858,5,0,0,Calculate RSI from pandas dataframe
+6172112,0.000858,5,0,0,Pandas: Elementwise typecast
+6624389,0.000858,5,0,0,how could i delete rows with repeating/duplicate index from dataframe
+4117997,0.000858,5,0,0,error using where with pandas and categorical columns
+6899616,0.000858,5,0,0,Error on if condition in pandas
+5754771,0.000858,5,0,0,4 dimensional nested dictionary to pandas data frame
+4455015,0.000858,5,0,0,Plot datetime64 with matplotlib
+1382498,0.000858,5,0,0,python pandas count events within time window
+4117997,0.000858,5,0,0,ValueError: cannot use inplace with CategoricalIndex
+6866174,0.000858,5,0,0,"Python: Break down large file, filter based on criteria, and put all data into new csv file"
+2807379,0.000858,5,0,0,Pandas - is it possible to &quot;rewind&quot; read_csv with chunk= argument?
+6227378,0.000858,5,0,0,"Apply function to column of pandas dataframe in chunks (every few rows), interspersed with time.sleep()"
+6240545,0.000858,5,0,0,Pandas charts claims a DataFrame is not a DataFrame
+6186122,0.000858,5,0,0,Trying to return number of items in a list as a column in a dataframe
+1253493,0.000858,5,0,0,Improve HDF5 Data frames Query time
+3079675,0.000858,5,0,0,Working with the output of groupby and groupby.size()
+4795243,0.000858,5,0,0,python: DataFrame.append does not append element
+1736542,0.000858,5,0,0,How to create a new column in Python Dataframe by referencing two other columns?
+6148300,0.000858,5,0,0,Convert DateTime to sequential day of the year
+6797207,0.000687,4,0,0,Pandas Filter on date for quarterly ends
+4618255,0.000687,4,0,0,Can I run Numpy (or other Python packages) on Android?
+6610874,0.000687,4,0,0,Issues in Plotting Intraday OHLC Chart with Matplotlib
+6845144,0.000687,4,0,0,Pandas DataFrame plotting - Tick labels
+6037476,0.000687,4,0,0,Optimal way to add small lists to Pandas DataFrame
+1831784,0.000687,4,0,0,Dataframe returning None value
+2561804,0.000687,4,0,0,Combine multiple time-series rows into one row with Pandas
+6858449,0.000687,4,0,0,Make a table from 2 columns
+3651036,0.000687,4,0,0,"How do I request a zipfile, extract it, then create pandas dataframes from the csv files?"
+5869997,0.000687,4,0,0,python - Pandas - FillNa with another non null row having similar column
+6866960,0.000687,4,0,0,Sorting and arranging a list using pandas
+5893331,0.000687,4,0,0,Why can&#39;t add a row to pandas dataframe?
+4882074,0.000687,4,0,0,Function to calculate value from first row in Python Pandas
+6699237,0.000687,4,0,0,Why use pandas.DataFrame.copy() for column extraction
+6639780,0.000687,4,0,0,how to apply filter on one variable considering other two variable using python
+4824731,0.000687,4,0,0,Using Pandas and Sklearn.Neighbors
+6394663,0.000687,4,0,0,Python Pandas calculate time until output reaches 0
+6041629,0.000687,4,0,0,pd.read_csv ignores columns that don&#39;t have headers
+6666049,0.000687,4,0,0,Find the location that occurs most in every cluster in DBSCAN
+6735434,0.000687,4,0,0,Read large csv file chunks to dataframe and sort using column header as criteria
+5269483,0.000687,4,0,0,How to drop columns with empty headers in Pandas?
+6389660,0.000687,4,0,0,How to remove rows with duplicates in pandas dataframe?
+6845144,0.000687,4,0,0,"Python, plotting Pandas&#39; pivot_table from long data"
+5779756,0.000687,4,0,0,Pandas return column value if other column value is equal
+4215760,0.000687,4,0,0,Best way to combine datetime in pandas dataframe when times are close
+6131788,0.000687,4,0,0,Combining data divided between multiple columns after pivoting pandas data table
+6387135,0.000687,4,0,0,Pandas: remove duplicate record while keeping its old value in dataframe for reference
+4980269,0.000687,4,0,0,Creating a Pandas DataFrame with HDFS file in .csv format
+1300930,0.000687,4,0,0,After reading a csv using header/skiprows argument values become NaN
+2716660,0.000687,4,0,0,How do I calculate the percent difference between the 1st and 6th key in a list of dictionaries?
+6828360,0.000687,4,0,0,create df column name by adding global variable name and a string in Python
+6735434,0.000687,4,0,0,Splitting a mixed number string from a dataframe column and converting it to a float
+6854280,0.000687,4,0,0,Convert Hex Column in Pandas Without Iterating
+6862189,0.000687,4,0,0,How to plot a figure with Chinese Characters in label
+4215760,0.000687,4,0,0,need help pivoting pandas table
+4240695,0.000687,4,0,0,Python pandas: Select columns where a specific row satisfies a condition
+3316031,0.000687,4,0,0,Explain how pandas DataFrame join works
+6889536,0.000687,4,0,0,Why does Pandas skip first set of chunks when iterating over csv in my code
+4215760,0.000687,4,0,0,getting weighted average then grouping in pandas
+6865626,0.000515,3,0,0,python pandas how to drop duplicates selectively
+5473454,0.000515,3,0,0,Pandas Python- read_csv not reading complete data on each row
+6877014,0.000515,3,0,0,Replace whole string if it contains substring in pandas
+3278309,0.000515,3,0,0,Manipulating pandas series - empty rows in a column
+6835239,0.000515,3,0,0,data encapsulation with pandas dataframe in python: best coding practice?
+6881578,0.000515,3,0,0,Filter data frame from values in different columns Pandas
+5309063,0.000515,3,0,0,"How can I identify which variable, from a couple, is the independent one?"
+6765878,0.000515,3,0,0,Group unique 0th elements of CSV for unique ith elements in python or hive
+6852544,0.000515,3,0,0,What am I doing wrong when using seasonal decompose in Python?
+5855283,0.000515,3,0,0,Join Python dataframe time series efficiently
+6835979,0.000515,3,0,0,"Python, Pandas - How can I get something printed in a data range?"
+3972916,0.000515,3,0,0,Copying set of specific columns between Pandas dfs where specific values match
+1254450,0.000515,3,0,0,Converting python dataframe(pandas) with a timestamp column to R dataframe using rpy2
+6529170,0.000515,3,0,0,Creating dictionary from dataframe in python
+3356075,0.000515,3,0,0,Filtering a pandas dataframe based on a match to partial strings
+2408288,0.000515,3,0,0,Convert the string 2.90K to 2900 or 5.2M to 5200000 in pandas dataframe
+2951327,0.000515,3,0,0,pandas pivot table aggfunc troubleshooting
+4065400,0.000515,3,0,0,How to keep one single column as a dataframe
+6827430,0.000515,3,0,0,Vertical line at the end of a CDF histogram using matplotlib
+6605582,0.000515,3,0,0,Histograms in Pandas
+1591930,0.000515,3,0,0,Processing data with different number of features
+6827430,0.000515,3,0,0,Plotting histograms in Python using pandas
+6850787,0.000515,3,0,0,Pandas Percent Change on Non-Descending Cells
+6827430,0.000515,3,0,0,Reducing rows in a column for a panda DataFrame for plotting
+6836322,0.000515,3,0,0,conversion of np.array(dtype=&#39;str&#39;) in an np.array(dtype=&#39;datetime&#39;)
+6846554,0.000515,3,0,0,Unable to delete first row in matrix
+2011849,0.000515,3,0,0,How to sum pivot data with a DIFF in time by one of the indexes
+6225734,0.000515,3,0,0,"Error creating multiple plots in python using PdfPages, pandas, matplotlib, and a for loop"
+5063813,0.000515,3,0,0,Extract data from multiple bracket string in Pandas and create new table
+6860006,0.000515,3,0,0,"In pandas dataframe, generate third column data based on results in two other columns"
+3153140,0.000515,3,0,0,Compare two csv files and color code the difference in csv
+6835979,0.000515,3,0,0,i want to compare my sum of Q2 with the sum of all individual account
+4828434,0.000515,3,0,0,change index value in pandas dataframe
+6835239,0.000515,3,0,0,How to handle meta data associated with a pandas dataframe?
+5658036,0.000343,2,0,0,Dataframe filtering in pandas
+6901679,0.000343,2,0,0,Python DataFrame error for having a header with parenthesis
+6855318,0.000343,2,0,0,"pandas daily average, pandas.resample"
+6858388,0.000343,2,0,0,How to create rows and columns in a .csv file from .log file
+6672237,0.000343,2,0,0,What is pandas syntax for lookup based on existing columns + row values?
+6845969,0.000343,2,0,0,Python - calculating the range(highest - lowest) in different group
+6840427,0.000343,2,0,0,ValueError: Incompatible indexer with Series
+6832896,0.000343,2,0,0,Filtering a pandas data frame with a variable
+2730295,0.000343,2,0,0,parsing a dictionary in a pandas dataframe cell into new row cells (new columns)
+6863702,0.000343,2,0,0,input column based on conditional statement pandas
+686075,0.000343,2,0,0,Writing long number to excel from pandas
+6838716,0.000343,2,0,0,How to optimize code that iterates on a big dataframe in Python
+5390557,0.000343,2,0,0,"In a Python Bokeh Legend, How do I Change the display format of numbers?"
+1949548,0.000343,2,0,0,Binarize a float64 Pandas Dataframe in Python
+5770622,0.000343,2,0,0,pandas memory consumption hdf file grouping
+6648687,0.000343,2,0,0,pandas dataframe sample method causing different accuracy results after applying MultinomialNB
+6618062,0.000343,2,0,0,apply function on groups of k elements of a pandas Series
+6651422,0.000343,2,0,0,Getting no such table error using pandas and sqldf
+6866735,0.000343,2,0,0,How to get key and value in well format and n/a values at the end in pandas
+6428010,0.000343,2,0,0,Does the &quot;lambda x: x&quot; hack no longer work in pandas pivot table?
+6771714,0.000343,2,0,0,"How to get rid of row numbers, pd.read_excel?"
+6863702,0.000343,2,0,0,Generating pandas column values based upon filename
+6852858,0.000343,2,0,0,Mask numbers in pandas
+6542551,0.000343,2,0,0,Need to create a Pandas dataframe by reading csv file with random columns
+6869037,0.000343,2,0,0,pandas - add a column of the mean of the last 3 elements in groupby
+6888731,0.000343,2,0,0,SQL Column types in Jupyter Notebook
+6620395,0.000343,2,0,0,collect rows and columns based on id matching
+5769402,0.000343,2,0,0,Use of extended ASCII as separator with python and pandas
+5134930,0.000172,1,0,0,How can I make a python candlestick chart clickable in matplotlib
+6236113,0.000172,1,0,0,How to read multidimensional dataframe in Pandas?
+6835984,0.000172,1,0,0,Python libraries imported but unused
+6868875,0.000172,1,0,0,Calculate z-score in data bunch but excluding N.A
+6852127,0.000172,1,0,0,Pandas - how to filter rows base on regular expresion
+6840037,0.000172,1,0,0,python pandas Ignore Nan in integer comparisons
+6849301,0.000172,1,0,0,How to install packages/modules in IronPython
+6894373,0.000172,1,0,0,Why does exporting a CSV file using Pandas skipping every other row?
+6893963,0.000172,1,0,0,Pandas Dataframe row number become the same after selected by condition
+5882284,0.000172,1,0,0,How can I filter for string values in a mixed datatype object in Python Pandas Dataframe
+6714290,0.000172,1,0,0,Python Convert Datetime from csv for matplotlib
+6132613,0.000172,1,0,0,Update a null values in countryside column in a data frame with reference to valid countrycode column from another data frame using python
+6132613,0.000172,1,0,0,Update a null values in countrycode column in a data frame by matching substring of country name using python
+6849439,0.000172,1,0,0,concatenate colums from multiples files
+6838810,0.000172,1,0,0,How to call value from excel on python
+6873010,0.000172,1,0,0,find problematic records - pandas dataframe
+3796635,0.0,0,0,0,pd.read_clipboard() giving me an error on Python 2
+6843601,0.0,0,0,0,python - Dataframe objects in Jupyter notebook do not output in a stylized grid as they should
+6891272,0.0,0,0,0,Create new database from chunk reader in pandas
+6177375,0.0,0,0,0,Loop over Colums in Pandas Dataframe to create multiple plots with one x variable and mulitple y (colum values)
+6857038,0.0,0,0,0,Invalid syntax error in for loop pandas

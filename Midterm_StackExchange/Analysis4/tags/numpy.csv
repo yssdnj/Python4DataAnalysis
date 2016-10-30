@@ -1,0 +1,65 @@
+QuesID,    AnsCount,    QuesTitle
+39777531,0,"Pandas add column values based on dict, cannot reindex from a duplicate axis"
+39773480,2,python pandas/numpy quick way of replacing all values according to a mapping scheme
+39773425,1,python - Pandas - FillNa with another non null row having similar column
+39768288,1,Plotting a type of Histogram
+39758449,1,Normalise between 0 and 1 ignoring NaN
+39756150,1,How to separate a numpy array into separate columns in pandas
+39749653,2,How to groupby and assign an array to a column in python-pandas?
+39742758,4,Sort tenors in finance notation
+39730737,2,Panda group dataframe based on datetime type into different period ignoring date part
+39725419,2,Solving sets of non-linear equations as an array
+39722279,1,Is it a good idea to apply ML libraries on pandas data frame?
+39718157,1,Panda how to groupby rows into different time buckets?
+39713678,1,Assigning indicators based on observation quantile
+39712435,1,sum of &#39;float64&#39; column type in pandas return float instead of numpy.float64
+39710995,0,Plot datetime64 with matplotlib
+39703734,1,input column based on conditional statement pandas
+39701779,1,Mapping multiple dataframe based on the matching columns
+39698363,0,Concatenate numpy array to pandas dataframe
+39694192,2,Convert string column to integer
+39693359,2,How do I replace all values equal to x in nth level of a multi index
+39690742,1,Convert float to int and leave nulls
+39680162,2,"Pandas, split dataframe by monotonic increase of column value"
+39678719,0,Tensorflow: loss is decreasing normally but accuracy is fluctuating through couple of value
+39676339,1,Group data into classes with numpy
+39670027,3,"get desired element in numpy array of unequal row lengths, without using for loop"
+39665681,0,testing for NaN values: df[df[&#39;col1&#39;] == np.nan] does NOT equal np.isnan(df[&#39;col1&#39;])
+39664195,2,getting weighted average then grouping in pandas
+39661759,1,Merging multiple dataframe bassed on matching values from three column into single dataframe
+39660651,0,numpy/scipy Python Equivalent of R code for rolling rank
+39645972,1,Best way to combine datetime in pandas dataframe when times are close
+39641260,0,vectorize upper level of a vectoized code - python - numpy
+39628242,1,Histograms in Pandas
+39623521,3,need help pivoting pandas table
+39622639,3,"How to break numpy array into smaller chunks/batches, then iterate through them"
+39621965,1,np reshape within pandas apply
+39618678,1,Pandas convert columns type from list to np.array
+39616931,2,How to create rows and columns in a .csv file from .log file
+39615871,1,Function to calculate value from first row in Python Pandas
+39609391,2,Pandas how to split dataframe by column by interval
+39605512,3,twist dataframe by rank
+39604348,0,pd.read_clipboard() giving me an error on Python 2
+39600816,2,Setting pandas.DataFrame string dtype (not file based)
+39595327,0,How to install packages/modules in IronPython
+39592295,0,concatenate colums from multiples files
+39590152,1,TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; even after using np.multiply
+39583363,1,Pandas Dataframe return index with inaccurate decimals
+39579875,2,Combine multiple time-series rows into one row with Pandas
+39578495,1,Using `apply` on datetime64 series in pandas
+39572908,0,Replacing NA in my dataframe in python
+39572089,1,Part II: Counting how many times in a row the result of a sum is positive (or negative)
+39564433,1,Adding a column to a Multiindex Dataframe
+39563209,1,Unable to delete first row in matrix
+39552773,1,Apply Numpy function over entire Dataframe
+39552158,2,Apply a weight formula over a Dataframe using Numpy
+39548753,2,"How do I get np.where to accept more arguments, so it will filter &gt;, &lt; , and =; not just &gt; and &lt;?"
+39533680,1,Can I run Numpy (or other Python packages) on Android?
+39533004,1,Issues in Plotting Intraday OHLC Chart with Matplotlib
+39532978,1,Python function redefines variables that are not passed
+39523900,3,Process a list in a Dataframe column
+39522333,1,find the manhatten sum of a dataframe given two points
+39520349,3,Filtering / smoothing a step function to retrieve biggest increments
+39518141,1,how to add coordinate array as rows in panda dataframe
+39517660,2,conversion of np.array(dtype=&#39;str&#39;) in an np.array(dtype=&#39;datetime&#39;)
+39509824,2,Python unique values per column in csv file row

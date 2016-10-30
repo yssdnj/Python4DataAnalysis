@@ -1,0 +1,7 @@
+QuesID,    AnsCount,    QuesTitle
+39698363,0,Concatenate numpy array to pandas dataframe
+39670027,3,"get desired element in numpy array of unequal row lengths, without using for loop"
+39590152,1,TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; even after using np.multiply
+39557313,1,rolling apply in pandas shows &quot;TypeError: only length-1 arrays can be converted to Python scalars&quot;
+39532978,1,Python function redefines variables that are not passed
+39520824,1,Store array of string values in column in pandas?

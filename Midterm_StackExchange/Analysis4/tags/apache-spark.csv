@@ -1,0 +1,4 @@
+QuesID,    AnsCount,    QuesTitle
+39587451,2,"How to extract year and week number in a dataframe and put it in a new column, python"
+39582754,1,Running a Python function on Spark Dataframe
+39521341,1,pyspark error: AttributeError: &#39;SparkSession&#39; object has no attribute &#39;parallelize&#39;

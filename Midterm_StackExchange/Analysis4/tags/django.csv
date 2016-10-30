@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39770321,0,Convert Python project to Cython
+39655688,1,Uploading User Details from an excel file using pandas in python to postgres Database

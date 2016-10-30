@@ -1,0 +1,4 @@
+QuesID,    AnsCount,    QuesTitle
+39778686,1,pandas reset_index after groupby.value_counts()
+39689767,0,subtract consecutive rows from a .dat file
+39671322,1,Subtracting the rows of a column from the preceding rows in a python pandas dataframe

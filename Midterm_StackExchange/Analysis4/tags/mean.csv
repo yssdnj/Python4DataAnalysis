@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39763436,3,apply function on groups of k elements of a pandas Series
+39603399,1,"pandas daily average, pandas.resample"

@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39553866,1,Use apply() with Pandas Series
+39543230,1,Apply shift for comparison on multiple columns over groupby pandas

@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39708133,1,TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; (python 2.7)

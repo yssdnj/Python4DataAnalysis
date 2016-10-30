@@ -1,0 +1,5 @@
+QuesID,    AnsCount,    QuesTitle
+39664550,0,Pandas Nested functions: apply does not seem to recognize internal function
+39578930,0,Python Pandas Groupby-Apply Returning &#39;ValueError: Wrong number of items passed..&#39;
+39539115,0,Python pandas most pythonic way to calculate rolling betas on a DataFrame
+39519167,1,Apply weight formula over rows of Dataframe Pandas

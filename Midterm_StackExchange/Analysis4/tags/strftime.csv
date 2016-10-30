@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39578495,1,Using `apply` on datetime64 series in pandas

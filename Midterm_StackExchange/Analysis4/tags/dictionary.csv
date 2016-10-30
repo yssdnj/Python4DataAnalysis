@@ -1,0 +1,13 @@
+QuesID,    AnsCount,    QuesTitle
+39777531,0,"Pandas add column values based on dict, cannot reindex from a duplicate axis"
+39758268,1,Merging mutliple pandas dfs time series on DATE index and which are contained in a python dictionary
+39730468,1,Convert column&#39;s data to enumerated dictionary key-value
+39678854,1,Pandas nested dict to dataframe
+39659146,1,Pandas DataFrame with date and time from JSON format
+39640936,2,parsing a dictionary in a pandas dataframe cell into new row cells (new columns)
+39634369,1,4 dimensional nested dictionary to pandas data frame
+39604461,1,API Call - Multi dimensional nested dictionary to pandas data frame
+39587863,1,How do I calculate the percent difference between the 1st and 6th key in a list of dictionaries?
+39586809,1,Replace values in a dataframes using other dataframe with strings as keys with Pandas
+39555127,3,Python deduplicate records - dedupe
+39528707,1,Creating dictionary from dataframe in python

@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39695606,1,querying panda df to filter rows where a column is not Nan
+39549887,1,Need to edit subset of rows from MySQL table using Pandas Dataframe

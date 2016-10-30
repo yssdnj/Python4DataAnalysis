@@ -1,0 +1,6 @@
+QuesID,    AnsCount,    QuesTitle
+39622081,1,Pandas Dataframe automatic typecasting
+39618678,1,Pandas convert columns type from list to np.array
+39608282,3,Pandas error trying to convert string into integer
+39590152,1,TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; even after using np.multiply
+39529253,0,Pandas: Elementwise typecast

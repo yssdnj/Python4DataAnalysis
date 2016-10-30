@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39536229,1,Issue with null character received by qpython/pandas from kdb

@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39742797,1,Calculating weighted moving average using pandas Rolling method
+39520283,2,Ignore preceding values for a given column when calculating rolling.mean using Pandas

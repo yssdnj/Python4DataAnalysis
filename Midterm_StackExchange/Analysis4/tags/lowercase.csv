@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39512002,2,Convert whole dataframe from lower case to upper case with Pandas

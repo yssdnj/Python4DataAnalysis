@@ -1,0 +1,10 @@
+QuesID,    AnsCount,    QuesTitle
+39724182,3,Pandas and apply function to match a string
+39697349,1,Count how many attributes have a word as a substring of longer text value
+39694192,2,Convert string column to integer
+39677432,1,building datetime from 3 integer/float columns in pandas
+39656781,1,Python Pandas Debugging on to_datetime
+39615520,1,Pandas: create word cloud from a column with strings
+39608282,3,Pandas error trying to convert string into integer
+39602824,3,pandas: replace string with another string
+39536940,1,Filtering a pandas dataframe based on a match to partial strings

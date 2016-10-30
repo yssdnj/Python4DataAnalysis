@@ -1,0 +1,5 @@
+QuesID,    AnsCount,    QuesTitle
+39663596,1,spark Dataframe/RDD equivalent to pandas command given in description?
+39658574,2,How to drop columns which have same values in all rows via pandas or spark dataframe?
+39587451,2,"How to extract year and week number in a dataframe and put it in a new column, python"
+39550147,3,Convert Pandas Dataframe from Row based to Columnar

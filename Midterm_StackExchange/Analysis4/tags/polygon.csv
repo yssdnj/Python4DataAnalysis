@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39578611,0,geopandas AttributeError: &#39;MultiPolygon&#39; object has no attribute &#39;exterior&#39;

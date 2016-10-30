@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39557313,1,rolling apply in pandas shows &quot;TypeError: only length-1 arrays can be converted to Python scalars&quot;

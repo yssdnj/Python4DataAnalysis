@@ -1,0 +1,2648 @@
+{
+    "has_more": true,
+    "quota_max": 10000,
+    "items": [
+        {
+            "creation_date": 1475020510,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "is_answered": false,
+            "answer_count": 0,
+            "view_count": 26,
+            "title": "pandas.DataFrame returns Series not a Dataframe",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6890604/semenoff",
+                "reputation": 17,
+                "display_name": "semenoff",
+                "profile_image": "https://www.gravatar.com/avatar/17c4e031966a89ccf4ca92b08ca4f7a4?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6890604
+            },
+            "link": "http://stackoverflow.com/questions/39736030/pandas-dataframe-returns-series-not-a-dataframe",
+            "last_activity_date": 1475020510,
+            "question_id": 39736030
+        },
+        {
+            "creation_date": 1475017697,
+            "score": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "is_answered": true,
+            "answer_count": 4,
+            "view_count": 29,
+            "title": "Binarize a float64 Pandas Dataframe in Python",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/1949548/snake-a",
+                "reputation": 21,
+                "display_name": "Snake_A",
+                "profile_image": "https://www.gravatar.com/avatar/581f70dd41c919d77cd2340ac8130968?s=128&d=identicon&r=PG",
+                "user_id": 1949548
+            },
+            "link": "http://stackoverflow.com/questions/39735676/binarize-a-float64-pandas-dataframe-in-python",
+            "last_activity_date": 1475610936,
+            "question_id": 39735676
+        },
+        {
+            "creation_date": 1475016984,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "is_answered": false,
+            "answer_count": 0,
+            "view_count": 32,
+            "title": "Python - Perform a FIFO operation on data in Pandas DataFrame",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 33,
+                "link": "http://stackoverflow.com/users/3502161/charles",
+                "reputation": 37,
+                "display_name": "Charles",
+                "profile_image": "https://www.gravatar.com/avatar/40980762aefb76857a7d7e6972ce5222?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3502161
+            },
+            "link": "http://stackoverflow.com/questions/39735579/python-perform-a-fifo-operation-on-data-in-pandas-dataframe",
+            "last_activity_date": 1475016984,
+            "question_id": 39735579
+        },
+        {
+            "creation_date": 1475013910,
+            "last_edit_date": 1475013981,
+            "score": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "aggregate"
+            ],
+            "view_count": 31,
+            "link": "http://stackoverflow.com/questions/39735068/pandas-crosstab-but-with-values-from-aggregation-of-third-column",
+            "last_activity_date": 1475014125,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 74,
+                "link": "http://stackoverflow.com/users/1700890/user1700890",
+                "reputation": 671,
+                "display_name": "user1700890",
+                "profile_image": "https://www.gravatar.com/avatar/7ae3069bce34ea67aa6ed85035fac697?s=128&d=identicon&r=PG",
+                "user_id": 1700890
+            },
+            "question_id": 39735068,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Pandas crosstab, but with values from aggregation of third column",
+            "accepted_answer_id": 39735113
+        },
+        {
+            "creation_date": 1475012798,
+            "last_edit_date": 1475013887,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "time-series"
+            ],
+            "view_count": 46,
+            "link": "http://stackoverflow.com/questions/39734836/join-python-dataframe-time-series-efficiently",
+            "last_activity_date": 1475013943,
+            "question_id": 39734836,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Join Python dataframe time series efficiently",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 25,
+                "link": "http://stackoverflow.com/users/5855283/bryan-downing",
+                "reputation": 16,
+                "display_name": "Bryan Downing",
+                "profile_image": "https://graph.facebook.com/1016363735087616/picture?type=large",
+                "user_id": 5855283
+            }
+        },
+        {
+            "creation_date": 1475010320,
+            "last_edit_date": 1475014079,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 44,
+            "link": "http://stackoverflow.com/questions/39734304/covariance-between-two-columns-in-pandas-groupby-pandas",
+            "last_activity_date": 1475014079,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 85,
+                "link": "http://stackoverflow.com/users/6222331/dleal",
+                "reputation": 161,
+                "display_name": "dleal",
+                "profile_image": "https://www.gravatar.com/avatar/06276ad178fb56dda7fee5a0ff1ae048?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6222331
+            },
+            "question_id": 39734304,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "covariance between two columns in pandas groupby pandas",
+            "accepted_answer_id": 39734585
+        },
+        {
+            "creation_date": 1475008940,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 58,
+                "link": "http://stackoverflow.com/users/1675909/funnychef",
+                "reputation": 151,
+                "display_name": "FunnyChef",
+                "profile_image": "https://www.gravatar.com/avatar/01c2f960262afc76b149cdd786760753?s=128&d=identicon&r=PG",
+                "user_id": 1675909
+            },
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 22,
+            "link": "http://stackoverflow.com/questions/39733948/counting-mulitple-values-in-a-python-pandas-dataframe-column",
+            "last_activity_date": 1475009423,
+            "question_id": 39733948,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Counting Mulitple Values in a Python pandas Dataframe Column",
+            "accepted_answer_id": 39734034
+        },
+        {
+            "creation_date": 1475005728,
+            "score": -1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "is_answered": false,
+            "answer_count": 1,
+            "view_count": 38,
+            "title": "How to drop columns with empty headers in Pandas?",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/5269483/misha-am",
+                "reputation": 14,
+                "display_name": "Misha AM",
+                "profile_image": "https://www.gravatar.com/avatar/25c7fa905d06c74cdfbfe9a8855832f4?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5269483
+            },
+            "link": "http://stackoverflow.com/questions/39733141/how-to-drop-columns-with-empty-headers-in-pandas",
+            "last_activity_date": 1475006298,
+            "question_id": 39733141
+        },
+        {
+            "creation_date": 1475003936,
+            "last_edit_date": 1475070701,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 28,
+            "link": "http://stackoverflow.com/questions/39732661/pandas-how-to-filter-rows-base-on-regular-expresion",
+            "last_activity_date": 1475070701,
+            "question_id": 39732661,
+            "is_answered": false,
+            "answer_count": 1,
+            "title": "Pandas - how to filter rows base on regular expresion",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6852127/error-replicator",
+                "reputation": 6,
+                "display_name": "Error Replicator",
+                "profile_image": "https://www.gravatar.com/avatar/a0471d7073ea9a1193987f2217e4a1ff?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6852127
+            }
+        },
+        {
+            "creation_date": 1475002923,
+            "last_edit_date": 1475016952,
+            "score": 1,
+            "tags": [
+                "python",
+                "csv",
+                "pandas",
+                "chunks"
+            ],
+            "view_count": 39,
+            "link": "http://stackoverflow.com/questions/39732421/why-does-pandas-skip-first-set-of-chunks-when-iterating-over-csv-in-my-code",
+            "last_activity_date": 1475016952,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6889536/david",
+                "reputation": 8,
+                "display_name": "David",
+                "profile_image": "https://www.gravatar.com/avatar/44fdfc307be0b2fd87098edb13297811?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6889536
+            },
+            "question_id": 39732421,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Why does Pandas skip first set of chunks when iterating over csv in my code",
+            "accepted_answer_id": 39733348
+        },
+        {
+            "creation_date": 1475002386,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/5110870/cf84",
+                "reputation": 896,
+                "display_name": "CF84",
+                "profile_image": "https://i.stack.imgur.com/TVsCr.png?s=128&g=1",
+                "user_id": 5110870
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib"
+            ],
+            "view_count": 33,
+            "link": "http://stackoverflow.com/questions/39732288/pandas-how-to-plot-a-line-in-a-scatter-and-bring-it-to-the-back-front",
+            "last_activity_date": 1475055453,
+            "question_id": 39732288,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Pandas: how to plot a line in a scatter and bring it to the back/front?",
+            "accepted_answer_id": 39742812
+        },
+        {
+            "creation_date": 1474999197,
+            "last_edit_date": 1475000216,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "summarize"
+            ],
+            "view_count": 48,
+            "link": "http://stackoverflow.com/questions/39731396/python-pandas-summarizing-nominal-variables-counting",
+            "last_activity_date": 1475047904,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 88,
+                "link": "http://stackoverflow.com/users/5209231/felix",
+                "reputation": 141,
+                "display_name": "Felix",
+                "profile_image": "https://www.gravatar.com/avatar/04622c078723ee937e8cf088706d19dd?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5209231
+            },
+            "question_id": 39731396,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "python pandas summarizing nominal variables (counting)",
+            "accepted_answer_id": 39731740
+        },
+        {
+            "creation_date": 1474999186,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 60,
+                "link": "http://stackoverflow.com/users/4695774/siraj-s",
+                "reputation": 159,
+                "display_name": "Siraj S.",
+                "profile_image": "https://www.gravatar.com/avatar/bdc15d346c2f5b951bc99e0150c1a49d?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4695774
+            },
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "slice"
+            ],
+            "view_count": 15,
+            "link": "http://stackoverflow.com/questions/39731395/dataframe-column-slices-excluding-specific-columns",
+            "last_activity_date": 1475001485,
+            "question_id": 39731395,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "dataframe column slices excluding specific columns",
+            "accepted_answer_id": 39731653
+        },
+        {
+            "creation_date": 1474998900,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 75,
+                "link": "http://stackoverflow.com/users/3278309/johnb",
+                "reputation": 10,
+                "display_name": "JohnB",
+                "profile_image": "https://i.stack.imgur.com/d6yQL.jpg?s=128&g=1",
+                "user_id": 3278309
+            },
+            "score": -1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "series"
+            ],
+            "view_count": 30,
+            "link": "http://stackoverflow.com/questions/39731313/manipulating-pandas-series-empty-rows-in-a-column",
+            "last_activity_date": 1474999845,
+            "question_id": 39731313,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Manipulating pandas series - empty rows in a column",
+            "accepted_answer_id": 39731502
+        },
+        {
+            "creation_date": 1474998048,
+            "last_edit_date": 1475014065,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dask"
+            ],
+            "view_count": 59,
+            "link": "http://stackoverflow.com/questions/39731098/iterate-over-groupby-object-in-dask",
+            "last_activity_date": 1475498515,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/5082048/arco-bast",
+                "reputation": 117,
+                "display_name": "Arco Bast",
+                "profile_image": "https://graph.facebook.com/10204598445503361/picture?type=large",
+                "user_id": 5082048
+            },
+            "question_id": 39731098,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "iterate over GroupBy object in dask",
+            "accepted_answer_id": 39732788
+        },
+        {
+            "creation_date": 1474997461,
+            "last_edit_date": 1474997680,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 32,
+            "link": "http://stackoverflow.com/questions/39730951/trying-to-return-number-of-items-in-a-list-as-a-column-in-a-dataframe",
+            "last_activity_date": 1475000071,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6186122/patrick",
+                "reputation": 28,
+                "display_name": "Patrick",
+                "profile_image": "https://www.gravatar.com/avatar/8f293bb8cc3928de4af554d1c9ceac6a?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6186122
+            },
+            "question_id": 39730951,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Trying to return number of items in a list as a column in a dataframe",
+            "accepted_answer_id": 39731042
+        },
+        {
+            "creation_date": 1474997330,
+            "score": 0,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "is_answered": false,
+            "answer_count": 1,
+            "view_count": 25,
+            "title": "Pandas return column value if other column value is equal",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 20,
+                "link": "http://stackoverflow.com/users/5779756/bozz",
+                "reputation": 4,
+                "display_name": "bozz",
+                "profile_image": "https://www.gravatar.com/avatar/1a051e2bf6cc1d44e531625f32b995d6?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5779756
+            },
+            "link": "http://stackoverflow.com/questions/39730906/pandas-return-column-value-if-other-column-value-is-equal",
+            "last_activity_date": 1474997615,
+            "question_id": 39730906
+        },
+        {
+            "creation_date": 1474996735,
+            "last_edit_date": 1475019113,
+            "score": 2,
+            "tags": [
+                "python",
+                "datetime",
+                "pandas",
+                "numpy",
+                "scipy"
+            ],
+            "view_count": 29,
+            "link": "http://stackoverflow.com/questions/39730737/panda-group-dataframe-based-on-datetime-type-into-different-period-ignoring-date",
+            "last_activity_date": 1475020882,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 76,
+                "link": "http://stackoverflow.com/users/2821224/9blue",
+                "reputation": 1450,
+                "display_name": "9blue",
+                "profile_image": "https://i.stack.imgur.com/eaKnm.png?s=128&g=1",
+                "user_id": 2821224
+            },
+            "question_id": 39730737,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Panda group dataframe based on datetime type into different period ignoring date part",
+            "accepted_answer_id": 39731398
+        },
+        {
+            "creation_date": 1474995954,
+            "last_edit_date": 1477535154,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "tensorflow"
+            ],
+            "view_count": 51,
+            "link": "http://stackoverflow.com/questions/39730528/typeerror-signature-mismatch-keys-must-be-dtype-dtype-string-got-dtype",
+            "last_activity_date": 1477535154,
+            "question_id": 39730528,
+            "is_answered": false,
+            "answer_count": 2,
+            "title": "TypeError: Signature mismatch. Keys must be dtype &lt;dtype: &#39;string&#39;&gt;, got &lt;dtype:&#39;int64&#39;&gt;",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 0,
+                "link": "http://stackoverflow.com/users/6865456/vasanti",
+                "reputation": 2,
+                "display_name": "Vasanti",
+                "profile_image": "https://www.gravatar.com/avatar/a11db9c620a28f26e5593a3fab778fd5?s=128&d=identicon&r=PG",
+                "user_id": 6865456
+            }
+        },
+        {
+            "creation_date": 1474995736,
+            "last_edit_date": 1474998003,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "dictionary",
+                "dataframe",
+                "enumeration"
+            ],
+            "view_count": 25,
+            "link": "http://stackoverflow.com/questions/39730468/convert-columns-data-to-enumerated-dictionary-key-value",
+            "last_activity_date": 1474998003,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 76,
+                "link": "http://stackoverflow.com/users/992600/adhg",
+                "reputation": 2304,
+                "display_name": "adhg",
+                "profile_image": "https://www.gravatar.com/avatar/a07696b9e9f01acc66822c3c4a880b96?s=128&d=identicon&r=PG",
+                "user_id": 992600
+            },
+            "question_id": 39730468,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Convert column&#39;s data to enumerated dictionary key-value",
+            "accepted_answer_id": 39730516
+        },
+        {
+            "creation_date": 1474994208,
+            "last_edit_date": 1474996333,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "utf-8"
+            ],
+            "view_count": 41,
+            "link": "http://stackoverflow.com/questions/39729995/pandas-column-not-found-in-dataframe",
+            "last_activity_date": 1475007296,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 70,
+                "link": "http://stackoverflow.com/users/998967/luke",
+                "reputation": 585,
+                "display_name": "Luke",
+                "profile_image": "https://www.gravatar.com/avatar/63aff4ae9b0fd0c6c53a613e12a44784?s=128&d=identicon&r=PG",
+                "user_id": 998967
+            },
+            "question_id": 39729995,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Pandas - column not found in dataframe",
+            "accepted_answer_id": 39733540
+        },
+        {
+            "creation_date": 1474991883,
+            "last_edit_date": 1475019378,
+            "score": 1,
+            "tags": [
+                "python",
+                "csv",
+                "pandas",
+                "dataframe",
+                "large-files"
+            ],
+            "view_count": 66,
+            "link": "http://stackoverflow.com/questions/39729258/read-large-csv-file-chunks-to-dataframe-and-sort-using-column-header-as-criteria",
+            "last_activity_date": 1475019378,
+            "question_id": 39729258,
+            "is_answered": false,
+            "answer_count": 0,
+            "title": "Read large csv file chunks to dataframe and sort using column header as criteria",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6735434/brad-johnson",
+                "reputation": 18,
+                "display_name": "Brad Johnson",
+                "profile_image": "https://lh6.googleusercontent.com/-uDfpuLQTus0/AAAAAAAAAAI/AAAAAAAAJww/YGr_ZYoWqY0/photo.jpg?sz=128",
+                "user_id": 6735434
+            }
+        },
+        {
+            "creation_date": 1474990906,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "is_answered": false,
+            "answer_count": 1,
+            "view_count": 52,
+            "title": "How to delete duplicates, but keep the first instance and a blank cell for the duplicates in Pandas?",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 58,
+                "link": "http://stackoverflow.com/users/53491/brian-postow",
+                "reputation": 4655,
+                "display_name": "Brian Postow",
+                "profile_image": "https://www.gravatar.com/avatar/c79083b696c8a63b10dc59b286a24ef6?s=128&d=identicon&r=PG",
+                "user_id": 53491
+            },
+            "link": "http://stackoverflow.com/questions/39728930/how-to-delete-duplicates-but-keep-the-first-instance-and-a-blank-cell-for-the-d",
+            "last_activity_date": 1475004237,
+            "question_id": 39728930
+        },
+        {
+            "creation_date": 1474990312,
+            "last_edit_date": 1474992120,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib"
+            ],
+            "view_count": 74,
+            "link": "http://stackoverflow.com/questions/39728723/vertical-line-at-the-end-of-a-cdf-histogram-using-matplotlib",
+            "last_activity_date": 1475049415,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6827430/sam-billington",
+                "reputation": 13,
+                "display_name": "Sam Billington",
+                "profile_image": "https://www.gravatar.com/avatar/133b991c1fe18a5bc449ce4fbebbb90f?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6827430
+            },
+            "question_id": 39728723,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Vertical line at the end of a CDF histogram using matplotlib",
+            "accepted_answer_id": 39729964
+        },
+        {
+            "creation_date": 1474989928,
+            "score": 1,
+            "tags": [
+                "python",
+                "sql",
+                "pandas",
+                "apache-spark-sql",
+                "jupyter-notebook"
+            ],
+            "is_answered": true,
+            "answer_count": 1,
+            "view_count": 56,
+            "title": "SQL Column types in Jupyter Notebook",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6888731/o-isma",
+                "reputation": 9,
+                "display_name": "O.Isma",
+                "profile_image": "https://www.gravatar.com/avatar/038b80fe1ed5ad83359d943f0730bc70?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6888731
+            },
+            "link": "http://stackoverflow.com/questions/39728566/sql-column-types-in-jupyter-notebook",
+            "last_activity_date": 1474990533,
+            "question_id": 39728566
+        },
+        {
+            "creation_date": 1474989893,
+            "last_edit_date": 1474990303,
+            "score": 0,
+            "tags": [
+                "python",
+                "json",
+                "pandas"
+            ],
+            "view_count": 24,
+            "link": "http://stackoverflow.com/questions/39728551/how-to-handle-json-documents-that-have-float-values-with-no-leading-zeroes-befor",
+            "last_activity_date": 1474990303,
+            "question_id": 39728551,
+            "is_answered": false,
+            "answer_count": 0,
+            "title": "How to handle JSON documents that have float values with no leading zeroes before decimal points?",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 61,
+                "link": "http://stackoverflow.com/users/213334/sfactor",
+                "reputation": 2885,
+                "display_name": "sfactor",
+                "profile_image": "https://www.gravatar.com/avatar/f7d036a88299407f3258b7426829f011?s=128&d=identicon&r=PG",
+                "user_id": 213334
+            }
+        },
+        {
+            "creation_date": 1474986245,
+            "last_edit_date": 1474990596,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "group-by",
+                "sum",
+                "aggregate"
+            ],
+            "view_count": 38,
+            "link": "http://stackoverflow.com/questions/39727271/pandas-aggregate-data-through-the-dataframe",
+            "last_activity_date": 1474990596,
+            "question_id": 39727271,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Pandas: aggregate data through the dataframe",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 63,
+                "link": "http://stackoverflow.com/users/6840039/petr-petrov",
+                "reputation": 160,
+                "display_name": "Petr Petrov",
+                "profile_image": "https://www.gravatar.com/avatar/bbe8da8fb805e0564d583715d6addb74?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6840039
+            }
+        },
+        {
+            "creation_date": 1474985886,
+            "last_edit_date": 1475008872,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "indexing",
+                "duplicates",
+                "multiple-columns"
+            ],
+            "view_count": 29,
+            "link": "http://stackoverflow.com/questions/39727129/how-to-remove-rows-with-duplicates-in-pandas-dataframe",
+            "last_activity_date": 1475008872,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/6389660/joe",
+                "reputation": 48,
+                "display_name": "Joe",
+                "profile_image": "https://www.gravatar.com/avatar/f7396c95bade411a0e27eae4a2e6f697?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6389660
+            },
+            "question_id": 39727129,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "How to remove rows with duplicates in pandas dataframe?",
+            "accepted_answer_id": 39727182
+        },
+        {
+            "creation_date": 1474983843,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 51,
+                "link": "http://stackoverflow.com/users/2817602/demetri-p",
+                "reputation": 406,
+                "display_name": "Demetri P",
+                "profile_image": "https://www.gravatar.com/avatar/d0cd2834659a7030186782d886adf317?s=128&d=identicon&r=PG&f=1",
+                "user_id": 2817602
+            },
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 28,
+            "link": "http://stackoverflow.com/questions/39726335/counting-occurrence-of-a-gender-in-a-dataframe-by-age",
+            "last_activity_date": 1474983902,
+            "question_id": 39726335,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Counting occurrence of a gender in a dataframe by age",
+            "accepted_answer_id": 39726358
+        },
+        {
+            "creation_date": 1474981376,
+            "last_edit_date": 1475014166,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "scipy"
+            ],
+            "view_count": 65,
+            "link": "http://stackoverflow.com/questions/39725419/solving-sets-of-non-linear-equations-as-an-array",
+            "last_activity_date": 1475014166,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 46,
+                "link": "http://stackoverflow.com/users/1754273/radical-edward",
+                "reputation": 714,
+                "display_name": "Radical Edward",
+                "profile_image": "https://i.stack.imgur.com/YPRk0.jpg?s=128&g=1",
+                "user_id": 1754273
+            },
+            "question_id": 39725419,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Solving sets of non-linear equations as an array",
+            "accepted_answer_id": 39726868
+        },
+        {
+            "creation_date": 1474978975,
+            "last_edit_date": 1474980079,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "transform"
+            ],
+            "view_count": 24,
+            "link": "http://stackoverflow.com/questions/39724586/pandas-broadcasting-values-given-logical-condition-in-group-by",
+            "last_activity_date": 1474980350,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/5263412/swepab",
+                "reputation": 103,
+                "display_name": "swepab",
+                "profile_image": "https://www.gravatar.com/avatar/6345876ca3b7e7c091b3a59eb2076b8f?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5263412
+            },
+            "question_id": 39724586,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Pandas broadcasting values given logical condition in group by",
+            "accepted_answer_id": 39724878
+        },
+        {
+            "creation_date": 1474978228,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 80,
+                "link": "http://stackoverflow.com/users/3197044/jaydeepsb",
+                "reputation": 112,
+                "display_name": "jaydeepsb",
+                "profile_image": "https://www.gravatar.com/avatar/fe8a6b632ce42e00dd4b6c95299bccd6?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3197044
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 33,
+            "link": "http://stackoverflow.com/questions/39724298/pandas-extract-comment-lines",
+            "last_activity_date": 1474981038,
+            "question_id": 39724298,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Pandas extract comment lines",
+            "accepted_answer_id": 39724905
+        },
+        {
+            "creation_date": 1474977876,
+            "last_edit_date": 1474978628,
+            "score": 1,
+            "tags": [
+                "python",
+                "string",
+                "pandas",
+                "condition",
+                "contains"
+            ],
+            "view_count": 45,
+            "link": "http://stackoverflow.com/questions/39724182/pandas-and-apply-function-to-match-a-string",
+            "last_activity_date": 1474985161,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 60,
+                "link": "http://stackoverflow.com/users/5436714/xxxvinxxx",
+                "reputation": 126,
+                "display_name": "xxxvinxxx",
+                "profile_image": "https://www.gravatar.com/avatar/e6477e717551919bfd49eb1645e1acdc?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5436714
+            },
+            "question_id": 39724182,
+            "is_answered": true,
+            "answer_count": 3,
+            "title": "Pandas and apply function to match a string",
+            "accepted_answer_id": 39724270
+        },
+        {
+            "creation_date": 1474977061,
+            "last_edit_date": 1474979958,
+            "score": 2,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "view_count": 75,
+            "link": "http://stackoverflow.com/questions/39723925/how-to-separate-a-csv-file-when-there-are-lines",
+            "last_activity_date": 1475037642,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 75,
+                "link": "http://stackoverflow.com/users/4795243/koen",
+                "reputation": 37,
+                "display_name": "Koen",
+                "profile_image": "https://www.gravatar.com/avatar/d65106eb158c621ea1696d925e222b2a?s=128&d=identicon&r=PG",
+                "user_id": 4795243
+            },
+            "question_id": 39723925,
+            "is_answered": true,
+            "answer_count": 3,
+            "title": "How to separate a CSV file when there are &quot;&quot; lines?",
+            "accepted_answer_id": 39724573
+        },
+        {
+            "creation_date": 1474976106,
+            "last_edit_date": 1474981797,
+            "score": -1,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "view_count": 70,
+            "link": "http://stackoverflow.com/questions/39723619/compare-two-csv-files-and-color-code-the-difference-in-csv",
+            "last_activity_date": 1474981797,
+            "question_id": 39723619,
+            "is_answered": false,
+            "answer_count": 2,
+            "title": "Compare two csv files and color code the difference in csv",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 0,
+                "link": "http://stackoverflow.com/users/3153140/user3153140",
+                "reputation": 8,
+                "display_name": "user3153140",
+                "profile_image": "https://www.gravatar.com/avatar/d7f3f57d0b538ad43b37f075c3fa6472?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3153140
+            }
+        },
+        {
+            "creation_date": 1474974371,
+            "last_edit_date": 1474977735,
+            "score": 2,
+            "tags": [
+                "python",
+                "python-2.7",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 24,
+            "link": "http://stackoverflow.com/questions/39723061/how-to-extract-date-form-data-frame-column",
+            "last_activity_date": 1474977735,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/6117337/alex-savin",
+                "reputation": 75,
+                "display_name": "Alex Savin",
+                "profile_image": "https://graph.facebook.com/986945494675162/picture?type=large",
+                "user_id": 6117337
+            },
+            "question_id": 39723061,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "How to extract date form data frame column?",
+            "accepted_answer_id": 39723167
+        },
+        {
+            "creation_date": 1474972048,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/4810381/achyuta-nanda-sahoo",
+                "reputation": 13,
+                "display_name": "Achyuta nanda sahoo",
+                "profile_image": "https://lh3.googleusercontent.com/-d8l7qz62wBI/AAAAAAAAAAI/AAAAAAAABQ4/vWrrgIt7duI/photo.jpg?sz=128",
+                "user_id": 4810381
+            },
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "artificial-intelligence"
+            ],
+            "view_count": 42,
+            "link": "http://stackoverflow.com/questions/39722279/is-it-a-good-idea-to-apply-ml-libraries-on-pandas-data-frame",
+            "last_activity_date": 1474973009,
+            "question_id": 39722279,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Is it a good idea to apply ML libraries on pandas data frame?",
+            "accepted_answer_id": 39722582
+        },
+        {
+            "creation_date": 1474971768,
+            "last_edit_date": 1474972990,
+            "score": 1,
+            "tags": [
+                "python",
+                "datetime",
+                "pandas",
+                "aggregate",
+                "days"
+            ],
+            "view_count": 16,
+            "link": "http://stackoverflow.com/questions/39722185/pandas-count-some-values-in-a-column",
+            "last_activity_date": 1474972990,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 63,
+                "link": "http://stackoverflow.com/users/6840039/petr-petrov",
+                "reputation": 160,
+                "display_name": "Petr Petrov",
+                "profile_image": "https://www.gravatar.com/avatar/bbe8da8fb805e0564d583715d6addb74?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6840039
+            },
+            "question_id": 39722185,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Pandas: count some values in a column",
+            "accepted_answer_id": 39722273
+        },
+        {
+            "creation_date": 1474970648,
+            "last_edit_date": 1474973449,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "data-conversion",
+                "dask"
+            ],
+            "view_count": 82,
+            "link": "http://stackoverflow.com/questions/39721800/convert-pandas-dataframe-to-dask-dataframe",
+            "last_activity_date": 1475042793,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/5946185/rey",
+                "reputation": 53,
+                "display_name": "rey",
+                "profile_image": "https://www.gravatar.com/avatar/41fb55e6e8f087e790c68904134907d1?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5946185
+            },
+            "question_id": 39721800,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Convert Pandas dataframe to Dask dataframe",
+            "accepted_answer_id": 39722445
+        },
+        {
+            "creation_date": 1474968480,
+            "last_edit_date": 1474972217,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 35,
+            "link": "http://stackoverflow.com/questions/39721008/pandas-join-two-tables-based-on-time-condition",
+            "last_activity_date": 1474974439,
+            "question_id": 39721008,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Pandas Join Two Tables Based On Time Condition",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 65,
+                "link": "http://stackoverflow.com/users/1035217/user1035217",
+                "reputation": 235,
+                "display_name": "user1035217",
+                "profile_image": "https://www.gravatar.com/avatar/aaa90154ebc49e3ea24d53730bf64aba?s=128&d=identicon&r=PG",
+                "user_id": 1035217
+            }
+        },
+        {
+            "creation_date": 1474967476,
+            "last_edit_date": 1474968129,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "date-range",
+                "period",
+                "datetimeindex"
+            ],
+            "view_count": 13,
+            "link": "http://stackoverflow.com/questions/39720641/pandas-datetimeindex-strange-behaviour",
+            "last_activity_date": 1474968129,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 25,
+                "link": "http://stackoverflow.com/users/2218402/philchang",
+                "reputation": 603,
+                "display_name": "PhilChang",
+                "profile_image": "https://www.gravatar.com/avatar/0c6d305ed9c127e3a69a0ee98009d25f?s=128&d=identicon&r=PG",
+                "user_id": 2218402
+            },
+            "question_id": 39720641,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Pandas DatetimeIndex strange behaviour",
+            "accepted_answer_id": 39720677
+        },
+        {
+            "creation_date": 1474966613,
+            "last_edit_date": 1474967246,
+            "score": 1,
+            "tags": [
+                "python",
+                "json",
+                "python-3.x",
+                "pandas",
+                "jupyter-notebook"
+            ],
+            "view_count": 19,
+            "link": "http://stackoverflow.com/questions/39720332/pandas-read-json-function-converts-strings-to-datetime-objects-even-the-conve",
+            "last_activity_date": 1474967246,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 47,
+                "link": "http://stackoverflow.com/users/3960038/discort",
+                "reputation": 102,
+                "display_name": "discort",
+                "profile_image": "https://www.gravatar.com/avatar/afe8cf0442973caec869aeda2210ff70?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3960038
+            },
+            "question_id": 39720332,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Pandas `read_json` function converts strings to DateTime objects even the `convert_dates=False` attr is specified",
+            "accepted_answer_id": 39720414
+        },
+        {
+            "creation_date": 1474959936,
+            "last_edit_date": 1474990142,
+            "score": -1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "scipy"
+            ],
+            "view_count": 37,
+            "link": "http://stackoverflow.com/questions/39718157/panda-how-to-groupby-rows-into-different-time-buckets",
+            "last_activity_date": 1474990142,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 76,
+                "link": "http://stackoverflow.com/users/2821224/9blue",
+                "reputation": 1450,
+                "display_name": "9blue",
+                "profile_image": "https://i.stack.imgur.com/eaKnm.png?s=128&g=1",
+                "user_id": 2821224
+            },
+            "question_id": 39718157,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Panda how to groupby rows into different time buckets?",
+            "accepted_answer_id": 39728612
+        },
+        {
+            "creation_date": 1474958772,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 40,
+                "link": "http://stackoverflow.com/users/6661895/harshavardhan-ramanna",
+                "reputation": 160,
+                "display_name": "Harshavardhan Ramanna",
+                "profile_image": "https://graph.facebook.com/10201962752226541/picture?type=large",
+                "user_id": 6661895
+            },
+            "score": 4,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 48,
+            "link": "http://stackoverflow.com/questions/39717809/insert-list-into-cells-which-meet-column-conditions",
+            "last_activity_date": 1474966599,
+            "question_id": 39717809,
+            "is_answered": true,
+            "answer_count": 3,
+            "title": "Insert list into cells which meet column conditions",
+            "accepted_answer_id": 39719580
+        },
+        {
+            "creation_date": 1474957435,
+            "score": 4,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "is_answered": true,
+            "answer_count": 2,
+            "view_count": 27,
+            "title": "Adding items to empty pandas DataFrame",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 47,
+                "link": "http://stackoverflow.com/users/1934212/user1934212",
+                "reputation": 160,
+                "display_name": "user1934212",
+                "profile_image": "https://www.gravatar.com/avatar/4541f393544d792cfb3a1cbb9bb9866a?s=128&d=identicon&r=PG",
+                "user_id": 1934212
+            },
+            "link": "http://stackoverflow.com/questions/39717407/adding-items-to-empty-pandas-dataframe",
+            "last_activity_date": 1474958919,
+            "question_id": 39717407
+        },
+        {
+            "creation_date": 1474952017,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/6284734/brian",
+                "reputation": 363,
+                "display_name": "Brian",
+                "profile_image": "https://www.gravatar.com/avatar/d8a6096e9cf3c6558698c7d1176a9cfc?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6284734
+            },
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "multi-index"
+            ],
+            "view_count": 15,
+            "link": "http://stackoverflow.com/questions/39716210/pandas-series-drop-when-multiindex-is-not-unique",
+            "last_activity_date": 1474952141,
+            "question_id": 39716210,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "pandas series drop when multiindex is not unique",
+            "accepted_answer_id": 39716240
+        },
+        {
+            "creation_date": 1474950318,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/6724844/heisenberg",
+                "reputation": 342,
+                "display_name": "Heisenberg",
+                "profile_image": "https://lh3.googleusercontent.com/-yH5Kk4-N2ng/AAAAAAAAAAI/AAAAAAAABM4/ri9dM8iEE94/photo.jpg?sz=128",
+                "user_id": 6724844
+            },
+            "score": 3,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 28,
+            "link": "http://stackoverflow.com/questions/39715950/groupby-and-add-some-rows",
+            "last_activity_date": 1474951125,
+            "question_id": 39715950,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "groupby and add some rows",
+            "accepted_answer_id": 39716069
+        },
+        {
+            "creation_date": 1474950031,
+            "score": 4,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "series"
+            ],
+            "is_answered": true,
+            "answer_count": 1,
+            "view_count": 39,
+            "title": "Trying to create a pandas series within a dataframe with values based on whether or not keys are in another dataframe",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6186122/patrick",
+                "reputation": 28,
+                "display_name": "Patrick",
+                "profile_image": "https://www.gravatar.com/avatar/8f293bb8cc3928de4af554d1c9ceac6a?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6186122
+            },
+            "link": "http://stackoverflow.com/questions/39715910/trying-to-create-a-pandas-series-within-a-dataframe-with-values-based-on-whether",
+            "last_activity_date": 1475103389,
+            "question_id": 39715910
+        },
+        {
+            "creation_date": 1474948364,
+            "score": 0,
+            "tags": [
+                "python",
+                "csv",
+                "pandas",
+                "matplotlib",
+                "jupyter-notebook"
+            ],
+            "is_answered": false,
+            "answer_count": 0,
+            "view_count": 33,
+            "title": "Cannot get pandas to open CSV [Python, Jupyter, Pandas]",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 57,
+                "link": "http://stackoverflow.com/users/2259735/jonplaca",
+                "reputation": 145,
+                "display_name": "jonplaca",
+                "profile_image": "https://www.gravatar.com/avatar/b5c3cfaaaae0be97a5d9a22e702202e4?s=128&d=identicon&r=PG",
+                "user_id": 2259735
+            },
+            "link": "http://stackoverflow.com/questions/39715686/cannot-get-pandas-to-open-csv-python-jupyter-pandas",
+            "last_activity_date": 1474948364,
+            "question_id": 39715686
+        },
+        {
+            "creation_date": 1474939442,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/6724844/heisenberg",
+                "reputation": 342,
+                "display_name": "Heisenberg",
+                "profile_image": "https://lh3.googleusercontent.com/-yH5Kk4-N2ng/AAAAAAAAAAI/AAAAAAAABM4/ri9dM8iEE94/photo.jpg?sz=128",
+                "user_id": 6724844
+            },
+            "score": 4,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 38,
+            "link": "http://stackoverflow.com/questions/39714682/how-to-add-new-column-with-handling-nan-value",
+            "last_activity_date": 1474963049,
+            "question_id": 39714682,
+            "is_answered": true,
+            "answer_count": 3,
+            "title": "How to add new column with handling nan value",
+            "accepted_answer_id": 39714714
+        },
+        {
+            "creation_date": 1474938224,
+            "last_edit_date": 1475099067,
+            "score": 1,
+            "tags": [
+                "python",
+                "csv",
+                "pandas",
+                "hive",
+                "itertools"
+            ],
+            "view_count": 53,
+            "link": "http://stackoverflow.com/questions/39714574/group-unique-0th-elements-of-csv-for-unique-ith-elements-in-python-or-hive",
+            "last_activity_date": 1475099067,
+            "question_id": 39714574,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Group unique 0th elements of CSV for unique ith elements in python or hive",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6765878/whynot",
+                "reputation": 8,
+                "display_name": "WhyNot",
+                "profile_image": "https://www.gravatar.com/avatar/c355d8797f2538069da16bb028c3d2e6?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6765878
+            }
+        },
+        {
+            "creation_date": 1474935649,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 71,
+                "link": "http://stackoverflow.com/users/3822779/racekiller",
+                "reputation": 43,
+                "display_name": "racekiller",
+                "profile_image": "https://www.gravatar.com/avatar/44d5d0901d750bbb2261146ae524ba42?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3822779
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 29,
+            "link": "http://stackoverflow.com/questions/39714267/how-to-use-pd-melt-for-two-rows-as-headers",
+            "last_activity_date": 1474951566,
+            "question_id": 39714267,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "How to use pd.melt for two rows as headers",
+            "accepted_answer_id": 39716140
+        },
+        {
+            "creation_date": 1474931039,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/6530451/justin",
+                "reputation": 85,
+                "display_name": "Justin",
+                "profile_image": "https://graph.facebook.com/1090211404377579/picture?type=large",
+                "user_id": 6530451
+            },
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "dataframe"
+            ],
+            "view_count": 20,
+            "link": "http://stackoverflow.com/questions/39713678/assigning-indicators-based-on-observation-quantile",
+            "last_activity_date": 1474932182,
+            "question_id": 39713678,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Assigning indicators based on observation quantile",
+            "accepted_answer_id": 39713787
+        },
+        {
+            "creation_date": 1474929879,
+            "last_edit_date": 1475069362,
+            "score": 0,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "view_count": 54,
+            "link": "http://stackoverflow.com/questions/39713526/pandas-io-common-cparsererror-error-tokenizing-data-c-error-out-of-memory",
+            "last_activity_date": 1475069362,
+            "question_id": 39713526,
+            "is_answered": false,
+            "answer_count": 0,
+            "title": "pandas.io.common.CParserError: Error tokenizing data. C error: out of memory",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 71,
+                "link": "http://stackoverflow.com/users/3822779/racekiller",
+                "reputation": 43,
+                "display_name": "racekiller",
+                "profile_image": "https://www.gravatar.com/avatar/44d5d0901d750bbb2261146ae524ba42?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3822779
+            }
+        },
+        {
+            "creation_date": 1474928936,
+            "last_edit_date": 1474929882,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 36,
+            "link": "http://stackoverflow.com/questions/39713381/convert-range-to-timestamp-in-pandas",
+            "last_activity_date": 1474930328,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 91,
+                "link": "http://stackoverflow.com/users/1625098/rohit",
+                "reputation": 978,
+                "display_name": "Rohit",
+                "profile_image": "https://www.gravatar.com/avatar/2ae7ca5b1de8c1c84f39df6770544ad0?s=128&d=identicon&r=PG",
+                "user_id": 1625098
+            },
+            "question_id": 39713381,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Convert range to timestamp in Pandas",
+            "accepted_answer_id": 39713580
+        },
+        {
+            "creation_date": 1474927519,
+            "last_edit_date": 1474987180,
+            "score": 2,
+            "tags": [
+                "python",
+                "python-2.7",
+                "sorting",
+                "datetime",
+                "pandas"
+            ],
+            "view_count": 55,
+            "link": "http://stackoverflow.com/questions/39713137/how-can-i-sort-datetime-columns-by-row-value-in-a-pandas-dataframe",
+            "last_activity_date": 1474993745,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/5865631/alemosie",
+                "reputation": 25,
+                "display_name": "alemosie",
+                "profile_image": "https://lh4.googleusercontent.com/-BFyqOQcaiUg/AAAAAAAAAAI/AAAAAAAAALE/SVuwqZdiQNc/photo.jpg?sz=128",
+                "user_id": 5865631
+            },
+            "question_id": 39713137,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "How can I sort datetime columns by row value in a Pandas dataframe?",
+            "accepted_answer_id": 39729862
+        },
+        {
+            "creation_date": 1474924828,
+            "last_edit_date": 1475095622,
+            "score": 7,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 202,
+            "link": "http://stackoverflow.com/questions/39712602/create-groups-classes-based-on-conditions-within-columns",
+            "last_activity_date": 1475778549,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 67,
+                "link": "http://stackoverflow.com/users/6545542/christopher",
+                "reputation": 96,
+                "display_name": "Christopher",
+                "profile_image": "https://www.gravatar.com/avatar/bd62ef8dcbbe000232e720262ea62f35?s=128&d=identicon&r=PG",
+                "user_id": 6545542
+            },
+            "question_id": 39712602,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Create groups/classes based on conditions within columns",
+            "accepted_answer_id": 39903229
+        },
+        {
+            "creation_date": 1474924166,
+            "score": 4,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "is_answered": true,
+            "answer_count": 1,
+            "view_count": 66,
+            "title": "sum of &#39;float64&#39; column type in pandas return float instead of numpy.float64",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 56,
+                "link": "http://stackoverflow.com/users/440732/nishant",
+                "reputation": 576,
+                "display_name": "nishant",
+                "profile_image": "https://www.gravatar.com/avatar/ec3c8b76a17c17cb8f9eafa5af50bfa0?s=128&d=identicon&r=PG",
+                "user_id": 440732
+            },
+            "link": "http://stackoverflow.com/questions/39712435/sum-of-float64-column-type-in-pandas-return-float-instead-of-numpy-float64",
+            "last_activity_date": 1474966637,
+            "question_id": 39712435
+        },
+        {
+            "creation_date": 1474922369,
+            "last_edit_date": 1474926194,
+            "score": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 64,
+            "link": "http://stackoverflow.com/questions/39711977/how-can-i-filter-for-string-values-in-a-mixed-datatype-object-in-python-pandas-d",
+            "last_activity_date": 1475001200,
+            "question_id": 39711977,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "How can I filter for string values in a mixed datatype object in Python Pandas Dataframe",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/5882284/madhulika-chaudhry",
+                "reputation": 19,
+                "display_name": "Madhulika Chaudhry",
+                "profile_image": "https://lh4.googleusercontent.com/-hRK9CVNR-1Q/AAAAAAAAAAI/AAAAAAAAABA/AzeUa3q0ol8/photo.jpg?sz=128",
+                "user_id": 5882284
+            }
+        },
+        {
+            "creation_date": 1474920127,
+            "last_edit_date": 1474925137,
+            "score": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 41,
+            "link": "http://stackoverflow.com/questions/39711422/getting-percentages-after-binning-pandas-dataframe",
+            "last_activity_date": 1474925137,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 81,
+                "link": "http://stackoverflow.com/users/5405545/m-arroyo",
+                "reputation": 115,
+                "display_name": "M Arroyo",
+                "profile_image": "https://www.gravatar.com/avatar/c6e4448535797474bdc7478aff83e222?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5405545
+            },
+            "question_id": 39711422,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Getting percentages after binning pandas dataframe",
+            "accepted_answer_id": 39711997
+        },
+        {
+            "creation_date": 1474919451,
+            "last_edit_date": 1474925102,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib",
+                "plot",
+                "dataframe"
+            ],
+            "view_count": 19,
+            "link": "http://stackoverflow.com/questions/39711229/typeerror-for-bar-plot-with-custom-date-range",
+            "last_activity_date": 1474925102,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 92,
+                "link": "http://stackoverflow.com/users/2605262/lukasz",
+                "reputation": 401,
+                "display_name": "Lukasz",
+                "profile_image": "https://www.gravatar.com/avatar/1a5d81ecf2f500b5a9856140a1b2e372?s=128&d=identicon&r=PG",
+                "user_id": 2605262
+            },
+            "question_id": 39711229,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "TypeError for bar plot with custom date range",
+            "accepted_answer_id": 39712085
+        },
+        {
+            "creation_date": 1474918607,
+            "last_edit_date": 1474924803,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "matplotlib"
+            ],
+            "view_count": 34,
+            "link": "http://stackoverflow.com/questions/39710995/plot-datetime64-with-matplotlib",
+            "last_activity_date": 1474924803,
+            "question_id": 39710995,
+            "is_answered": false,
+            "answer_count": 0,
+            "title": "Plot datetime64 with matplotlib",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/4455015/clarencebuttowski",
+                "reputation": 6,
+                "display_name": "clarencebuttowski",
+                "profile_image": "https://i.stack.imgur.com/Vwitt.png?s=128&g=1",
+                "user_id": 4455015
+            }
+        },
+        {
+            "creation_date": 1474918304,
+            "last_edit_date": 1474918487,
+            "score": 0,
+            "tags": [
+                "python",
+                "html",
+                "pandas"
+            ],
+            "view_count": 26,
+            "link": "http://stackoverflow.com/questions/39710903/pd-read-html-imports-a-list-rather-than-a-dataframe",
+            "last_activity_date": 1474918570,
+            "question_id": 39710903,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "pd.read_html() imports a list rather than a dataframe",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 0,
+                "link": "http://stackoverflow.com/users/6875401/alexander-konstantinidis",
+                "reputation": 1,
+                "display_name": "Alexander Konstantinidis",
+                "profile_image": "https://www.gravatar.com/avatar/58298ad9864486901cceffd189516eb2?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6875401
+            }
+        },
+        {
+            "creation_date": 1474909347,
+            "score": -1,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "is_answered": false,
+            "answer_count": 1,
+            "view_count": 31,
+            "title": "Compare between 2 Excel files and give difference based on key column",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 22,
+                "link": "http://stackoverflow.com/users/3285014/user3285014",
+                "reputation": 33,
+                "display_name": "user3285014",
+                "profile_image": "https://www.gravatar.com/avatar/ffccdc8844598b5c3b6fa703083f777b?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3285014
+            },
+            "link": "http://stackoverflow.com/questions/39708455/compare-between-2-excel-files-and-give-difference-based-on-key-column",
+            "last_activity_date": 1474918919,
+            "question_id": 39708455
+        },
+        {
+            "creation_date": 1474908232,
+            "last_edit_date": 1474916364,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "time-series",
+                "resampling",
+                "quantile"
+            ],
+            "view_count": 58,
+            "link": "http://stackoverflow.com/questions/39708133/typeerror-cant-multiply-sequence-by-non-int-of-type-float-python-2-7",
+            "last_activity_date": 1474916424,
+            "question_id": 39708133,
+            "is_answered": false,
+            "answer_count": 1,
+            "title": "TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; (python 2.7)",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 61,
+                "link": "http://stackoverflow.com/users/6071128/andreuccio",
+                "reputation": 65,
+                "display_name": "Andreuccio",
+                "profile_image": "https://www.gravatar.com/avatar/5caee95acc198980d5f476ed50fe7e73?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6071128
+            }
+        },
+        {
+            "creation_date": 1474904693,
+            "last_edit_date": 1475135009,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "ranking",
+                "rank",
+                "ordinal"
+            ],
+            "view_count": 80,
+            "link": "http://stackoverflow.com/questions/39707080/pandas-alternative-to-rank-function-that-gives-unique-ordinal-ranks-for-a-co",
+            "last_activity_date": 1475135009,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/4602441/sebastiaan-thuis",
+                "reputation": 13,
+                "display_name": "Sebastiaan Thuis",
+                "profile_image": "https://www.gravatar.com/avatar/122a113afb9b3f018b80e47e63d1fa4d?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4602441
+            },
+            "question_id": 39707080,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Pandas - Alternative to rank() function that gives unique ordinal ranks for a column",
+            "accepted_answer_id": 39708191
+        },
+        {
+            "creation_date": 1474904349,
+            "score": 0,
+            "tags": [
+                "python",
+                "excel",
+                "pandas"
+            ],
+            "is_answered": false,
+            "answer_count": 0,
+            "view_count": 31,
+            "title": "Writing long number to excel from pandas",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/686075/deadlocked",
+                "reputation": 11,
+                "display_name": "Deadlocked",
+                "profile_image": "https://www.gravatar.com/avatar/70480e9e5988c6052aa1561b286c3538?s=128&d=identicon&r=PG",
+                "user_id": 686075
+            },
+            "link": "http://stackoverflow.com/questions/39706977/writing-long-number-to-excel-from-pandas",
+            "last_activity_date": 1474904349,
+            "question_id": 39706977
+        },
+        {
+            "creation_date": 1474904336,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 73,
+                "link": "http://stackoverflow.com/users/4169892/maryam-pashmi",
+                "reputation": 214,
+                "display_name": "Maryam Pashmi",
+                "profile_image": "https://lh6.googleusercontent.com/-SyhLYwNgqrE/AAAAAAAAAAI/AAAAAAAAAOQ/-meCBKAfR44/photo.jpg?sz=128",
+                "user_id": 4169892
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "datetime",
+                "pandas"
+            ],
+            "view_count": 35,
+            "link": "http://stackoverflow.com/questions/39706970/pandas-error-when-convert-object-to-datetime",
+            "last_activity_date": 1474907284,
+            "question_id": 39706970,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "pandas error when convert object to datetime",
+            "accepted_answer_id": 39707864
+        },
+        {
+            "creation_date": 1474902137,
+            "last_edit_date": 1474902290,
+            "score": 0,
+            "tags": [
+                "python",
+                "python-2.7",
+                "pandas"
+            ],
+            "view_count": 44,
+            "link": "http://stackoverflow.com/questions/39706194/update-a-null-values-in-countrycode-column-in-a-data-frame-by-matching-substring",
+            "last_activity_date": 1475056475,
+            "question_id": 39706194,
+            "is_answered": false,
+            "answer_count": 1,
+            "title": "Update a null values in countrycode column in a data frame by matching substring of country name using python",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6132613/bharath",
+                "reputation": 4,
+                "display_name": "Bharath",
+                "profile_image": "https://lh4.googleusercontent.com/-0TVUo2vzxUI/AAAAAAAAAAI/AAAAAAAAAJE/iLKTw7v0eiI/photo.jpg?sz=128",
+                "user_id": 6132613
+            }
+        },
+        {
+            "creation_date": 1474898613,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/5355800/jaime",
+                "reputation": 17,
+                "display_name": "Jaime",
+                "profile_image": "https://www.gravatar.com/avatar/74248ea4f60c4339bfc1f5ddbbec3413?s=128&d=identicon&r=PG&f=1",
+                "user_id": 5355800
+            },
+            "score": 2,
+            "tags": [
+                "python",
+                "loops",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 24,
+            "link": "http://stackoverflow.com/questions/39705022/looping-over-pandas-data-frame-applying-formula-to-each-value",
+            "last_activity_date": 1474898789,
+            "question_id": 39705022,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Looping over pandas data frame applying formula to each value",
+            "accepted_answer_id": 39705072
+        },
+        {
+            "creation_date": 1474895810,
+            "score": 0,
+            "tags": [
+                "python",
+                "r",
+                "pandas",
+                "rpy2"
+            ],
+            "is_answered": false,
+            "answer_count": 0,
+            "view_count": 41,
+            "title": "Converting python dataframe(pandas) with a timestamp column to R dataframe using rpy2",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/1254450/amolsah",
+                "reputation": 19,
+                "display_name": "amolsah",
+                "profile_image": "https://www.gravatar.com/avatar/6e328eb6d8d4f21155d78dfdfe32fa29?s=128&d=identicon&r=PG",
+                "user_id": 1254450
+            },
+            "link": "http://stackoverflow.com/questions/39703962/converting-python-dataframepandas-with-a-timestamp-column-to-r-dataframe-using",
+            "last_activity_date": 1474895810,
+            "question_id": 39703962
+        },
+        {
+            "creation_date": 1474895266,
+            "last_edit_date": 1474986796,
+            "score": 1,
+            "tags": [
+                "python",
+                "python-2.7",
+                "csv",
+                "pandas"
+            ],
+            "view_count": 38,
+            "link": "http://stackoverflow.com/questions/39703749/calculate-a-new-column-with-pandas",
+            "last_activity_date": 1474986796,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 67,
+                "link": "http://stackoverflow.com/users/6618225/khaled",
+                "reputation": 32,
+                "display_name": "Khaled",
+                "profile_image": "https://www.gravatar.com/avatar/c8ef2caf307327415deb918762b76b1a?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6618225
+            },
+            "question_id": 39703749,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Calculate a new column with Pandas",
+            "accepted_answer_id": 39704712
+        },
+        {
+            "creation_date": 1474895229,
+            "last_edit_date": 1474895871,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "dataframe"
+            ],
+            "view_count": 15,
+            "link": "http://stackoverflow.com/questions/39703734/input-column-based-on-conditional-statement-pandas",
+            "last_activity_date": 1474895889,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6863702/coms",
+                "reputation": 3,
+                "display_name": "coms",
+                "profile_image": "https://www.gravatar.com/avatar/4564ff43c7a0eb0d17231f5ec8e0cde7?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6863702
+            },
+            "question_id": 39703734,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "input column based on conditional statement pandas",
+            "accepted_answer_id": 39703840
+        },
+        {
+            "creation_date": 1474895054,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 29,
+                "link": "http://stackoverflow.com/users/2378710/jamgreen",
+                "reputation": 1532,
+                "display_name": "Jamgreen",
+                "profile_image": "https://www.gravatar.com/avatar/2faf91f2efa646f23b07220deb997687?s=128&d=identicon&r=PG",
+                "user_id": 2378710
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "sklearn-pandas"
+            ],
+            "view_count": 19,
+            "link": "http://stackoverflow.com/questions/39703665/elementwise-operation-on-pandas-series",
+            "last_activity_date": 1474895150,
+            "question_id": 39703665,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Elementwise operation on pandas series",
+            "accepted_answer_id": 39703706
+        },
+        {
+            "creation_date": 1474893746,
+            "last_edit_date": 1474895504,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "merge",
+                "inner-join"
+            ],
+            "view_count": 17,
+            "link": "http://stackoverflow.com/questions/39703165/join-dataframes-by-column-values-pandas",
+            "last_activity_date": 1474895504,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 91,
+                "link": "http://stackoverflow.com/users/4544413/luis-ramon-ramirez-rodriguez",
+                "reputation": 759,
+                "display_name": "Luis Ramon Ramirez Rodriguez",
+                "profile_image": "https://www.gravatar.com/avatar/e76680e93b59e0f38238f5a0c47d1ca3?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4544413
+            },
+            "question_id": 39703165,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Join dataframes by column values pandas",
+            "accepted_answer_id": 39703204
+        },
+        {
+            "creation_date": 1474890867,
+            "last_edit_date": 1474892253,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "division"
+            ],
+            "view_count": 38,
+            "link": "http://stackoverflow.com/questions/39702156/calculate-rsi-from-pandas-dataframe",
+            "last_activity_date": 1474892253,
+            "question_id": 39702156,
+            "is_answered": false,
+            "answer_count": 0,
+            "title": "Calculate RSI from pandas dataframe",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6835733/cronosvirus00",
+                "reputation": 18,
+                "display_name": "CronosVirus00",
+                "profile_image": "https://www.gravatar.com/avatar/90957adf057fd412186db55b428c0ba3?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6835733
+            }
+        },
+        {
+            "creation_date": 1474889738,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 78,
+                "link": "http://stackoverflow.com/users/1017373/user1017373",
+                "reputation": 309,
+                "display_name": "user1017373",
+                "profile_image": "https://www.gravatar.com/avatar/886b798dad527c0a22b68afae6a18d78?s=128&d=identicon&r=PG",
+                "user_id": 1017373
+            },
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "dataframe"
+            ],
+            "view_count": 26,
+            "link": "http://stackoverflow.com/questions/39701779/mapping-multiple-dataframe-based-on-the-matching-columns",
+            "last_activity_date": 1474902685,
+            "question_id": 39701779,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Mapping multiple dataframe based on the matching columns",
+            "accepted_answer_id": 39701957
+        },
+        {
+            "creation_date": 1474887116,
+            "score": -1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "is_answered": false,
+            "answer_count": 1,
+            "view_count": 23,
+            "title": "Why use pandas.DataFrame.copy() for column extraction",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6699237/tw-uxtli51nus",
+                "reputation": 41,
+                "display_name": "Tw UxTLi51Nus",
+                "profile_image": "https://www.gravatar.com/avatar/d2b95951121eca74cee56f75f7dbe898?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6699237
+            },
+            "link": "http://stackoverflow.com/questions/39700904/why-use-pandas-dataframe-copy-for-column-extraction",
+            "last_activity_date": 1474966089,
+            "question_id": 39700904
+        },
+        {
+            "creation_date": 1474886294,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 67,
+                "link": "http://stackoverflow.com/users/6618225/khaled",
+                "reputation": 32,
+                "display_name": "Khaled",
+                "profile_image": "https://www.gravatar.com/avatar/c8ef2caf307327415deb918762b76b1a?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6618225
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "python-2.7",
+                "csv",
+                "pandas"
+            ],
+            "view_count": 36,
+            "link": "http://stackoverflow.com/questions/39700636/define-date-format-in-python-pandas",
+            "last_activity_date": 1474888050,
+            "question_id": 39700636,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Define date format in Python / Pandas",
+            "accepted_answer_id": 39700945
+        },
+        {
+            "creation_date": 1474883538,
+            "last_edit_date": 1474883854,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 42,
+            "link": "http://stackoverflow.com/questions/39699659/creating-a-list-based-on-column-conditions",
+            "last_activity_date": 1474910215,
+            "question_id": 39699659,
+            "is_answered": false,
+            "answer_count": 1,
+            "title": "Creating a list based on column conditions",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 40,
+                "link": "http://stackoverflow.com/users/6661895/harshavardhan-ramanna",
+                "reputation": 160,
+                "display_name": "Harshavardhan Ramanna",
+                "profile_image": "https://graph.facebook.com/10201962752226541/picture?type=large",
+                "user_id": 6661895
+            }
+        },
+        {
+            "creation_date": 1474882525,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 100,
+                "link": "http://stackoverflow.com/users/6724844/heisenberg",
+                "reputation": 342,
+                "display_name": "Heisenberg",
+                "profile_image": "https://lh3.googleusercontent.com/-yH5Kk4-N2ng/AAAAAAAAAAI/AAAAAAAABM4/ri9dM8iEE94/photo.jpg?sz=128",
+                "user_id": 6724844
+            },
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 35,
+            "link": "http://stackoverflow.com/questions/39699312/how-to-check-whether-particular-column-completely-match-or-not",
+            "last_activity_date": 1474882657,
+            "question_id": 39699312,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "How to check whether particular column completely match or not",
+            "accepted_answer_id": 39699360
+        },
+        {
+            "creation_date": 1474879721,
+            "last_edit_date": 1474891992,
+            "score": 0,
+            "tags": [
+                "python",
+                "arrays",
+                "pandas",
+                "numpy",
+                "matrix"
+            ],
+            "view_count": 65,
+            "link": "http://stackoverflow.com/questions/39698363/concatenate-numpy-array-to-pandas-dataframe",
+            "last_activity_date": 1474891992,
+            "question_id": 39698363,
+            "is_answered": false,
+            "answer_count": 0,
+            "title": "Concatenate numpy array to pandas dataframe",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 29,
+                "link": "http://stackoverflow.com/users/2378710/jamgreen",
+                "reputation": 1532,
+                "display_name": "Jamgreen",
+                "profile_image": "https://www.gravatar.com/avatar/2faf91f2efa646f23b07220deb997687?s=128&d=identicon&r=PG",
+                "user_id": 2378710
+            }
+        },
+        {
+            "creation_date": 1474878857,
+            "last_edit_date": 1474891717,
+            "score": 1,
+            "tags": [
+                "python",
+                "python-2.7",
+                "csv",
+                "pandas"
+            ],
+            "view_count": 52,
+            "link": "http://stackoverflow.com/questions/39698097/python-pandas-convert-column-data-type",
+            "last_activity_date": 1474891717,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 67,
+                "link": "http://stackoverflow.com/users/6618225/khaled",
+                "reputation": 32,
+                "display_name": "Khaled",
+                "profile_image": "https://www.gravatar.com/avatar/c8ef2caf307327415deb918762b76b1a?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6618225
+            },
+            "question_id": 39698097,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Python Pandas convert column data type",
+            "accepted_answer_id": 39698318
+        },
+        {
+            "creation_date": 1474877335,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib",
+                "plot"
+            ],
+            "is_answered": false,
+            "answer_count": 1,
+            "view_count": 26,
+            "title": "Pandas DataFrame plotting - Tick labels",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6845144/cla-b",
+                "reputation": 15,
+                "display_name": "Cla B",
+                "profile_image": "https://www.gravatar.com/avatar/b631dee3d2f35b613ef1413f4df9b2e4?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6845144
+            },
+            "link": "http://stackoverflow.com/questions/39697683/pandas-dataframe-plotting-tick-labels",
+            "last_activity_date": 1474878140,
+            "question_id": 39697683
+        },
+        {
+            "creation_date": 1474876270,
+            "last_edit_date": 1474876479,
+            "score": 0,
+            "tags": [
+                "python",
+                "string",
+                "pandas",
+                "dataframe",
+                "count"
+            ],
+            "view_count": 18,
+            "link": "http://stackoverflow.com/questions/39697349/count-how-many-attributes-have-a-word-as-a-substring-of-longer-text-value",
+            "last_activity_date": 1474876479,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 88,
+                "link": "http://stackoverflow.com/users/2752265/jaken-herman",
+                "reputation": 708,
+                "display_name": "Jaken Herman",
+                "profile_image": "https://i.stack.imgur.com/JxQ2M.jpg?s=128&g=1",
+                "user_id": 2752265
+            },
+            "question_id": 39697349,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Count how many attributes have a word as a substring of longer text value",
+            "accepted_answer_id": 39697392
+        },
+        {
+            "creation_date": 1474869572,
+            "last_edit_date": 1474870432,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas",
+                "indexing",
+                "nan",
+                "pandasql"
+            ],
+            "view_count": 25,
+            "link": "http://stackoverflow.com/questions/39695606/querying-panda-df-to-filter-rows-where-a-column-is-not-nan",
+            "last_activity_date": 1474870432,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 43,
+                "link": "http://stackoverflow.com/users/4554446/dileep",
+                "reputation": 35,
+                "display_name": "Dileep",
+                "profile_image": "https://i.stack.imgur.com/ZAZn1.png?s=128&g=1",
+                "user_id": 4554446
+            },
+            "question_id": 39695606,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "querying panda df to filter rows where a column is not Nan",
+            "accepted_answer_id": 39695625
+        },
+        {
+            "creation_date": 1474868865,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 88,
+                "link": "http://stackoverflow.com/users/2752265/jaken-herman",
+                "reputation": 708,
+                "display_name": "Jaken Herman",
+                "profile_image": "https://i.stack.imgur.com/JxQ2M.jpg?s=128&g=1",
+                "user_id": 2752265
+            },
+            "score": 2,
+            "tags": [
+                "python",
+                "csv",
+                "pandas"
+            ],
+            "view_count": 23,
+            "link": "http://stackoverflow.com/questions/39695461/finding-value-of-another-attribute-given-an-attribute",
+            "last_activity_date": 1474868971,
+            "question_id": 39695461,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "Finding value of another attribute given an attribute",
+            "accepted_answer_id": 39695485
+        },
+        {
+            "creation_date": 1474859704,
+            "last_edit_date": 1474870600,
+            "score": 2,
+            "tags": [
+                "python",
+                "string",
+                "pandas",
+                "numpy",
+                "int"
+            ],
+            "view_count": 125,
+            "link": "http://stackoverflow.com/questions/39694192/convert-string-column-to-integer",
+            "last_activity_date": 1474891388,
+            "question_id": 39694192,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Convert string column to integer",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 76,
+                "link": "http://stackoverflow.com/users/828602/billboard",
+                "reputation": 90,
+                "display_name": "billboard",
+                "profile_image": "https://www.gravatar.com/avatar/f4c6304a9b6d0b29a8f4fac1dc36e8e7?s=128&d=identicon&r=PG",
+                "user_id": 828602
+            }
+        },
+        {
+            "creation_date": 1474852510,
+            "last_edit_date": 1474865075,
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 59,
+            "link": "http://stackoverflow.com/questions/39693431/pandas-when-can-i-directly-assign-to-values-array",
+            "last_activity_date": 1474905576,
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/4424682/rich-thompson",
+                "reputation": 25,
+                "display_name": "Rich Thompson",
+                "profile_image": "https://i.stack.imgur.com/ylB9k.jpg?s=128&g=1",
+                "user_id": 4424682
+            },
+            "question_id": 39693431,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Pandas: when can I directly assign to values array",
+            "accepted_answer_id": 39693522
+        },
+        {
+            "creation_date": 1474851737,
+            "last_edit_date": 1474852049,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy",
+                "multi-index"
+            ],
+            "view_count": 33,
+            "link": "http://stackoverflow.com/questions/39693359/how-do-i-replace-all-values-equal-to-x-in-nth-level-of-a-multi-index",
+            "last_activity_date": 1474853768,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 96,
+                "link": "http://stackoverflow.com/users/2336654/pirsquared",
+                "reputation": 30103,
+                "display_name": "piRSquared",
+                "profile_image": "https://i.stack.imgur.com/cZOEs.jpg?s=128&g=1",
+                "user_id": 2336654
+            },
+            "question_id": 39693359,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "How do I replace all values equal to x in nth level of a multi index",
+            "accepted_answer_id": 39693548
+        },
+        {
+            "creation_date": 1474839522,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 86,
+                "link": "http://stackoverflow.com/users/4697430/wwl",
+                "reputation": 412,
+                "display_name": "wwl",
+                "profile_image": "https://www.gravatar.com/avatar/383daa91372c846b7fb8991dcf4e638c?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4697430
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 29,
+            "link": "http://stackoverflow.com/questions/39692099/pandas-assign-value-based-on-mean",
+            "last_activity_date": 1474840012,
+            "question_id": 39692099,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "pandas assign value based on mean",
+            "accepted_answer_id": 39692150
+        },
+        {
+            "creation_date": 1474836358,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 61,
+                "link": "http://stackoverflow.com/users/6485635/dataaddicted",
+                "reputation": 81,
+                "display_name": "DataAddicted",
+                "profile_image": "https://www.gravatar.com/avatar/5b149a6e25b392ce3331f4eaafb82816?s=128&d=identicon&r=PG&f=1",
+                "user_id": 6485635
+            },
+            "score": 0,
+            "tags": [
+                "python",
+                "datetime",
+                "pandas",
+                "group-by",
+                "resampling"
+            ],
+            "view_count": 43,
+            "link": "http://stackoverflow.com/questions/39691671/resampling-timeseries-with-a-given-timedelta",
+            "last_activity_date": 1474877560,
+            "question_id": 39691671,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Resampling timeseries with a given timedelta",
+            "accepted_answer_id": 39697742
+        },
+        {
+            "creation_date": 1474833071,
+            "last_edit_date": 1474833500,
+            "score": 2,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 27,
+            "link": "http://stackoverflow.com/questions/39691164/pandas-groupby-doesnt-persist-after-applying-quantiles",
+            "last_activity_date": 1474861509,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 67,
+                "link": "http://stackoverflow.com/users/3430943/econgineer",
+                "reputation": 92,
+                "display_name": "econgineer",
+                "profile_image": "https://www.gravatar.com/avatar/c7b8e621975dc850fc4cd13bce72949f?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3430943
+            },
+            "question_id": 39691164,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Pandas GroupBy Doesn&#39;t Persist After Applying Quantiles?",
+            "accepted_answer_id": 39694401
+        },
+        {
+            "creation_date": 1474830565,
+            "score": 3,
+            "tags": [
+                "python",
+                "pandas",
+                "numpy"
+            ],
+            "is_answered": true,
+            "answer_count": 1,
+            "view_count": 81,
+            "title": "Convert float to int and leave nulls",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 76,
+                "link": "http://stackoverflow.com/users/828602/billboard",
+                "reputation": 90,
+                "display_name": "billboard",
+                "profile_image": "https://www.gravatar.com/avatar/f4c6304a9b6d0b29a8f4fac1dc36e8e7?s=128&d=identicon&r=PG",
+                "user_id": 828602
+            },
+            "link": "http://stackoverflow.com/questions/39690742/convert-float-to-int-and-leave-nulls",
+            "last_activity_date": 1474863571,
+            "question_id": 39690742
+        },
+        {
+            "creation_date": 1474824668,
+            "last_edit_date": 1474829220,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "data-manipulation"
+            ],
+            "view_count": 37,
+            "link": "http://stackoverflow.com/questions/39689767/subtract-consecutive-rows-from-a-dat-file",
+            "last_activity_date": 1474829220,
+            "question_id": 39689767,
+            "is_answered": false,
+            "answer_count": 0,
+            "title": "subtract consecutive rows from a .dat file",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 96,
+                "link": "http://stackoverflow.com/users/4936409/bhjghjh",
+                "reputation": 161,
+                "display_name": "bhjghjh",
+                "profile_image": "https://www.gravatar.com/avatar/455864806ee3a86bd59707bfd347cea3?s=128&d=identicon&r=PG&f=1",
+                "user_id": 4936409
+            }
+        },
+        {
+            "creation_date": 1474822993,
+            "last_edit_date": 1474823895,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "view_count": 69,
+            "link": "http://stackoverflow.com/questions/39689504/applying-condition-and-update-on-same-column",
+            "last_activity_date": 1474966789,
+            "question_id": 39689504,
+            "is_answered": true,
+            "answer_count": 4,
+            "title": "Applying condition and update on same column",
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 76,
+                "link": "http://stackoverflow.com/users/828602/billboard",
+                "reputation": 90,
+                "display_name": "billboard",
+                "profile_image": "https://www.gravatar.com/avatar/f4c6304a9b6d0b29a8f4fac1dc36e8e7?s=128&d=identicon&r=PG",
+                "user_id": 828602
+            }
+        },
+        {
+            "creation_date": 1474820718,
+            "last_edit_date": 1474825122,
+            "score": 0,
+            "tags": [
+                "python",
+                "python-2.7",
+                "pandas"
+            ],
+            "view_count": 38,
+            "link": "http://stackoverflow.com/questions/39689145/update-a-null-values-in-countryside-column-in-a-data-frame-with-reference-to-val",
+            "last_activity_date": 1474831565,
+            "question_id": 39689145,
+            "is_answered": false,
+            "answer_count": 1,
+            "title": "Update a null values in countryside column in a data frame with reference to valid countrycode column from another data frame using python",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6132613/bharath",
+                "reputation": 4,
+                "display_name": "Bharath",
+                "profile_image": "https://lh4.googleusercontent.com/-0TVUo2vzxUI/AAAAAAAAAAI/AAAAAAAAAJE/iLKTw7v0eiI/photo.jpg?sz=128",
+                "user_id": 6132613
+            }
+        },
+        {
+            "creation_date": 1474816341,
+            "last_edit_date": 1474816619,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 24,
+            "link": "http://stackoverflow.com/questions/39688434/marking-certain-days-in-date-indexed-pandas-dataframes",
+            "last_activity_date": 1474817822,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 50,
+                "link": "http://stackoverflow.com/users/3419728/thesage",
+                "reputation": 101,
+                "display_name": "theSage",
+                "profile_image": "https://www.gravatar.com/avatar/9ab9a4424c05e1a1b7da20ee7583a4c3?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3419728
+            },
+            "question_id": 39688434,
+            "is_answered": true,
+            "answer_count": 2,
+            "title": "Marking certain days in date indexed pandas dataframes",
+            "accepted_answer_id": 39688666
+        },
+        {
+            "creation_date": 1474815527,
+            "score": 1,
+            "tags": [
+                "python",
+                "pandas",
+                "scikit-learn"
+            ],
+            "is_answered": false,
+            "answer_count": 0,
+            "view_count": 16,
+            "title": "pandas dataframe sample method causing different accuracy results after applying MultinomialNB",
+            "owner": {
+                "user_type": "registered",
+                "link": "http://stackoverflow.com/users/6648687/bobby-koteski",
+                "reputation": 11,
+                "display_name": "Bobby Koteski",
+                "profile_image": "https://lh4.googleusercontent.com/-gJPrvrTKWO4/AAAAAAAAAAI/AAAAAAAAAAw/NlM_o_F0z64/photo.jpg?sz=128",
+                "user_id": 6648687
+            },
+            "link": "http://stackoverflow.com/questions/39688290/pandas-dataframe-sample-method-causing-different-accuracy-results-after-applying",
+            "last_activity_date": 1474815527,
+            "question_id": 39688290
+        },
+        {
+            "creation_date": 1474813480,
+            "owner": {
+                "user_type": "registered",
+                "accept_rate": 60,
+                "link": "http://stackoverflow.com/users/3854325/user3854325",
+                "reputation": 22,
+                "display_name": "user3854325",
+                "profile_image": "https://www.gravatar.com/avatar/9f39c5ab8438e9ce4254416a55fbe8f0?s=128&d=identicon&r=PG&f=1",
+                "user_id": 3854325
+            },
+            "score": 1,
+            "tags": [
+                "python",
+                "function",
+                "pandas",
+                "dataframe"
+            ],
+            "view_count": 27,
+            "link": "http://stackoverflow.com/questions/39687917/calculating-result-of-a-function-for-a-column-of-a-dataframe-in-python",
+            "last_activity_date": 1474822710,
+            "question_id": 39687917,
+            "is_answered": true,
+            "answer_count": 1,
+            "title": "calculating result of a function for a column of a dataframe in python",
+            "accepted_answer_id": 39688383
+        }
+    ],
+    "quota_remaining": 9384
+}

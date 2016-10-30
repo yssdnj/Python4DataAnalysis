@@ -1,0 +1,5 @@
+QuesID,    AnsCount,    QuesTitle
+39769300,3,Parse pandas df column with regex extracting substrings
+39583264,1,Pandas: strip numbers and parenthesis from string
+39536940,1,Filtering a pandas dataframe based on a match to partial strings
+39517013,2,&#39;expected string or buffer&#39; when using re.match with pandas

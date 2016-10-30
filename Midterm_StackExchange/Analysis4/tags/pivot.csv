@@ -1,0 +1,6 @@
+QuesID,    AnsCount,    QuesTitle
+39777018,1,Create or modify DataFrame using another DataFrame
+39685518,1,Trying to use pandas pivot like excel pivot
+39632277,1,Pandas NaN introduced by pivot_table
+39601892,0,Does the &quot;lambda x: x&quot; hack no longer work in pandas pivot table?
+39558733,1,Pivot Table with All the Index

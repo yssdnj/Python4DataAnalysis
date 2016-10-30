@@ -1,0 +1,2 @@
+QuesID,    AnsCount,    QuesTitle
+39655448,1,"For half-hourly intervals can I use Pandas TimeDeltaIndex, PeriodIndex or DateTimeIndex?"

@@ -1,0 +1,4 @@
+QuesID,    AnsCount,    QuesTitle
+39751747,1,Mapping each element in list to different column in pandas dataframe
+39687917,1,calculating result of a function for a column of a dataframe in python
+39557313,1,rolling apply in pandas shows &quot;TypeError: only length-1 arrays can be converted to Python scalars&quot;

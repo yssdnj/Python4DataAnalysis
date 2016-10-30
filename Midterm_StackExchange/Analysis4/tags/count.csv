@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39697349,1,Count how many attributes have a word as a substring of longer text value
+39638801,1,Loop over groups Pandas Dataframe and get sum/count

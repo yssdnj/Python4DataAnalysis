@@ -1,0 +1,601 @@
+QuesID,    AnsCount,    Tags,    QuesTitle
+39781262,1,"['python', 'pandas', 'scikit-learn', 'cluster-analysis', 'dbscan']",Find the location that occurs most in every cluster in DBSCAN
+39780443,0,"['python', 'sql', 'pandas', 'dataframe', 'sqldf']",Getting no such table error using pandas and sqldf
+39780399,1,"['python', 'csv', 'pandas', 'dataframe']",Group by Column in Dataframe and create seperate csv for each group
+39779832,1,"['python', 'pandas']",Why can&#39;t add a row to pandas dataframe?
+39779726,1,"['python', 'pandas', 'matplotlib', 'dataframe']",Python DataFrame error for having a header with parenthesis
+39778987,1,"['python', 'r', 'pandas', 'scatter-plot', 'subplot']","Pandas scatter_matrix analog function to pairs(lower.panel, upper.panel)"
+39778686,1,"['python', 'pandas', 'dataframe', 'data-manipulation', 'data-science']",pandas reset_index after groupby.value_counts()
+39777531,0,"['python', 'pandas', 'numpy', 'dictionary']","Pandas add column values based on dict, cannot reindex from a duplicate axis"
+39777528,0,"['python', 'pandas']",Columns blank after join
+39778471,1,"['python', 'pandas']",Fancy time series grouping operations with Pandas dataframe
+39777240,2,"['python', 'csv', 'pandas']","Python: Break down large file, filter based on criteria, and put all data into new csv file"
+39777018,1,"['python', 'pandas', 'dataframe', 'pivot', 'reshape']",Create or modify DataFrame using another DataFrame
+39776122,1,"['python', 'pandas', 'panel', 'pickle']",Include two different sized data frames together in a pandas panel
+39775828,3,"['python', 'pandas', 'dataframe', 'time-series']",Extract series objects from Pandas DataFrame
+39775506,2,"['python', 'pandas', 'dataframe']",Pandas - applying groupings and counts to multiple columns in order to generate/change a dataframe
+39775337,2,"['python', 'pandas']",Pandas: remove duplicate record while keeping its old value in dataframe for reference
+39775055,0,"['python', 'pandas']",Error on if condition in pandas
+39774828,0,"['python', 'pandas', 'dataframe', 'data-visualization']",Histogram of Correlations
+39774826,2,"['python', 'pandas', 'matplotlib', 'bar-chart', 'categories']",Pandas: how to draw a bar plot with two categories and four series each?
+39774314,1,"['python', 'pandas', 'pivot-table']",Pandas pivot_table to calculate share of margin
+39774097,1,"['python', 'pandas']",How to sum pivot data with a DIFF in time by one of the indexes
+39773833,2,"['python', 'python-3.x', 'pandas']",Using Pandas to &quot;applymap&quot; with access to index/column?
+39773627,0,"['python', 'pandas']",Get bar heights on pandas hist plot to sum to 1
+39773480,2,"['python', 'pandas', 'numpy', 'merge']",python pandas/numpy quick way of replacing all values according to a mapping scheme
+39773425,1,"['python', 'pandas', 'numpy', 'jupyter-notebook']",python - Pandas - FillNa with another non null row having similar column
+39772896,3,"['python', 'pandas']",Add prefix to specific columns of Dataframe
+39771306,3,"['python', 'pandas']",how to slice and combine specific row values in a Pandas groupby?
+39771274,2,"['python', 'pandas', 'importerror', 'python-3.5']",Import Pandas Into Python
+39770321,0,"['python', 'django', 'pandas', 'pycharm', 'cython']",Convert Python project to Cython
+39769300,3,"['python', 'regex', 'pandas', 'text']",Parse pandas df column with regex extracting substrings
+39768547,3,"['python', 'pandas']",Replace whole string if it contains substring in pandas
+39768288,1,"['python', 'pandas', 'numpy', 'histogram']",Plotting a type of Histogram
+39768230,1,"['python', 'json', 'pandas']","Converting python tuple, lists, dictionaries containing pandas objects (series/dataframes) to json"
+39767787,1,"['python', 'pandas', 'dataframe']",Getting substring based on another column in a pandas dataframe
+39767718,1,"['python', 'pandas', 'assign', 'columnname']",pandas assign with new column name as string
+39766886,2,"['python', 'pandas']",Find cells in dataframe where value is between x and y
+39766218,1,"['python', 'pandas']",How do I display floats as currency with negative sign before currency
+39766141,2,"['python', 'pandas', 'dataframe', 'grouping', 'bar-chart']",Pandas: adding new column to existing Data Frame for grouping purposes
+39765264,3,"['python', 'pandas', 'indexing', 'condition', 'nan']",Display values that does not end with &quot;.0&quot; Python Pandas
+39764798,0,"['python', 'python-2.7', 'pandas']",Python Pandas: SettingWithCopyWarning appearing only on first execution in new console
+39764652,2,"['python', 'pandas', 'multiple-columns', 'intersection', 'concat']",Merging 2 dataframe using similar columns
+39764406,0,"['python', 'pandas', 'static']","How can I identify which variable, from a couple, is the independent one?"
+39764204,0,"['python', 'pandas']",Division error in Python Pandas: libmkl_vml_avx.so: undefined symbol: mkl_serv_getenv
+39763436,3,"['python', 'pandas', 'group-by', 'mean', 'series']",apply function on groups of k elements of a pandas Series
+39762576,1,"['python', 'pandas', 'indexing', 'multiple-columns', 'nan']",Dataframe returning None value
+39761916,1,"['python', 'pandas', 'matplotlib']",Rearranging groupings in bar chart from pandas dataframe
+39761648,1,"['python', 'pandas', 'dataframe', 'timestamp', 'range']",Pandas Dataframe comparison with range/stdev
+39761488,1,"['python', 'pandas', 'dataframe', 'min', 'string-length']",Comparing a dataframe on string lengths for different columns
+39761366,1,"['python', 'pandas', 'dataframe', 'reshape', 'transpose']",Transpose the data in a column every nth rows in PANDAS
+39761068,1,"['python', 'pandas', 'dataframe', 'sum']",Sum up values in a column using Pandas
+39760063,1,"['python', 'pandas', 'dataframe', 'group-by']",python pandas groupby sorting and concatenating
+39759867,1,"['python', 'pandas', 'split', 'fractions']",Splitting a mixed number string from a dataframe column and converting it to a float
+39759496,1,"['python', 'datetime', 'pandas']",Python Pandas datetime64[ns] comparision
+39759301,2,"['python', 'pandas', 'matplotlib', 'dataframe', 'charts']","Trying to plot a random series on a chart with matplotlib, but the chart will not display when the programe is ran."
+39758449,1,"['python', 'pandas', 'numpy', 'scikit-learn']",Normalise between 0 and 1 ignoring NaN
+39758315,1,"['python', 'pandas', 'dataframe']",Pandas Dataframe Data Type Conversion or Isomap Transformation
+39758268,1,"['python', 'pandas', 'dictionary']",Merging mutliple pandas dfs time series on DATE index and which are contained in a python dictionary
+39758125,0,"['python', 'pandas', 'memory']",Pandas memory consumption after reading HDF5 file
+39757901,2,"['python', 'pandas', 'dataframe']",how to initialize multiple columns to existing pandas DataFrame
+39757437,1,"['python', 'python-3.x', 'pandas']",How can I resample a DataFrame so that it is properly aligned with another DataFrame?
+39757293,1,"['python', 'pandas']",strftime function pandas - Python
+39757188,1,"['python', 'pandas', 'matplotlib', 'graph', 'interactive']",How can I make a python candlestick chart clickable in matplotlib
+39756150,1,"['python', 'pandas', 'numpy']",How to separate a numpy array into separate columns in pandas
+39755981,1,"['python', 'python-3.x', 'pandas', 'dataframe']",Explain how pandas DataFrame join works
+39755877,1,"['python', 'pandas']",Calling a subset of a dataset
+39755742,1,"['python', 'pandas']",pandas histogram with by: possible to make axes uniform?
+39755131,1,"['python', 'pandas']",List in column Python + Pandas
+39755075,1,"['python', 'pandas']",How to divide the sum with the size in a pandas groupby
+39753085,2,"['python', 'pandas']",Python: Replace df1.col values with df2.col2 values
+39753082,2,"['python', 'pandas']",Is there a more pythonic way to write this?
+39752729,1,"['python', 'pandas']",convenient way to reindex one level of a multiindex
+39752657,0,"['python', 'python-3.x', 'pandas', 'for-loop', 'dataframe']","In python, speed up pandas.DataFrame.loc performance within for loops"
+39751866,1,"['python', 'python-3.x', 'pandas', 'expand', 'reindex']",expanding rows in pandas dataframe
+39751807,1,"['python', 'pandas', 'metadata', 'finance', 'divide']",How to handle meta data associated with a pandas dataframe?
+39751747,1,"['python', 'list', 'function', 'pandas', 'vectorization']",Mapping each element in list to different column in pandas dataframe
+39751636,1,"['python', 'pandas']",On the default/fill value for *multi-key* outer joins
+39750590,2,"['python', 'pandas', 'merge', 'group-by', 'sum']",Pandas groupby sum
+39750464,0,"['python', 'csv', 'pandas', 'export']",Why does exporting a CSV file using Pandas skipping every other row?
+39749653,2,"['python', 'pandas', 'numpy', 'dataframe']",How to groupby and assign an array to a column in python-pandas?
+39749592,2,"['python', 'pandas', 'scikit-learn', 'feature-selection', 'sklearn-pandas']",How to get a list of useless features using sklearn?
+39749557,2,"['python', 'pandas']",python: generate numeric column to column with string
+39749152,2,"['python', 'excel', 'pandas', 'xlsxwriter']",concatenate excel datas with python or Excel
+39748976,1,"['python', 'pandas']",On the default/fill value for outer joins
+39748963,1,"['python', 'pandas', 'indexing', 'dataframe', 'condition']",Pandas Dataframe row number become the same after selected by condition
+39748413,2,"['python', 'pandas']",Fill missing values of 1 data frame from another data frame using pandas
+39747222,2,"['python', 'date', 'datetime', 'pandas', 'time-series']",Add column to dataframe based on date column range
+39746316,0,"['python', 'pandas', 'dataframe', 'standard-deviation']",python dataframe std deviation of a column/row containing all Nan values except one element
+39745627,1,"['python', 'pandas', 'indexing', 'multiple-columns', 'multi-index']",Setting a row index on and querying a pandas dataframe with multi-index columns
+39742797,1,"['python', 'pandas', 'moving-average', 'weighted-average', 'technical-indicator']",Calculating weighted moving average using pandas Rolling method
+39742758,4,"['python', 'sorting', 'pandas', 'numpy', 'finance']",Sort tenors in finance notation
+39742275,1,"['python', 'pandas']",Efficiently collect links in dataframe
+39741429,1,"['python', 'pandas']",Pandas replace a character in all column names
+39741152,2,"['python', 'pandas']",Filter data frame from values in different columns Pandas
+39739432,1,"['python', 'pandas']",Get minimum number column wise in a multidimensional Pandas DataFrame - Python
+39738137,1,"['python', 'pandas', 'dataframe', 'substring']","python .loc with some condition(string, regex etc)"
+39737890,1,"['python', 'pandas', 'dataframe', 'multi-index', 'resampling']",Resampling (Upsample) Pandas multiindex dataframe
+39737545,1,"['python', 'excel', 'pandas', 'jupyter', 'jupyter-notebook']",Create new database from chunk reader in pandas
+39737226,1,"['python', 'pandas', 'dataframe', 'seaborn']",How to use a pandas DataFrame as data parameter in Seaborn lmplot
+39736195,1,"['python', 'pandas']",Pandas Dataframe performance vs list performance
+39736078,0,"['python', 'pandas']",combining two pandas dataframes as single json output
+39736030,0,"['python', 'pandas']",pandas.DataFrame returns Series not a Dataframe
+39735676,4,"['python', 'pandas', 'dataframe']",Binarize a float64 Pandas Dataframe in Python
+39735579,0,"['python', 'pandas']",Python - Perform a FIFO operation on data in Pandas DataFrame
+39735068,2,"['python', 'pandas', 'aggregate']","Pandas crosstab, but with values from aggregation of third column"
+39734836,1,"['python', 'pandas', 'dataframe', 'time-series']",Join Python dataframe time series efficiently
+39734304,2,"['python', 'pandas']",covariance between two columns in pandas groupby pandas
+39733948,1,"['python', 'pandas']",Counting Mulitple Values in a Python pandas Dataframe Column
+39733141,1,"['python', 'pandas']",How to drop columns with empty headers in Pandas?
+39732661,1,"['python', 'pandas', 'dataframe']",Pandas - how to filter rows base on regular expresion
+39732421,1,"['python', 'csv', 'pandas', 'chunks']",Why does Pandas skip first set of chunks when iterating over csv in my code
+39732288,1,"['python', 'pandas', 'matplotlib']",Pandas: how to plot a line in a scatter and bring it to the back/front?
+39731396,2,"['python', 'pandas', 'dataframe', 'summarize']",python pandas summarizing nominal variables (counting)
+39731395,1,"['python', 'pandas', 'dataframe', 'slice']",dataframe column slices excluding specific columns
+39731313,1,"['python', 'pandas', 'dataframe', 'series']",Manipulating pandas series - empty rows in a column
+39731098,2,"['python', 'pandas', 'dask']",iterate over GroupBy object in dask
+39730951,1,"['python', 'pandas', 'dataframe']",Trying to return number of items in a list as a column in a dataframe
+39730906,1,"['python', 'csv', 'pandas']",Pandas return column value if other column value is equal
+39730737,2,"['python', 'datetime', 'pandas', 'numpy', 'scipy']",Panda group dataframe based on datetime type into different period ignoring date part
+39730528,2,"['python', 'pandas', 'tensorflow']","TypeError: Signature mismatch. Keys must be dtype &lt;dtype: &#39;string&#39;&gt;, got &lt;dtype:&#39;int64&#39;&gt;"
+39730468,1,"['python', 'pandas', 'dictionary', 'dataframe', 'enumeration']",Convert column&#39;s data to enumerated dictionary key-value
+39729995,2,"['python', 'pandas', 'utf-8']",Pandas - column not found in dataframe
+39729258,0,"['python', 'csv', 'pandas', 'dataframe', 'large-files']",Read large csv file chunks to dataframe and sort using column header as criteria
+39728930,1,"['python', 'pandas', 'dataframe']","How to delete duplicates, but keep the first instance and a blank cell for the duplicates in Pandas?"
+39728723,1,"['python', 'pandas', 'matplotlib']",Vertical line at the end of a CDF histogram using matplotlib
+39728566,1,"['python', 'sql', 'pandas', 'apache-spark-sql', 'jupyter-notebook']",SQL Column types in Jupyter Notebook
+39728551,0,"['python', 'json', 'pandas']",How to handle JSON documents that have float values with no leading zeroes before decimal points?
+39727271,1,"['python', 'pandas', 'group-by', 'sum', 'aggregate']",Pandas: aggregate data through the dataframe
+39727129,1,"['python', 'pandas', 'indexing', 'duplicates', 'multiple-columns']",How to remove rows with duplicates in pandas dataframe?
+39726335,1,"['python', 'pandas']",Counting occurrence of a gender in a dataframe by age
+39725419,2,"['python', 'pandas', 'numpy', 'scipy']",Solving sets of non-linear equations as an array
+39724586,2,"['python', 'pandas', 'transform']",Pandas broadcasting values given logical condition in group by
+39724298,2,"['python', 'pandas']",Pandas extract comment lines
+39724182,3,"['python', 'string', 'pandas', 'condition', 'contains']",Pandas and apply function to match a string
+39723925,3,"['python', 'csv', 'pandas']",How to separate a CSV file when there are &quot;&quot; lines?
+39723619,2,"['python', 'csv', 'pandas']",Compare two csv files and color code the difference in csv
+39723061,1,"['python', 'python-2.7', 'pandas', 'dataframe']",How to extract date form data frame column?
+39722279,1,"['python', 'pandas', 'numpy', 'artificial-intelligence']",Is it a good idea to apply ML libraries on pandas data frame?
+39722185,1,"['python', 'datetime', 'pandas', 'aggregate', 'days']",Pandas: count some values in a column
+39721800,1,"['python', 'pandas', 'dataframe', 'data-conversion', 'dask']",Convert Pandas dataframe to Dask dataframe
+39721008,2,"['python', 'pandas']",Pandas Join Two Tables Based On Time Condition
+39720641,1,"['python', 'pandas', 'date-range', 'period', 'datetimeindex']",Pandas DatetimeIndex strange behaviour
+39720332,1,"['python', 'json', 'python-3.x', 'pandas', 'jupyter-notebook']",Pandas `read_json` function converts strings to DateTime objects even the `convert_dates=False` attr is specified
+39718157,1,"['python', 'pandas', 'numpy', 'scipy']",Panda how to groupby rows into different time buckets?
+39717809,3,"['python', 'pandas']",Insert list into cells which meet column conditions
+39717407,2,"['python', 'pandas']",Adding items to empty pandas DataFrame
+39716210,1,"['python', 'pandas', 'multi-index']",pandas series drop when multiindex is not unique
+39715950,1,"['python', 'pandas']",groupby and add some rows
+39715910,1,"['python', 'pandas', 'dataframe', 'series']",Trying to create a pandas series within a dataframe with values based on whether or not keys are in another dataframe
+39715686,0,"['python', 'csv', 'pandas', 'matplotlib', 'jupyter-notebook']","Cannot get pandas to open CSV [Python, Jupyter, Pandas]"
+39714682,3,"['python', 'pandas']",How to add new column with handling nan value
+39714574,1,"['python', 'csv', 'pandas', 'hive', 'itertools']",Group unique 0th elements of CSV for unique ith elements in python or hive
+39714267,1,"['python', 'pandas']",How to use pd.melt for two rows as headers
+39713678,1,"['python', 'pandas', 'numpy', 'dataframe']",Assigning indicators based on observation quantile
+39713526,0,"['python', 'csv', 'pandas']",pandas.io.common.CParserError: Error tokenizing data. C error: out of memory
+39713381,2,"['python', 'pandas']",Convert range to timestamp in Pandas
+39713137,2,"['python', 'python-2.7', 'sorting', 'datetime', 'pandas']",How can I sort datetime columns by row value in a Pandas dataframe?
+39712602,2,"['python', 'pandas']",Create groups/classes based on conditions within columns
+39712435,1,"['python', 'pandas', 'numpy']",sum of &#39;float64&#39; column type in pandas return float instead of numpy.float64
+39711977,2,"['python', 'pandas', 'dataframe']",How can I filter for string values in a mixed datatype object in Python Pandas Dataframe
+39711422,2,"['python', 'pandas', 'dataframe']",Getting percentages after binning pandas dataframe
+39711229,1,"['python', 'pandas', 'matplotlib', 'plot', 'dataframe']",TypeError for bar plot with custom date range
+39710995,0,"['python', 'pandas', 'numpy', 'matplotlib']",Plot datetime64 with matplotlib
+39710903,1,"['python', 'html', 'pandas']",pd.read_html() imports a list rather than a dataframe
+39708455,1,"['python', 'csv', 'pandas']",Compare between 2 Excel files and give difference based on key column
+39708133,1,"['python', 'pandas', 'time-series', 'resampling', 'quantile']",TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; (python 2.7)
+39707080,1,"['python', 'pandas', 'ranking', 'rank', 'ordinal']",Pandas - Alternative to rank() function that gives unique ordinal ranks for a column
+39706977,0,"['python', 'excel', 'pandas']",Writing long number to excel from pandas
+39706970,1,"['python', 'datetime', 'pandas']",pandas error when convert object to datetime
+39706194,1,"['python', 'python-2.7', 'pandas']",Update a null values in countrycode column in a data frame by matching substring of country name using python
+39705022,1,"['python', 'loops', 'pandas', 'dataframe']",Looping over pandas data frame applying formula to each value
+39703962,0,"['python', 'r', 'pandas', 'rpy2']",Converting python dataframe(pandas) with a timestamp column to R dataframe using rpy2
+39703749,1,"['python', 'python-2.7', 'csv', 'pandas']",Calculate a new column with Pandas
+39703734,1,"['python', 'pandas', 'numpy', 'dataframe']",input column based on conditional statement pandas
+39703665,1,"['python', 'pandas', 'sklearn-pandas']",Elementwise operation on pandas series
+39703165,1,"['python', 'pandas', 'dataframe', 'merge', 'inner-join']",Join dataframes by column values pandas
+39702156,0,"['python', 'pandas', 'dataframe', 'division']",Calculate RSI from pandas dataframe
+39701779,1,"['python', 'pandas', 'numpy', 'dataframe']",Mapping multiple dataframe based on the matching columns
+39700904,1,"['python', 'pandas']",Why use pandas.DataFrame.copy() for column extraction
+39700636,2,"['python', 'python-2.7', 'csv', 'pandas']",Define date format in Python / Pandas
+39699659,1,"['python', 'pandas']",Creating a list based on column conditions
+39699312,2,"['python', 'pandas', 'dataframe']",How to check whether particular column completely match or not
+39698363,0,"['python', 'arrays', 'pandas', 'numpy', 'matrix']",Concatenate numpy array to pandas dataframe
+39698097,2,"['python', 'python-2.7', 'csv', 'pandas']",Python Pandas convert column data type
+39697683,1,"['python', 'pandas', 'matplotlib', 'plot']",Pandas DataFrame plotting - Tick labels
+39697349,1,"['python', 'string', 'pandas', 'dataframe', 'count']",Count how many attributes have a word as a substring of longer text value
+39695606,1,"['python', 'pandas', 'indexing', 'nan', 'pandasql']",querying panda df to filter rows where a column is not Nan
+39695461,1,"['python', 'csv', 'pandas']",Finding value of another attribute given an attribute
+39694192,2,"['python', 'string', 'pandas', 'numpy', 'int']",Convert string column to integer
+39693431,2,"['python', 'pandas']",Pandas: when can I directly assign to values array
+39693359,2,"['python', 'pandas', 'numpy', 'multi-index']",How do I replace all values equal to x in nth level of a multi index
+39692099,1,"['python', 'pandas']",pandas assign value based on mean
+39691671,2,"['python', 'datetime', 'pandas', 'group-by', 'resampling']",Resampling timeseries with a given timedelta
+39691164,2,"['python', 'pandas']",Pandas GroupBy Doesn&#39;t Persist After Applying Quantiles?
+39690742,1,"['python', 'pandas', 'numpy']",Convert float to int and leave nulls
+39689767,0,"['python', 'pandas', 'dataframe', 'data-manipulation']",subtract consecutive rows from a .dat file
+39689504,4,"['python', 'pandas']",Applying condition and update on same column
+39689145,1,"['python', 'python-2.7', 'pandas']",Update a null values in countryside column in a data frame with reference to valid countrycode column from another data frame using python
+39688434,2,"['python', 'pandas', 'dataframe']",Marking certain days in date indexed pandas dataframes
+39688290,0,"['python', 'pandas', 'scikit-learn']",pandas dataframe sample method causing different accuracy results after applying MultinomialNB
+39687917,1,"['python', 'function', 'pandas', 'dataframe']",calculating result of a function for a column of a dataframe in python
+39687548,0,"['python', 'pandas']",python pandas count events within time window
+39686957,1,"['python', 'pandas']",Parallelize groupby with multiple arguments
+39686784,3,"['python', 'csv', 'pandas']",Unable to import csv file to python using the pd.read_csv command
+39686132,2,"['python', 'python-2.7', 'pandas', 'dataframe']",Pandas: How to open certain files
+39685764,1,"['python', 'pandas', 'categorical-data']",error using where with pandas and categorical columns
+39685737,2,"['python', 'pandas', 'dataframe']",Do something to every row on a pandas dataframe
+39685518,1,"['python', 'excel', 'pandas', 'dataframe', 'pivot']",Trying to use pandas pivot like excel pivot
+39684548,1,"['python', 'pandas', 'dataframe']",Convert the string 2.90K to 2900 or 5.2M to 5200000 in pandas dataframe
+39682124,1,"['python', 'pandas', 'scikit-learn', 'python-3.5', 'sklearn-pandas']",Using Pandas and Sklearn.Neighbors
+39681155,0,"['python', 'pandas', 'data-science']",Pulling data from from a dataframe in pandas using size method
+39680596,1,"['python', 'pandas', 'scikit-learn']",scikit-learn - train_test_split and ShuffleSplit yielding very different results
+39680162,2,"['python', 'pandas', 'numpy', 'dataframe']","Pandas, split dataframe by monotonic increase of column value"
+39680147,2,"['python', 'pandas']",Can I set variable column widths in pandas?
+39679382,1,"['python', 'pandas']",multiple conditions for np.where python pandas
+39678854,1,"['python', 'pandas', 'dictionary', 'nested']",Pandas nested dict to dataframe
+39678806,1,"['python', 'pandas', 'group-by', 'aggregate']",How to get distinct count of keys along with other aggregations in pandas
+39678719,0,"['python', 'pandas', 'numpy', 'machine-learning', 'tensorflow']",Tensorflow: loss is decreasing normally but accuracy is fluctuating through couple of value
+39677851,1,"['python', 'pandas', 'dataframe', 'filtering', 'subset']",Dataframe filtering in pandas
+39677432,1,"['python', 'string', 'datetime', 'pandas']",building datetime from 3 integer/float columns in pandas
+39677183,1,"['python', 'pandas', 'dataframe', 'bigdata', 'sampling']",Quickly sampling large number of rows from large dataframes in python
+39676339,1,"['python', 'pandas', 'numpy', 'dataframe']",Group data into classes with numpy
+39676328,1,"['python', 'datetime', 'pandas', 'dataframe']","Indexing dataframe by datetime python ignoring hour, minutes, seconds"
+39675716,1,"['python', 'pandas']",How can I advance the index of a pandas.dataframe by one quarter?
+39674876,1,"['python', 'pandas', 'group-by', 'pivot-table']",Is There Complete Overlap Between `pd.pivot_table` and `pd.DataFrame.groupby` + `pd.DataFrame.unstack`?
+39671982,2,"['python', 'pandas']",How to swap columns conditionally in pandas
+39671577,0,"['python', 'pandas', 'dataframe']",find problematic records - pandas dataframe
+39671322,1,"['python', 'mysql', 'pandas', 'data-manipulation']",Subtracting the rows of a column from the preceding rows in a python pandas dataframe
+39670027,3,"['python', 'arrays', 'pandas', 'numpy']","get desired element in numpy array of unequal row lengths, without using for loop"
+39669824,1,"['python', 'python-3.x', 'pandas']",Python Pandas: Retrieve id of data from a chunk
+39669277,1,"['python', 'pandas']",pandas dataframe issue with special characters
+39669165,1,"['python', 'python-3.x', 'pandas']",Python Pandas: Reuse stored means correctly to replace nan
+39669101,0,"['python', 'pandas']",Python: Add Mean Column by Symbol Column
+39668851,1,"['python', 'html', 'python-3.x', 'pandas', 'flask']",How to create a pandas &quot;link&quot; (href) style?
+39668665,1,"['python', 'pandas', 'matplotlib']",Format a table that was added to a plot using pandas.DataFrame.plot
+39668202,1,"['python', 'pandas']",pandas: sort alphabetically if rows have same rank
+39668193,1,"['python', 'pandas']",Dataframe column showing half hour intervals
+39668138,1,"['python', 'pandas']",determine length (or number of digits) of every row in column
+39667277,2,"['python', 'pandas', 'slice']",Pandas slicing by element in cell
+39666308,1,"['python', 'csv', 'pandas', 'integer']",pd.read_csv by default treats integers like floats
+39666081,1,"['python', 'pandas']",how to use the `query` method to check if elements of a column contain a specific string
+39665681,0,"['python', 'pandas', 'numpy', 'nan']",testing for NaN values: df[df[&#39;col1&#39;] == np.nan] does NOT equal np.isnan(df[&#39;col1&#39;])
+39665374,1,"['python', 'r', 'pandas', 'dataframe']",How to make a group id using pandas
+39665074,1,"['python', 'pandas']",pandas - add a column of the mean of the last 3 elements in groupby
+39664739,1,"['python', 'pandas', 'pivot-table']",pandas pivot table aggfunc troubleshooting
+39664657,1,"['python', 'pandas', 'group-by', 'aggregate', 'aggregation']",Group DataFrame by period of time with aggregation
+39664550,0,"['python', 'pandas', 'nested', 'apply']",Pandas Nested functions: apply does not seem to recognize internal function
+39664195,2,"['python', 'pandas', 'numpy']",getting weighted average then grouping in pandas
+39663649,1,"['python', 'pandas']",Generating pandas column values based upon filename
+39663596,1,"['python', 'pandas', 'pyspark', 'rdd', 'spark-dataframe']",spark Dataframe/RDD equivalent to pandas command given in description?
+39663486,2,"['python', 'pandas', 'dataframe', 'multi-index', 'reindex']",reindex some DataFrame columns to multi index
+39663214,2,"['python', 'sorting', 'pandas', 'split']",Sorting and arranging a list using pandas
+39663117,2,"['python', 'pandas']",pandas elementwise difference between two DatetimeIndex
+39662941,2,"['python', 'pandas', 'select']",Python pandas: Select columns where a specific row satisfies a condition
+39662790,0,"['python', 'pandas']",Pandas groupby and sum operators
+39662149,0,"['python', 'python-2.7', 'pandas', 'time-series']",pandas: extract date and time from timestamp
+39662016,1,"['python', 'pandas']",Python: creating a group column in a Pandas dataframe based on an integer range of values
+39661759,1,"['python', 'pandas', 'numpy', 'dataframe']",Merging multiple dataframe bassed on matching values from three column into single dataframe
+39661428,1,"['python', 'pandas', 'dataframe']",Trying to loop over colums in DataFrame and strip Dollar Sign
+39661198,1,"['python', 'pandas']",Optimal way to add small lists to Pandas DataFrame
+39660651,0,"['python', 'r', 'pandas', 'numpy', 'scipy']",numpy/scipy Python Equivalent of R code for rolling rank
+39660466,2,"['python', 'pandas']",Python Pandas .Apply Function to Vectorized Form
+39659512,1,"['python', 'pandas']",How to get key and value in well format and n/a values at the end in pandas
+39659316,1,"['python', 'pandas']",How to append several data frame into one
+39659146,1,"['python', 'json', 'pandas', 'dictionary', 'dataframe']",Pandas DataFrame with date and time from JSON format
+39658867,0,"['python', 'pandas', 'bokeh']",Pandas charts claims a DataFrame is not a DataFrame
+39658574,2,"['python', 'pandas', 'duplicates', 'multiple-columns', 'spark-dataframe']",How to drop columns which have same values in all rows via pandas or spark dataframe?
+39658091,0,"['python', 'sql-server', 'pandas', 'sqlalchemy', 'pymssql']",Advantages of SQLAlchemy instead of straight pymssql
+39657330,2,"['python', 'pandas', 'dataframe', 'calculated-columns']",How to calculate the values of a pandas DataFrame column depending on the results of a rolling function from another column
+39656781,1,"['python', 'string', 'datetime', 'debugging', 'pandas']",Python Pandas Debugging on to_datetime
+39655834,0,"['python', 'python-2.7', 'pandas', 'matplotlib', 'data-visualization']",Matplotlib: skip xtick for dates
+39655688,1,"['python', 'django', 'postgresql', 'pandas']",Uploading User Details from an excel file using pandas in python to postgres Database
+39655448,1,"['python', 'datetime', 'pandas', 'intervals']","For half-hourly intervals can I use Pandas TimeDeltaIndex, PeriodIndex or DateTimeIndex?"
+39655397,1,"['python', 'pandas']",Calculate z-score in data bunch but excluding N.A
+39653812,2,"['python', 'sorting', 'pandas', 'dataframe', 'group-by']",How to sort/ group a Pandas data frame by class label or any specific column
+39652147,2,"['python', 'pandas', 'matplotlib', 'plot', 'pdfpages']",Error when trying to write a matplotlib plot from Pandas DataFrame to pdf
+39650407,1,"['python', 'pandas', 'unicode', 'utf-8', 'special-characters']",Pandas.read_csv() with special characters (accents) in column names �
+39649902,1,"['python', 'pandas']",python pandas &#39;AttributeError: Can only use .dt accessor with datetimelike values&#39; decimal to hours
+39649649,3,"['python', 'pandas', 'indexing', 'shift']",Index values of specific rows in python
+39648991,2,"['python', 'pandas', 'dataframe']",Pandas dataframe pivot - Memory Error
+39648855,3,"['python', 'csv', 'pandas']",Need to create a Pandas dataframe by reading csv file with random columns
+39648822,1,"['python', 'pandas']",AttributeError: module &#39;mypandas&#39; has no attribute &#39;print_pandas_df&#39;
+39648330,1,"['python', 'pandas', 'printing', 'options', 'column-width']",Pandas Python- read_csv not reading complete data on each row
+39648163,2,"['python', 'date', 'datetime', 'pandas', 'time-series']",python pandas parse date without delimiters &#39;time data &#39;060116&#39; does not match format &#39;%dd%mm%YY&#39; (match)&#39;
+39647978,1,"['python', 'pandas', 'dataframe']",Get List of Unique String values per column in a dataframe using python
+39647538,1,"['python', 'pandas']","Pandas groupby datetime, getting the count and price"
+39647269,2,"['python', 'pandas', 'dataframe', 'analytics', 'data-science']",Pandas: Compare a column to all other columns of a dataframe
+39646728,3,"['python', 'pandas', 'dataframe', 'group-by']",How to find out number of unique rows within a pandas groupby object?
+39646634,2,"['python', 'pandas', 'dataframe']",How to create a new column in Python Dataframe by referencing two other columns?
+39646344,0,"['python', 'pandas', 'for-loop', 'matplotlib', 'pdfpages']","Error creating multiple plots in python using PdfPages, pandas, matplotlib, and a for loop"
+39646300,2,"['python', 'mysql', 'pandas']",Pandas DataFrame slicing based on logical conditions?
+39646134,2,"['python', 'pandas', 'indexing', 'dataframe', 'condition']",Looking up Pandas dataFrame
+39646070,1,"['python', 'pandas', 'histogram']",pandas histogram: plot histogram for each column as subplot of a big figure
+39645972,1,"['python', 'pandas', 'numpy']",Best way to combine datetime in pandas dataframe when times are close
+39645404,1,"['python', 'list', 'pandas', 'dataframe', 'unique']",Display Pandas DataFrame in csv format
+39645125,1,"['python', 'pandas', 'scikit-learn', 'sklearn-pandas']",LabelEncoder().fit_transform vs. pd.get_dummies for categorical coding
+39644866,2,"['python', 'python-2.7', 'pandas', 'visualization', 'data-visualization']",python: best way convey missing value count
+39644197,0,"['python', 'pandas', 'hdf5']",Pandas HDF5 Showing Large Overhead per Observation
+39644167,1,"['python', 'pandas', 'dataframe']",python pandas how to drop duplicates selectively
+39643601,1,"['python', 'pandas', 'merge', 'inner-join', 'concat']",Identifying overlapping rows in multiple dataframes
+39643505,1,"['python', 'pandas', 'tensorflow']",TypeError: argument of type &#39;float&#39; is not iterable-Tensorflow wide_n_deep_tutorial
+39642875,2,"['python', 'python-3.x', 'pandas']",create df column name by adding global variable name and a string in Python
+39641260,0,"['python', 'pandas', 'numpy', 'vectorization']",vectorize upper level of a vectoized code - python - numpy
+39640936,2,"['python', 'pandas', 'dictionary', 'append', 'multiple-columns']",parsing a dictionary in a pandas dataframe cell into new row cells (new columns)
+39640860,0,"['python', 'python-3.x', 'pandas', 'timezone', 'hdf5']","&quot;Already tz-aware&quot; error when reading h5 file using pandas, python 3 (but not 2)"
+39639794,0,"['python', 'pandas', 'matplotlib', 'plot']",Trying to plot a dataframe with missing values (None)
+39639160,1,"['python', 'xml', 'pandas', 'data-analysis']",Convert pandas dataframe column with xml data to normalised columns?
+39638833,1,"['python', 'pandas', 'series']",Aggregate dataframe indices in python
+39638801,1,"['python', 'pandas', 'dataframe', 'count', 'sum']",Loop over groups Pandas Dataframe and get sum/count
+39638777,1,"['python', 'pandas', 'indexing', 'condition', 'tableau']",how to apply filter on one variable considering other two variable using python
+39638533,0,"['python', 'excel', 'pandas', 'excel-formula', 'xlsxwriter']",how to fill color cells with 2 percentage data from other cells
+39638403,1,"['python', 'pandas', 'add', 'categorical-data', 'in-place']",ValueError: cannot use inplace with CategoricalIndex
+39636224,1,"['python', 'pandas', 'indexing', 'series']",Get pandas subseries by values when each value is a ndarray
+39635993,1,"['python', 'pandas']","How to convert pandas dataframe rows into columns, based on category?"
+39634777,2,"['python', 'csv', 'pandas', 'matplotlib', 'genfromtxt']",Python Convert Datetime from csv for matplotlib
+39634369,1,"['python', 'json', 'pandas', 'dictionary', 'dataframe']",4 dimensional nested dictionary to pandas data frame
+39634312,2,"['python', 'pandas']",Pandas append multiple columns for a single one
+39634175,1,"['python', 'pandas', 'filter', 'group-by', 'condition']",Pandas: groupby with condition
+39632573,1,"['python', 'pandas', 'machine-learning', 'scikit-learn']",Processing data with different number of features
+39632277,1,"['python', 'pandas', 'pivot', 'pivot-table', 'nan']",Pandas NaN introduced by pivot_table
+39632248,1,"['python', 'json', 'pandas', 'dataframe']",How to import normalised json data from several files into a pandas dataframe?
+39631678,1,"['python', 'list', 'pandas', 'dataframe']",Can a pandas DataFrame hold non-scalar values?
+39630928,1,"['python', 'python-3.x', 'pandas', 'matplotlib']",How to plot a figure with Chinese Characters in label
+39630178,1,"['python', 'pandas', 'scikit-learn', 'classification', 'data-representation']",What is the best way to represent or shape data with &gt;700 features for classification?
+39629852,2,"['python', 'pandas']",Write Pandas Series Vertically using to_csv
+39629183,2,"['python', 'pandas', 'matplotlib', 'plot', 'series']",Create a 2D plot pixel grid based on a pandas series of lists
+39628453,2,"['python', 'pandas']",Parsing an irregularly spaced text file in Python pandas
+39628242,1,"['python', 'pandas', 'numpy', 'histogram', 'bins']",Histograms in Pandas
+39628082,0,"['python', 'pandas', 'hdf5']",Improve HDF5 Data frames Query time
+39627504,1,"['python', 'pandas']",replacing html syntax/ascii code in pandas columns
+39626818,2,"['python', 'pandas']",Python Pandas: Write certain rows in file
+39626439,1,"['python', 'pandas', 'dataframe']",Appropriate Time to Dynamically Set Variable Names?
+39626332,2,"['python', 'pandas']",n-dataframes inner joined to final dataframe
+39625328,2,"['python', 'datetime', 'pandas', 'time-series', 'hour']",Pandas Grouping By Datetime
+39625302,1,"['python', 'pandas']",find first instance of a row in pandas dataframe matching a criterion
+39624252,1,"['python', 'pandas', 'matplotlib']",Loop over Colums in Pandas Dataframe to create multiple plots with one x variable and mulitple y (colum values)
+39623977,5,"['python', 'pandas', 'dataframe', 'boolean', 'condition']","In pandas dataframe, generate third column data based on results in two other columns"
+39623858,1,"['python', 'csv', 'hadoop', 'pandas', 'pyspark']",Creating a Pandas DataFrame with HDFS file in .csv format
+39623521,3,"['python', 'pandas', 'numpy']",need help pivoting pandas table
+39623187,0,"['python', 'pandas']",ValueError: Could not broadcast during Pandas Dataframe Apply When Chunking
+39622884,2,"['python', 'list', 'pandas', 'dataframe']",Pandas groupby over list
+39622639,3,"['python', 'pandas', 'numpy']","How to break numpy array into smaller chunks/batches, then iterate through them"
+39622487,1,"['python', 'pandas']",Cumulative Set in PANDAS
+39622081,1,"['python', 'pandas', 'dataframe', 'casting']",Pandas Dataframe automatic typecasting
+39621965,1,"['python', 'pandas', 'numpy', 'reshape']",np reshape within pandas apply
+39621914,2,"['python', 'csv', 'pandas']",pd.read_csv ignores columns that don&#39;t have headers
+39620523,0,"['python', 'python-2.7', 'csv', 'pandas']",Use of extended ASCII as separator with python and pandas
+39620105,1,"['python', 'python-3.x', 'pandas', 'gis', 'proj']",Converting between projections using pyproj in Pandas dataframe
+39619799,1,"['python', 'pandas', 'indexing', 'set', 'condition']",Python Pandas select rows based on membership of another collection (set)
+39619295,1,"['python', 'pandas', 'dataframe', 'int', 'multiple-columns']",Integer parameter in pandas DataFrame.drop function
+39618678,1,"['python', 'pandas', 'numpy', 'dataframe', 'casting']",Pandas convert columns type from list to np.array
+39617894,0,"['python', 'pandas']",Concatenate or Average A Dataframe In A Function
+39617298,2,"['python', 'pandas', 'group-by', 'aggregate', 'multiple-columns']",Make a table from 2 columns
+39616931,2,"['python', 'csv', 'pandas', 'numpy']",How to create rows and columns in a .csv file from .log file
+39616764,1,"['python', 'pandas', 'group-by', 'missing-data', 'imputation']",Pandas per group imputation of missing values
+39615871,1,"['python', 'pandas', 'numpy']",Function to calculate value from first row in Python Pandas
+39615520,1,"['python', 'string', 'python-2.7', 'pandas', 'word-cloud']",Pandas: create word cloud from a column with strings
+39615506,1,"['python', 'pandas']",Pandas: write condition to filter in dataframe
+39615476,1,"['python', 'list', 'pandas', 'dataframe', 'tuples']",converting dataframe to list of tuples on condition
+39615238,2,"['python', 'pandas', 'dataframe']",how could i delete rows with repeating/duplicate index from dataframe
+39615199,2,"['python', 'pandas', 'dataframe', 'multiple-columns', 'nan']",fill NaN with another lookup table
+39614059,1,"['python', 'pandas', 'dataframe']",collect rows and columns based on id matching
+39613228,2,"['python', 'pandas']",Pandas: concatenate dataframes
+39612300,2,"['python', 'python-2.7', 'pandas', 'indexing', 'condition']",Pandas: Change values chosen by boolean indexing in a column without getting a warning
+39612240,1,"['python', 'json', 'pandas', 'unicode']",Writing pandas DataFrame to JSON in unicode
+39611568,1,"['python', 'csv', 'pandas', 'multiple-columns', 'separator']",Select Columns in pandas DF
+39611197,1,"['python', 'pandas', 'ram']",pandas memory consumption hdf file grouping
+39610336,1,"['python', 'pandas', 'for-loop']",Invalid syntax error in for loop pandas
+39609426,1,"['python', 'python-2.7', 'pandas']",Pandas: remove encoding from the string
+39609391,2,"['python', 'python-2.7', 'pandas', 'numpy', 'scipy']",Pandas how to split dataframe by column by interval
+39608282,3,"['python', 'string', 'pandas', 'casting', 'int']",Pandas error trying to convert string into integer
+39607540,2,"['python', 'pandas']",Count the number of Occurrence of Values based on another column
+39606540,0,"['python', 'pandas', 'multidimensional-array', 'xml-parsing']",How to read multidimensional dataframe in Pandas?
+39606534,1,"['python', 'pandas', 'sqlalchemy']",sqlalchemy / pandas - How do I create an sqlalchemy `selectable` to pass to pd.read_sql?
+39605512,3,"['python', 'pandas', 'numpy']",twist dataframe by rank
+39605156,2,"['python', 'pandas']",Convert DateTime to sequential day of the year
+39604586,1,"['python', 'pandas', 'time-series']",Pandas apply with list output gives ValueError once df contains timeseries
+39604461,1,"['python', 'json', 'pandas', 'dictionary', 'dataframe']",API Call - Multi dimensional nested dictionary to pandas data frame
+39604348,0,"['python', 'pandas', 'numpy']",pd.read_clipboard() giving me an error on Python 2
+39604094,1,"['python', 'pandas']",Pandas delete all rows that are not a &#39;datetime&#39; type
+39603571,2,"['python', 'pandas']",Key error in data-frame handling
+39603567,1,"['python', 'csv', 'pandas']",How to Combine CSV Files with Pandas (And Add Identifying Column)
+39603399,1,"['python', 'pandas', 'mean', 'numeric', 'resampling']","pandas daily average, pandas.resample"
+39602824,3,"['python', 'string', 'python-2.7', 'pandas', 'replace']",pandas: replace string with another string
+39602802,0,"['python', 'pandas']",Combining data divided between multiple columns after pivoting pandas data table
+39602785,1,"['python', 'pandas']",Complex time operations in Pandas
+39602588,1,"['python', 'pandas', 'data-munging']","Python, Pandas - Issue applying function to a column in a dataframe to replace only certain items"
+39602004,1,"['python', 'pandas', 'comparison', 'floating-accuracy', 'comparison-operators']",Can I use pandas.dataframe.isin() with a numeric tolerance parameter?
+39601892,0,"['python', 'pandas', 'pivot']",Does the &quot;lambda x: x&quot; hack no longer work in pandas pivot table?
+39601854,2,"['python', 'python-2.7', 'pandas']",pandas: slice dataframe based on NaN
+39601251,1,"['python', 'pandas', 'dataframe']",Python error when calling column data from Pandas DataFrame
+39601126,2,"['python', 'performance', 'pandas', 'optimization', 'dataframe']",Transposing a subset of columns in a Pandas DataFrame while using others as grouping variable?
+39601110,2,"['python', 'pandas', 'indexing', 'dataframe', 'multi-index']",How to access prior rows within a multiindex Panda dataframe
+39600816,2,"['python', 'pandas', 'numpy']",Setting pandas.DataFrame string dtype (not file based)
+39599802,1,"['python', 'html', 'pandas', 'beautifulsoup']",Python Conditionally Add Class to &lt;td&gt; Tags in HTML Table
+39599192,4,"['python', 'pandas']",Fill in time data in pandas
+39598618,1,"['python', 'datetime', 'pandas']",Pandas Filter on date for quarterly ends
+39598449,1,"['python', 'pandas', 'dataframe']",Convert Hex Column in Pandas Without Iterating
+39597785,1,"['python', 'pandas', 'plot', 'group-by', 'filtering']",Pandas Multicolumn Groupby Plotting
+39597553,1,"['python', 'list', 'datetime', 'pandas', 'datetimeindex']",From DatetimeIndex to list of times
+39595327,0,"['python', 'pandas', 'numpy', 'ironpython', 'python.net']",How to install packages/modules in IronPython
+39594080,2,"['python', 'pandas']",How to compare dataframe unique values with a list?
+39593821,2,"['python', 'json', 'pandas']",Convert a dict to a pandas DataFrame
+39593569,0,"['python', 'pandas', 'seaborn']",changing major/minor axis interval and color scheme for heatmap
+39593275,2,"['python', 'r', 'pandas', 'rpy2']",How to get data from R to pandas
+39592543,0,"['python', 'datetime', 'pandas']",name &#39;CustomBusinessDay&#39; is not defined
+39592295,0,"['python', 'pandas', 'numpy']",concatenate colums from multiples files
+39592114,0,"['python', 'pandas', 'scikit-learn']",(Python) Using DictVectoriser from sklearn class with strings
+39591722,1,"['python', 'pandas']",Mask numbers in pandas
+39591334,1,"['python', 'performance', 'pandas']",Finding efficiently pandas (part of) rows with unique values
+39590948,1,"['python', 'pandas', 'matplotlib', 'dataframe']",Formatting datetime for plotting time-series with pandas
+39590648,1,"['python', 'pandas', 'jupyter']",What am I doing wrong when using seasonal decompose in Python?
+39590152,1,"['python', 'arrays', 'pandas', 'numpy', 'casting']",TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; even after using np.multiply
+39590055,2,"['python', 'pandas']",Python pandas dataframe sort_values does not work
+39589558,4,"['python', 'pandas', 'dataframe', 'group-by']",Assign Unique Values according Distinct Columns Values
+39589126,2,"['python', 'pandas', 'dataframe']",DataFrame value startswith
+39587863,1,"['python', 'list', 'pandas', 'dictionary']",How do I calculate the percent difference between the 1st and 6th key in a list of dictionaries?
+39587730,2,"['python', 'pandas', 'dataframe']",How to check values of column in one dataframe available or not in column of another dataframe?
+39587451,2,"['python', 'pandas', 'apache-spark', 'pyspark', 'spark-dataframe']","How to extract year and week number in a dataframe and put it in a new column, python"
+39586809,1,"['python', 'csv', 'pandas', 'dictionary', 'replace']",Replace values in a dataframes using other dataframe with strings as keys with Pandas
+39586398,1,"['python', 'pandas', 'indexing', 'dataframe', 'condition']",How to compare decimal numbers available in columns of pandas dataframe?
+39584916,2,"['python', 'python-2.7', 'pandas', 'group', 'aggregate']",Python Pandas Data sampling/aggregation
+39584544,1,"['python', 'pandas']",Pandas Percent Change on Non-Descending Cells
+39584228,1,"['python', 'pandas']",pandas.Series.get fails with: object has no attribute &#39;values&#39;
+39584118,1,"['python', 'pandas', 'dask']",dask dataframe how to convert column to to_datetime
+39583634,1,"['python', 'pandas', 'plot', 'group-by', 'filtering']","Pandas group by, filter &amp; plot"
+39583363,1,"['python', 'pandas', 'numpy', 'dataframe']",Pandas Dataframe return index with inaccurate decimals
+39583264,1,"['python', 'regex', 'pandas', 'dataframe', 'python-3.5']",Pandas: strip numbers and parenthesis from string
+39583153,1,"['python', 'pandas', 'chunks', 'chunking']",Pandas - is it possible to &quot;rewind&quot; read_csv with chunk= argument?
+39582984,1,"['python', 'mysql', 'pandas', 'merge']",pandas - Merging on string columns not working (bug?)
+39582860,2,"['python', 'pandas']",Pandas: Drop quasi-duplicates by column values
+39582754,1,"['python', 'pandas', 'apache-spark']",Running a Python function on Spark Dataframe
+39582209,0,"['python', 'pandas', 'plot', 'charts', 'bokeh']","In a Python Bokeh Legend, How do I Change the display format of numbers?"
+39582138,1,"['python', 'pandas']",Pandas check if row exist in another dataframe and append index
+39581893,2,"['python', 'python-2.7', 'pandas', 'statistics']",pandas: find percentile stats of a given column
+39580450,2,"['python', 'date', 'pandas']","Pandas/python and working with a column, in a dataframe, with a date"
+39580066,1,"['python', 'pandas', 'dataframe', 'nan', 'resampling']",how to insert new row in pandas data frame at desired index
+39579875,2,"['python', 'pandas', 'numpy']",Combine multiple time-series rows into one row with Pandas
+39579161,0,"['python', 'python-2.7', 'pandas']",How do I do diff analysis across grouped records?
+39579073,1,"['python', 'csv', 'pandas', 'python-requests', 'zipfile']","How do I request a zipfile, extract it, then create pandas dataframes from the csv files?"
+39578930,0,"['python', 'pandas', 'group-by', 'apply']",Python Pandas Groupby-Apply Returning &#39;ValueError: Wrong number of items passed..&#39;
+39578866,1,"['python', 'pandas', 'dataframe', 'append', 'multi-index']",how to add a row to a Datetime Multiindex Panda Dataframe
+39578656,1,"['python', 'pandas', 'indexing', 'dataframe', 'multiplying']",Update Pandas dataframe value based on present value
+39578611,0,"['python', 'pandas', 'polygon', 'shapely', 'geopandas']",geopandas AttributeError: &#39;MultiPolygon&#39; object has no attribute &#39;exterior&#39;
+39578495,1,"['python', 'python-3.x', 'pandas', 'numpy', 'strftime']",Using `apply` on datetime64 series in pandas
+39578466,2,"['python', 'datetime', 'pandas', 'time-series']",pandas date to string
+39577617,3,"['python', 'pandas']","Getting the last value for each week, with the matching date"
+39576800,2,"['python', 'list', 'pandas', 'dataframe', 'multiple-columns']",Transform to normal Data Frame which has row as list. Split rows to column
+39576340,1,"['python', 'python-2.7', 'pandas']",rename the pandas Series
+39576156,1,"['python', 'pandas', 'select', 'dataframe', 'multiple-columns']",Selecting values from a series in pandas
+39575947,1,"['python', 'python-3.x', 'pandas']",Get next value from a row that satisfies a condition in pandas
+39574571,1,"['python', 'pandas']",merge() missing 1 required positional argument: &#39;right&#39;
+39574497,2,"['python', 'datetime', 'pandas']",Python Pandas calculate time until output reaches 0
+39573574,2,"['python', 'pandas', 'indexing', 'dataframe', 'condition']",How to compare four columns of pandas dataframe at a time?
+39572908,0,"['python', 'pandas', 'numpy']",Replacing NA in my dataframe in python
+39572089,1,"['python', 'pandas', 'numpy']",Part II: Counting how many times in a row the result of a sum is positive (or negative)
+39571832,1,"['python', 'pandas', 'dataframe', 'multiple-columns', 'string-concatenation']",How to row-wise concatenate several columns containing strings?
+39570240,1,"['python', 'pandas', 'dataframe', 'removing-whitespace']",How to partially remove content from cell in a dataframe using Python
+39569791,0,"['python', 'pandas']",Pandas replaces NAN with arbitrary number when to_latex
+39568925,3,"['python', 'pandas', 'directory']",Python: read files from directory and concatenate that
+39568229,1,"['python', 'mysql', 'pandas', 'unicode', 'amazon-redshift']",read_sql and redshift giving error on unicode
+39567712,1,"['python', 'pandas', 'percentile']",Python Pandas - how is 25 percentile calculated by describe function
+39567528,1,"['python', 'pandas', 'scikit-learn']",Pandas operations on selected columns
+39566992,2,"['python', 'pandas', 'merge', 'mapping', 'multiple-columns']",Mapping data from other dataset. Python Pandas
+39566311,1,"['python', 'pandas']",Derive extra column from Pandas dataframe columns
+39565307,0,"['python', 'pandas']",Pandas read_csv does not get the last line in the CSV in python
+39564956,1,"['python', 'pandas']",Return Pandas DataFrame references/names to a list?
+39564433,1,"['python', 'pandas', 'numpy', 'dataframe']",Adding a column to a Multiindex Dataframe
+39564372,2,"['python', 'pandas']",Create new column in pandas based on value of another column
+39563719,1,"['python', 'pandas']",Access values for a dictionary within a list in a column of a pandas dataframe
+39563507,1,"['python', 'datetime', 'pandas', 'timezone']",Pandas tz_localize: Infer dst when localizing timezone in data with duplicates
+39563209,1,"['python', 'pandas', 'numpy', 'dataframe']",Unable to delete first row in matrix
+39563028,1,"['python', 'pandas', 'dataframe', 'group-by']",Counting values using pandas groupby
+39562915,2,"['python', 'pandas']",Pandas groupby where all columns are added to a list prefixed by column name
+39562824,1,"['python', 'python-2.7', 'pandas', 'dataframe']",How to find max in dataframe with in a certain length in python?
+39562485,0,"['python', 'pandas']",Mean of a Pandas Panel
+39562373,1,"['python', 'datetime', 'pandas', 'dataframe']",substract from date tuple
+39562253,4,"['python', 'pandas', 'graph']",How to create an adjacency list from an edge list efficiently
+39562069,2,"['python', 'pandas', 'dataframe', 'aggregate-functions', 'series']",Rename several unnamed columns in a pandas dataframe
+39561364,1,"['python', 'pandas', 'dataframe']",pandas: Using color in a scatter plot
+39561248,2,"['python', 'pandas', 'matplotlib', 'panel-data']","Python, plotting Pandas&#39; pivot_table from long data"
+39560598,1,"['python', 'pandas', 'group-by', 'scipy', 'condition']",Working with the output of groupby and groupby.size()
+39560578,1,"['python', 'pandas', 'dataframe', 'group-by']",Python - calculating the range(highest - lowest) in different group
+39560099,2,"['python', 'pandas', 'matplotlib', 'plot']",Cannot combine bar and line plot using pandas plot() function
+39559805,1,"['python', 'pandas']",Skip first row in pandas dataframe when creating list
+39559603,1,"['python', 'pandas', 'dataframe', 'multiple-columns']",Reduction the Pandas dataframe to other dataframe
+39559054,2,"['python', 'pandas', 'sum', 'append', 'condition']",Append row with counts in PANDAS
+39558888,2,"['python', 'pandas']",Removing values from dataframe based on groupby condition
+39558733,1,"['python', 'python-2.7', 'pandas', 'pivot', 'pivot-table']",Pivot Table with All the Index
+39558659,1,"['python', 'pandas']",Using set_index within a custom function
+39557680,1,"['python', 'pandas', 'data-structures', 'extract', 'reshape']",Extract data from multiple bracket string in Pandas and create new table
+39557313,1,"['python', 'arrays', 'function', 'pandas', 'median']",rolling apply in pandas shows &quot;TypeError: only length-1 arrays can be converted to Python scalars&quot;
+39555592,2,"['python', 'pandas', 'sklearn-pandas']",How to keep one single column as a dataframe
+39555127,3,"['python', 'pandas', 'dictionary', 'duplicates', 'dedupeplugin']",Python deduplicate records - dedupe
+39555091,0,"['python', 'pandas', 'timestamp', 'pyspark']",Pyspark save `datetime` to 15-digits int
+39554806,1,"['python', 'pandas', 'dataframe', 'aggregate-functions', 'series']",Aggregate function to data frame in pandas
+39553866,1,"['python', 'pandas', 'lambda']",Use apply() with Pandas Series
+39553392,1,"['python', 'python-3.x', 'pandas', 'openpyxl']",text to columns with comma delimiter using python
+39553271,1,"['python', 'csv', 'pandas', 'dataframe']","I can load multiple stock tickers from yahoo finance, but I am having trouble adding new columns before it is saved to a csv"
+39553160,0,"['python', 'pandas', 'dataframe']","Combining Rows of two DataFrames, then deleting repeat entries"
+39552773,1,"['python', 'pandas', 'numpy', 'dataframe']",Apply Numpy function over entire Dataframe
+39552158,2,"['python', 'pandas', 'numpy', 'dataframe']",Apply a weight formula over a Dataframe using Numpy
+39551566,1,"['python', 'pandas', 'dataframe', 'series']",Create a set from a series in pandas
+39551264,2,"['python', 'pandas', 'machine-learning', 'scikit-learn', 'classification']",sklearn SVM performing awfully poor
+39550927,2,"['python', 'pandas', 'dataframe']",Splitting stacked dataframe in pandas
+39550772,0,"['python', 'pandas', 'dataframe']",python - Dataframe objects in Jupyter notebook do not output in a stylized grid as they should
+39550212,1,"['python', 'pandas']",PANDAS Combine Rows And Preserve Column Order
+39550147,3,"['python', 'sql', 'pandas', 'pyspark', 'spark-dataframe']",Convert Pandas Dataframe from Row based to Columnar
+39549889,1,"['python', 'pandas', 'dataframe']",Copying set of specific columns between Pandas dfs where specific values match
+39549887,1,"['python', 'mysql', 'pandas', 'pandasql']",Need to edit subset of rows from MySQL table using Pandas Dataframe
+39549856,1,"['python', 'pandas', 'plot']",Plot multiple series with non-overlapping x-axis
+39549338,1,"['python', 'list', 'datetime', 'pandas', 'group-by']","Group a list of dates by month, year"
+39549097,1,"['python', 'pandas', 'dataframe', 'rows']",Filtering out string in a Panda Dataframe
+39548753,2,"['python', 'pandas', 'numpy', 'dataframe', 'where']","How do I get np.where to accept more arguments, so it will filter &gt;, &lt; , and =; not just &gt; and &lt;?"
+39548328,1,"['python', 'pandas']",Faster method of looping through pixels
+39548139,1,"['python', 'pandas']",Faster way of converting Date column to weekday name in Pandas
+39547985,3,"['python', 'pandas', 'dataframe']",Pandas dataframe slicing
+39547873,1,"['python', 'pandas', 'dataframe', 'grouping']",Pandas group by chunks not single values
+39546975,1,"['python', 'pandas', 'dataframe']",pandas: error on DataFrame.unstack
+39545655,2,"['python', 'pandas', 'dataframe']",Intergrating 2 dataframes based on specific column values
+39544975,1,"['python', 'pandas', 'dataframe']",Shifting Column to the left Pandas Dataframe
+39544270,1,"['python', 'pandas']",Changing values in column selectively. Python Pandas
+39543230,1,"['python', 'pandas', 'lambda']",Apply shift for comparison on multiple columns over groupby pandas
+39542642,1,"['python', 'pandas']",Reshaping pandas dataframe: New row for every 76 entries
+39541035,0,"['python', 'pandas']","Apply function to column of pandas dataframe in chunks (every few rows), interspersed with time.sleep()"
+39539287,2,"['python', 'pandas', 'for-loop', 'iteration']",Python for loop over two lists for all the pairs
+39539151,1,"['python', 'pandas']",pd.rolling_max and min with groupby or similar
+39539115,0,"['python', 'pandas', 'window', 'apply', 'beta']",Python pandas most pythonic way to calculate rolling betas on a DataFrame
+39538938,0,"['python', 'pandas', 'matplotlib', 'bar-chart']",Weird artefacts in a matplotlib bar plot
+39538109,3,"['python', 'pandas']",How best to use pandas.DataFrame.pivot?
+39538088,0,"['python', 'pandas']",Pandas rolling.mean is returning unexpected values
+39537957,0,"['python', 'html', 'csv', 'pandas', 'beautifulsoup']",BeautifulSoup table object with rowspan to pandas dataframe
+39537689,1,"['python', 'pandas', 'dataframe']",How to assign unique identifier to DataFrame row
+39537356,0,"['python', 'pandas']",ValueError: Incompatible indexer with Series
+39536940,1,"['python', 'regex', 'string', 'pandas', 'split']",Filtering a pandas dataframe based on a match to partial strings
+39536529,2,"['python', 'pandas']",Select certain row values and make them columns in pandas
+39536229,1,"['python', 'pandas', 'kdb', 'q-lang', 'exxeleron-q']",Issue with null character received by qpython/pandas from kdb
+39535939,1,"['python', 'python-3.x', 'pandas', 'dataframe']",Printing Column Names and Values in Dataframe
+39535777,1,"['python', 'pandas', 'grouping', 'p-value']",Calculate cumulative p_value hourly in pandas
+39535597,1,"['python', 'pandas']",python: DataFrame.append does not append element
+39534941,1,"['python', 'pandas']",python pandas Ignore Nan in integer comparisons
+39534768,0,"['python', 'pandas', 'for-loop', 'xlsxwriter']",Insert fig into excel workbook using a for loop and pandas
+39534676,1,"['python', 'pandas']","TypeError: first argument must be an iterable of pandas objects, you passed an object of type &quot;DataFrame&quot;"
+39534129,1,"['python', 'pandas']",change index value in pandas dataframe
+39533680,1,"['android', 'python', 'pandas', 'numpy']",Can I run Numpy (or other Python packages) on Android?
+39533004,1,"['python', 'pandas', 'numpy', 'matplotlib', 'plot']",Issues in Plotting Intraday OHLC Chart with Matplotlib
+39532978,1,"['python', 'arrays', 'pandas', 'numpy']",Python function redefines variables that are not passed
+39532673,0,"['python', 'pandas', 'dataframe']",regain formatting for a Python Pandas dataframe
+39530617,2,"['python', 'pandas', 'scikit-learn']",Selecting certain features from a dataset according to a list.
+39529941,1,"['python', 'pandas', 'histogram']",Plotting histograms in Python using pandas
+39529253,0,"['python', 'python-3.x', 'pandas', 'types', 'casting']",Pandas: Elementwise typecast
+39528707,1,"['python', 'pandas', 'dictionary', 'dataframe']",Creating dictionary from dataframe in python
+39528448,1,"['python', 'excel', 'pandas']",How to call value from excel on python
+39527826,2,"['python', 'pandas', 'optimization', 'dataframe']",How to optimize code that iterates on a big dataframe in Python
+39526886,2,"['python', 'pandas', 'dataframe', 'copy']",Copying (efficiently) dataframe content inside of another dataframe using Python
+39526134,2,"['python', 'pandas']",How to groupby time series data
+39524570,2,"['python', 'excel', 'pandas']","How to get rid of row numbers, pd.read_excel?"
+39523902,1,"['python', 'pandas']",i want to compare my sum of Q2 with the sum of all individual account
+39523900,3,"['python', 'pandas', 'numpy', 'dataframe']",Process a list in a Dataframe column
+39523085,1,"['python', 'pandas']",Pandas relabel rows to recognize unique values within a groupby
+39522594,1,"['python', 'pandas', 'timestamp', 'datetimeindex']",convert pandas timedelta output from days to quarter
+39522589,2,"['python', 'pandas']",How To Combine Multiple Rows Into One Based on Shared Value in Pandas
+39522333,1,"['python', 'pandas', 'numpy', 'dataframe']",find the manhatten sum of a dataframe given two points
+39521461,1,"['python', 'pandas']",How can I average ACROSS groups in python-pandas?
+39521341,1,"['python', 'hadoop', 'pandas', 'apache-spark', 'pyspark']",pyspark error: AttributeError: &#39;SparkSession&#39; object has no attribute &#39;parallelize&#39;
+39520824,1,"['python', 'arrays', 'pandas']",Store array of string values in column in pandas?
+39520532,2,"['python', 'pandas']",How to measure the memory footprint of importing pandas?
+39520362,1,"['python', 'pandas', 'dataframe', 'multi-index']",Filtering a multiindex dataframe based on column values dropping all rows inside level
+39520349,3,"['python', 'pandas', 'numpy']",Filtering / smoothing a step function to retrieve biggest increments
+39520283,2,"['python', 'pandas', 'moving-average']",Ignore preceding values for a given column when calculating rolling.mean using Pandas
+39520101,1,"['python', 'pandas', 'dataframe']",Pandas pd.cut Field Where Other Field Equals Value
+39520069,1,"['python', 'pandas']",Creating summary rows in pivot tables
+39519167,1,"['python', 'pandas', 'dataframe', 'apply']",Apply weight formula over rows of Dataframe Pandas
+39518534,1,"['python', 'python-2.7', 'pandas', 'dataframe']",Pandas series.rename gives TypeError: &#39;str&#39; object is not callable error
+39518141,1,"['python', 'pandas', 'numpy', 'dataframe']",how to add coordinate array as rows in panda dataframe
+39517660,2,"['python', 'datetime', 'pandas', 'numpy']",conversion of np.array(dtype=&#39;str&#39;) in an np.array(dtype=&#39;datetime&#39;)
+39517555,1,"['python', 'python-2.7', 'pandas']",Adding Grouped Dataframes
+39517013,2,"['python', 'regex', 'pandas', 'dataframe']",&#39;expected string or buffer&#39; when using re.match with pandas
+39516671,2,"['python', 'pandas', 'datetimeindex']",extend a pandas datetimeindex by 1 period
+39516055,2,"['python', 'datetime', 'pandas']",python pandas: date/time function to compute time period
+39515845,1,"['python', 'pandas']",Python libraries imported but unused
+39515589,1,"['python', 'python-2.7', 'pandas']",getting percentage of values meeting conditions within a Pandas group by
+39515411,0,"['python', 'python-3.x', 'pandas', 'dataframe', 'algorithmic-trading']",What is pandas syntax for lookup based on existing columns + row values?
+39515152,1,"['python', 'pandas', 'dataframe']","Python, Pandas - How can I get something printed in a data range?"
+39515123,1,"['python', 'multithreading', 'pandas', 'python-multithreading']","Pandas, Concurrent.Futures and the GIL"
+39515086,2,"['python', 'pandas']",Set a current row in a dataframe based off of future values
+39515043,1,"['python', 'pandas', 'dataframe']",Pandas - Expand DataFrame by fetching data using one column
+39514202,4,"['python', 'pandas', 'dataframe']",Counting how many times in a row the result of a sum is positive (or negative)
+39513332,2,"['python', 'pandas', 'dataframe']",Python DataFrame Transform Rows to Column
+39512182,0,"['python', 'pandas', 'coding-style', 'coupling']",data encapsulation with pandas dataframe in python: best coding practice?
+39512002,2,"['python', 'pandas', 'type-conversion', 'uppercase', 'lowercase']",Convert whole dataframe from lower case to upper case with Pandas
+39511976,2,"['python', 'pandas']",After reading a csv using header/skiprows argument values become NaN
+39511378,3,"['python', 'pandas']",Filtering a pandas data frame with a variable
+39509824,2,"['python', 'pandas', 'numpy']",Python unique values per column in csv file row
+39509803,1,"['python', 'excel', 'python-2.7', 'pandas']",Pandas: KeyError when attempting to print value from df.loc in Excel file
+39509404,1,"['python', 'pandas', 'plot', 'dataframe']",Reducing rows in a column for a panda DataFrame for plotting
+39508021,1,"['python', 'pandas']","Pandas: Set variable to value in cell, if another cell on same row contains string"
+39508001,1,"['python', 'pandas', 'dataframe']",pandas: rename axis in df
+39507774,1,"['python', 'pandas']",Python pandas nonzero cumsum
+39507433,1,"['python', 'pandas', 'merge']",Fill missing values from another Pandas dataframe with different shape
+39507417,1,"['python', 'pandas', 'replace', 'substitution']",Identify cells containing specific strings and overwrite content with numbers using Python

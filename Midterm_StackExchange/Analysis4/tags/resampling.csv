@@ -1,0 +1,6 @@
+QuesID,    AnsCount,    QuesTitle
+39737890,1,Resampling (Upsample) Pandas multiindex dataframe
+39708133,1,TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39; (python 2.7)
+39691671,2,Resampling timeseries with a given timedelta
+39603399,1,"pandas daily average, pandas.resample"
+39580066,1,how to insert new row in pandas data frame at desired index

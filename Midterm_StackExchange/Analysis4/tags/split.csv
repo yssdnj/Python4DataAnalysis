@@ -1,0 +1,4 @@
+QuesID,    AnsCount,    QuesTitle
+39759867,1,Splitting a mixed number string from a dataframe column and converting it to a float
+39663214,2,Sorting and arranging a list using pandas
+39536940,1,Filtering a pandas dataframe based on a match to partial strings

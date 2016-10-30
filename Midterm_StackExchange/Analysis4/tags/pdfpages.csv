@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39652147,2,Error when trying to write a matplotlib plot from Pandas DataFrame to pdf
+39646344,0,"Error creating multiple plots in python using PdfPages, pandas, matplotlib, and a for loop"

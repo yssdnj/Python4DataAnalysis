@@ -1,0 +1,6 @@
+QuesID,    AnsCount,    QuesTitle
+39774314,1,Pandas pivot_table to calculate share of margin
+39674876,1,Is There Complete Overlap Between `pd.pivot_table` and `pd.DataFrame.groupby` + `pd.DataFrame.unstack`?
+39664739,1,pandas pivot table aggfunc troubleshooting
+39632277,1,Pandas NaN introduced by pivot_table
+39558733,1,Pivot Table with All the Index

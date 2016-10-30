@@ -1,0 +1,16 @@
+QuesID,    AnsCount,    QuesTitle
+39764652,2,Merging 2 dataframe using similar columns
+39762576,1,Dataframe returning None value
+39745627,1,Setting a row index on and querying a pandas dataframe with multi-index columns
+39727129,1,How to remove rows with duplicates in pandas dataframe?
+39658574,2,How to drop columns which have same values in all rows via pandas or spark dataframe?
+39640936,2,parsing a dictionary in a pandas dataframe cell into new row cells (new columns)
+39619295,1,Integer parameter in pandas DataFrame.drop function
+39617298,2,Make a table from 2 columns
+39615199,2,fill NaN with another lookup table
+39611568,1,Select Columns in pandas DF
+39576800,2,Transform to normal Data Frame which has row as list. Split rows to column
+39576156,1,Selecting values from a series in pandas
+39571832,1,How to row-wise concatenate several columns containing strings?
+39566992,2,Mapping data from other dataset. Python Pandas
+39559603,1,Reduction the Pandas dataframe to other dataframe

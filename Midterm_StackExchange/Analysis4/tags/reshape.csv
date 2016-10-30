@@ -1,0 +1,5 @@
+QuesID,    AnsCount,    QuesTitle
+39777018,1,Create or modify DataFrame using another DataFrame
+39761366,1,Transpose the data in a column every nth rows in PANDAS
+39621965,1,np reshape within pandas apply
+39557680,1,Extract data from multiple bracket string in Pandas and create new table

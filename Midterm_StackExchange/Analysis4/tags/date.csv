@@ -1,0 +1,4 @@
+QuesID,    AnsCount,    QuesTitle
+39747222,2,Add column to dataframe based on date column range
+39648163,2,python pandas parse date without delimiters &#39;time data &#39;060116&#39; does not match format &#39;%dd%mm%YY&#39; (match)&#39;
+39580450,2,"Pandas/python and working with a column, in a dataframe, with a date"

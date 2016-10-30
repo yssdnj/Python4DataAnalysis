@@ -1,0 +1,10 @@
+QuesID,    AnsCount,    QuesTitle
+39763436,3,apply function on groups of k elements of a pandas Series
+39731313,1,Manipulating pandas series - empty rows in a column
+39715910,1,Trying to create a pandas series within a dataframe with values based on whether or not keys are in another dataframe
+39638833,1,Aggregate dataframe indices in python
+39636224,1,Get pandas subseries by values when each value is a ndarray
+39629183,2,Create a 2D plot pixel grid based on a pandas series of lists
+39562069,2,Rename several unnamed columns in a pandas dataframe
+39554806,1,Aggregate function to data frame in pandas
+39551566,1,Create a set from a series in pandas

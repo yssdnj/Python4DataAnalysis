@@ -1,0 +1,6 @@
+QuesID,    AnsCount,    QuesTitle
+39671322,1,Subtracting the rows of a column from the preceding rows in a python pandas dataframe
+39646300,2,Pandas DataFrame slicing based on logical conditions?
+39582984,1,pandas - Merging on string columns not working (bug?)
+39568229,1,read_sql and redshift giving error on unicode
+39549887,1,Need to edit subset of rows from MySQL table using Pandas Dataframe

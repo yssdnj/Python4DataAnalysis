@@ -1,0 +1,4 @@
+QuesID,    AnsCount,    QuesTitle
+39730528,2,"TypeError: Signature mismatch. Keys must be dtype &lt;dtype: &#39;string&#39;&gt;, got &lt;dtype:&#39;int64&#39;&gt;"
+39678719,0,Tensorflow: loss is decreasing normally but accuracy is fluctuating through couple of value
+39643505,1,TypeError: argument of type &#39;float&#39; is not iterable-Tensorflow wide_n_deep_tutorial

@@ -1,0 +1,159 @@
+QuesID,    AnsCount,    QuesTitle
+39780443,0,Getting no such table error using pandas and sqldf
+39780399,1,Group by Column in Dataframe and create seperate csv for each group
+39779726,1,Python DataFrame error for having a header with parenthesis
+39778686,1,pandas reset_index after groupby.value_counts()
+39777018,1,Create or modify DataFrame using another DataFrame
+39775828,3,Extract series objects from Pandas DataFrame
+39775506,2,Pandas - applying groupings and counts to multiple columns in order to generate/change a dataframe
+39774828,0,Histogram of Correlations
+39767787,1,Getting substring based on another column in a pandas dataframe
+39766141,2,Pandas: adding new column to existing Data Frame for grouping purposes
+39761648,1,Pandas Dataframe comparison with range/stdev
+39761488,1,Comparing a dataframe on string lengths for different columns
+39761366,1,Transpose the data in a column every nth rows in PANDAS
+39761068,1,Sum up values in a column using Pandas
+39760063,1,python pandas groupby sorting and concatenating
+39759301,2,"Trying to plot a random series on a chart with matplotlib, but the chart will not display when the programe is ran."
+39758315,1,Pandas Dataframe Data Type Conversion or Isomap Transformation
+39757901,2,how to initialize multiple columns to existing pandas DataFrame
+39755981,1,Explain how pandas DataFrame join works
+39752657,0,"In python, speed up pandas.DataFrame.loc performance within for loops"
+39749653,2,How to groupby and assign an array to a column in python-pandas?
+39748963,1,Pandas Dataframe row number become the same after selected by condition
+39746316,0,python dataframe std deviation of a column/row containing all Nan values except one element
+39738137,1,"python .loc with some condition(string, regex etc)"
+39737890,1,Resampling (Upsample) Pandas multiindex dataframe
+39737226,1,How to use a pandas DataFrame as data parameter in Seaborn lmplot
+39735676,4,Binarize a float64 Pandas Dataframe in Python
+39734836,1,Join Python dataframe time series efficiently
+39732661,1,Pandas - how to filter rows base on regular expresion
+39731396,2,python pandas summarizing nominal variables (counting)
+39731395,1,dataframe column slices excluding specific columns
+39731313,1,Manipulating pandas series - empty rows in a column
+39730951,1,Trying to return number of items in a list as a column in a dataframe
+39730468,1,Convert column&#39;s data to enumerated dictionary key-value
+39729258,0,Read large csv file chunks to dataframe and sort using column header as criteria
+39728930,1,"How to delete duplicates, but keep the first instance and a blank cell for the duplicates in Pandas?"
+39723061,1,How to extract date form data frame column?
+39721800,1,Convert Pandas dataframe to Dask dataframe
+39715910,1,Trying to create a pandas series within a dataframe with values based on whether or not keys are in another dataframe
+39713678,1,Assigning indicators based on observation quantile
+39711977,2,How can I filter for string values in a mixed datatype object in Python Pandas Dataframe
+39711422,2,Getting percentages after binning pandas dataframe
+39711229,1,TypeError for bar plot with custom date range
+39705022,1,Looping over pandas data frame applying formula to each value
+39703734,1,input column based on conditional statement pandas
+39703165,1,Join dataframes by column values pandas
+39702156,0,Calculate RSI from pandas dataframe
+39701779,1,Mapping multiple dataframe based on the matching columns
+39699312,2,How to check whether particular column completely match or not
+39697349,1,Count how many attributes have a word as a substring of longer text value
+39689767,0,subtract consecutive rows from a .dat file
+39688434,2,Marking certain days in date indexed pandas dataframes
+39687917,1,calculating result of a function for a column of a dataframe in python
+39686132,2,Pandas: How to open certain files
+39685737,2,Do something to every row on a pandas dataframe
+39685518,1,Trying to use pandas pivot like excel pivot
+39684548,1,Convert the string 2.90K to 2900 or 5.2M to 5200000 in pandas dataframe
+39680162,2,"Pandas, split dataframe by monotonic increase of column value"
+39677851,1,Dataframe filtering in pandas
+39677183,1,Quickly sampling large number of rows from large dataframes in python
+39676339,1,Group data into classes with numpy
+39676328,1,"Indexing dataframe by datetime python ignoring hour, minutes, seconds"
+39671577,0,find problematic records - pandas dataframe
+39665374,1,How to make a group id using pandas
+39663486,2,reindex some DataFrame columns to multi index
+39661759,1,Merging multiple dataframe bassed on matching values from three column into single dataframe
+39661428,1,Trying to loop over colums in DataFrame and strip Dollar Sign
+39659146,1,Pandas DataFrame with date and time from JSON format
+39657330,2,How to calculate the values of a pandas DataFrame column depending on the results of a rolling function from another column
+39653812,2,How to sort/ group a Pandas data frame by class label or any specific column
+39648991,2,Pandas dataframe pivot - Memory Error
+39647978,1,Get List of Unique String values per column in a dataframe using python
+39647269,2,Pandas: Compare a column to all other columns of a dataframe
+39646728,3,How to find out number of unique rows within a pandas groupby object?
+39646634,2,How to create a new column in Python Dataframe by referencing two other columns?
+39646134,2,Looking up Pandas dataFrame
+39645404,1,Display Pandas DataFrame in csv format
+39644167,1,python pandas how to drop duplicates selectively
+39638801,1,Loop over groups Pandas Dataframe and get sum/count
+39634369,1,4 dimensional nested dictionary to pandas data frame
+39632248,1,How to import normalised json data from several files into a pandas dataframe?
+39631678,1,Can a pandas DataFrame hold non-scalar values?
+39626439,1,Appropriate Time to Dynamically Set Variable Names?
+39623977,5,"In pandas dataframe, generate third column data based on results in two other columns"
+39622884,2,Pandas groupby over list
+39622081,1,Pandas Dataframe automatic typecasting
+39619295,1,Integer parameter in pandas DataFrame.drop function
+39618678,1,Pandas convert columns type from list to np.array
+39615476,1,converting dataframe to list of tuples on condition
+39615238,2,how could i delete rows with repeating/duplicate index from dataframe
+39615199,2,fill NaN with another lookup table
+39614059,1,collect rows and columns based on id matching
+39604461,1,API Call - Multi dimensional nested dictionary to pandas data frame
+39601251,1,Python error when calling column data from Pandas DataFrame
+39601126,2,Transposing a subset of columns in a Pandas DataFrame while using others as grouping variable?
+39601110,2,How to access prior rows within a multiindex Panda dataframe
+39598449,1,Convert Hex Column in Pandas Without Iterating
+39590948,1,Formatting datetime for plotting time-series with pandas
+39589558,4,Assign Unique Values according Distinct Columns Values
+39589126,2,DataFrame value startswith
+39587730,2,How to check values of column in one dataframe available or not in column of another dataframe?
+39586398,1,How to compare decimal numbers available in columns of pandas dataframe?
+39583363,1,Pandas Dataframe return index with inaccurate decimals
+39583264,1,Pandas: strip numbers and parenthesis from string
+39580066,1,how to insert new row in pandas data frame at desired index
+39578866,1,how to add a row to a Datetime Multiindex Panda Dataframe
+39578656,1,Update Pandas dataframe value based on present value
+39576800,2,Transform to normal Data Frame which has row as list. Split rows to column
+39576156,1,Selecting values from a series in pandas
+39573574,2,How to compare four columns of pandas dataframe at a time?
+39571832,1,How to row-wise concatenate several columns containing strings?
+39570240,1,How to partially remove content from cell in a dataframe using Python
+39564433,1,Adding a column to a Multiindex Dataframe
+39563209,1,Unable to delete first row in matrix
+39563028,1,Counting values using pandas groupby
+39562824,1,How to find max in dataframe with in a certain length in python?
+39562373,1,substract from date tuple
+39562069,2,Rename several unnamed columns in a pandas dataframe
+39561364,1,pandas: Using color in a scatter plot
+39560578,1,Python - calculating the range(highest - lowest) in different group
+39559603,1,Reduction the Pandas dataframe to other dataframe
+39554806,1,Aggregate function to data frame in pandas
+39553271,1,"I can load multiple stock tickers from yahoo finance, but I am having trouble adding new columns before it is saved to a csv"
+39553160,0,"Combining Rows of two DataFrames, then deleting repeat entries"
+39552773,1,Apply Numpy function over entire Dataframe
+39552158,2,Apply a weight formula over a Dataframe using Numpy
+39551566,1,Create a set from a series in pandas
+39550927,2,Splitting stacked dataframe in pandas
+39550772,0,python - Dataframe objects in Jupyter notebook do not output in a stylized grid as they should
+39549889,1,Copying set of specific columns between Pandas dfs where specific values match
+39549097,1,Filtering out string in a Panda Dataframe
+39548753,2,"How do I get np.where to accept more arguments, so it will filter &gt;, &lt; , and =; not just &gt; and &lt;?"
+39547985,3,Pandas dataframe slicing
+39547873,1,Pandas group by chunks not single values
+39546975,1,pandas: error on DataFrame.unstack
+39545655,2,Intergrating 2 dataframes based on specific column values
+39544975,1,Shifting Column to the left Pandas Dataframe
+39537689,1,How to assign unique identifier to DataFrame row
+39535939,1,Printing Column Names and Values in Dataframe
+39532673,0,regain formatting for a Python Pandas dataframe
+39528707,1,Creating dictionary from dataframe in python
+39527826,2,How to optimize code that iterates on a big dataframe in Python
+39526886,2,Copying (efficiently) dataframe content inside of another dataframe using Python
+39523900,3,Process a list in a Dataframe column
+39522333,1,find the manhatten sum of a dataframe given two points
+39520362,1,Filtering a multiindex dataframe based on column values dropping all rows inside level
+39520101,1,Pandas pd.cut Field Where Other Field Equals Value
+39519167,1,Apply weight formula over rows of Dataframe Pandas
+39518534,1,Pandas series.rename gives TypeError: &#39;str&#39; object is not callable error
+39518141,1,how to add coordinate array as rows in panda dataframe
+39517013,2,&#39;expected string or buffer&#39; when using re.match with pandas
+39515411,0,What is pandas syntax for lookup based on existing columns + row values?
+39515152,1,"Python, Pandas - How can I get something printed in a data range?"
+39515043,1,Pandas - Expand DataFrame by fetching data using one column
+39514202,4,Counting how many times in a row the result of a sum is positive (or negative)
+39513332,2,Python DataFrame Transform Rows to Column
+39509404,1,Reducing rows in a column for a panda DataFrame for plotting
+39508001,1,pandas: rename axis in df

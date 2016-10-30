@@ -1,0 +1,9 @@
+QuesID,    AnsCount,    QuesTitle
+39745627,1,Setting a row index on and querying a pandas dataframe with multi-index columns
+39737890,1,Resampling (Upsample) Pandas multiindex dataframe
+39716210,1,pandas series drop when multiindex is not unique
+39693359,2,How do I replace all values equal to x in nth level of a multi index
+39663486,2,reindex some DataFrame columns to multi index
+39601110,2,How to access prior rows within a multiindex Panda dataframe
+39578866,1,how to add a row to a Datetime Multiindex Panda Dataframe
+39520362,1,Filtering a multiindex dataframe based on column values dropping all rows inside level

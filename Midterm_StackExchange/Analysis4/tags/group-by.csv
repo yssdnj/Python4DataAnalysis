@@ -1,0 +1,22 @@
+QuesID,    AnsCount,    QuesTitle
+39763436,3,apply function on groups of k elements of a pandas Series
+39760063,1,python pandas groupby sorting and concatenating
+39750590,2,Pandas groupby sum
+39727271,1,Pandas: aggregate data through the dataframe
+39691671,2,Resampling timeseries with a given timedelta
+39678806,1,How to get distinct count of keys along with other aggregations in pandas
+39674876,1,Is There Complete Overlap Between `pd.pivot_table` and `pd.DataFrame.groupby` + `pd.DataFrame.unstack`?
+39664657,1,Group DataFrame by period of time with aggregation
+39653812,2,How to sort/ group a Pandas data frame by class label or any specific column
+39646728,3,How to find out number of unique rows within a pandas groupby object?
+39634175,1,Pandas: groupby with condition
+39617298,2,Make a table from 2 columns
+39616764,1,Pandas per group imputation of missing values
+39597785,1,Pandas Multicolumn Groupby Plotting
+39589558,4,Assign Unique Values according Distinct Columns Values
+39583634,1,"Pandas group by, filter &amp; plot"
+39578930,0,Python Pandas Groupby-Apply Returning &#39;ValueError: Wrong number of items passed..&#39;
+39563028,1,Counting values using pandas groupby
+39560598,1,Working with the output of groupby and groupby.size()
+39560578,1,Python - calculating the range(highest - lowest) in different group
+39549338,1,"Group a list of dates by month, year"

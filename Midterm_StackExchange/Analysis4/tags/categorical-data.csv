@@ -1,0 +1,3 @@
+QuesID,    AnsCount,    QuesTitle
+39685764,1,error using where with pandas and categorical columns
+39638403,1,ValueError: cannot use inplace with CategoricalIndex
