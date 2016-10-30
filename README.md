@@ -4,7 +4,7 @@ Python4DataAnalysis
 # Assignment_2
 There are two .py files in the Assignment_2/Scripts called PythonTwitterTool_Fetch.py and Analysis.py. 
 The first one is used to search and save data. The second one is used to perform relevant anyalysis.
-* Step 1: use below command to fetch data with search_term and tweet_date
+* Step 1: use below command to fetch data with search_term and tweet_date (fetch 20 tweets each time)
 ```sh
 python PythonTwitterTool_Fentch.py --search_date Trump --tweet_date 2016-10-24
 ```
@@ -42,4 +42,4 @@ optional arguments:
   --max_date MAX_DATE   max date in yyyy-mm-dd
 ```
 Here is the sample result
-![alt tag](https://github.com/yssdnj/Python4DataAnalysis/Assignment_2/sample)
+![alt tag](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Assignment_2/sample.png)
