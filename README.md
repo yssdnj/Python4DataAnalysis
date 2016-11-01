@@ -47,7 +47,6 @@ Here is the sample result
 # Midterm_StackExchange
 
 * Analysis1
-
 Analysis1_dataFetch.py is used to fetch data, the data folder with 500 questions
 Analysis1_question_userid.py gets the useful information from the data folder and yields the question_userid.csv file
 Analysis1_badges.py fetches the badge information of user thought the user_id above and /users/{ids}, then yieldsbadges_weightage.sv file
