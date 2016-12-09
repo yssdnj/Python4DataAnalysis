@@ -131,7 +131,7 @@ def plot_result():
     ax3.set_ylabel('Number of Each Price Level',fontsize=15)
     ax3.set_ylim([3.8,4.15])
     ax3.margins(y=0.5)
-    ax2.legend(loc='best')
+    ax3.legend(loc='best')
 
     # 4
     slices = df_price_avgRate['Count'].values
