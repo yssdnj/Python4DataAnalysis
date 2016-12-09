@@ -34,6 +34,13 @@ def plot_result(city='Pittsburgh', category='Bars'):
     ax = plt.subplot(111)
 
     df_city = preData(city,category)
+    address = []
+    name=[]
+    for i in df_city['full_address'].values[0:5]:
+        address.append(i)
+    for i in df_city['name'].values[0:5]:
+        name.append(i)
+    show = "\n\n".join([(a + ":\n" + b) for a, b in zip(name, address)])
     state = df_city[df_city['city']==city]['state'].unique()[0]
     max_score = df_city['score'].values[0]
     rows=df_city.shape[0]
@@ -49,7 +56,7 @@ def plot_result(city='Pittsburgh', category='Bars'):
     rect = ax.bar(x_axis, Y_score,linewidth=1.0, linestyle="-",align='center', alpha=0.8)
     for v, i in enumerate(Y_score):
         ax.text(v-0.4, i+1, i, fontweight='bold')
-
+    ax.annotate(show, xy=(0.8, 0.35), xycoords='axes fraction',fontsize="small")
     ticks = ax.set_xticks(x_axis)
     labels = ax.set_xticklabels(X_name, rotation=45, fontsize='small')
     ax.set_title("{} Ranking in {} {}".format(category,city,state), x=0.5, y=0.9, fontsize=25)
