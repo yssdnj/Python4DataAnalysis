@@ -25,7 +25,7 @@ resp = requests.get(url=url, params=params, headers=headers)
 #### Notes on the Dataset
 business
 
-![business](<img src="https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/business.png" alt="alt " width="200" height="200">))
+![business](<img src="https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/business.png" alt="alt " width="200" height="200">)
 
 ### [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
 Due to the limitation and incompletion of Yelp Fusion API, developer can only fetch 3 reviews for each business and can not fetch user information, So I use [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge) as an auxiliary dataset.
