@@ -59,9 +59,9 @@ review & user
   - Percentage of each price level
 
 #### Date table
-![df_price_avgRate](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/df_price_avgRate.png)
 ![df_state_avgRate](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/df_state_avgRate.png)
 ![df_state_pricelevel](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/df_state_pricelevel.png)
+![df_price_avgRate](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/df_price_avgRate.png)
 
 #### Analysis
 > The consumption level can infer from the amount of $ and $$$$ businesses.
@@ -77,7 +77,7 @@ So the conclusion is price level makes a small influence on average rate.
 > $\$ businesses occupy more than half of whole busienss, and $$$$ businesses only occupy 1.2%.  
 
 #### Visualization
- ![Analysis1](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1.png)
+ ![Analysis1](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/analysis1.png)
  
 ### 2. Connect register User & Review Count
 
@@ -99,8 +99,8 @@ moment has passed and yelp is stepping into a normal age.
 This can be a further research.
 
 #### Visualization
- ![Analysis2](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis2.png)
- ![Analysis2_zoon](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis2_zoom2.png)
+ ![Analysis2](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis2/analysis2.png)
+ ![Analysis2_zoon](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis2/analysis2_zoom2.png)
  
 ### 3. Yelp User Analysis
 
@@ -116,7 +116,7 @@ This can be a further research.
 > Among these three kinds of votes,  useful vote is always the highest, so it is the most significant, then cool and funny. 
 
 #### Visualization
- ![Analysis3](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis3.png)
+ ![Analysis3](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis3/analysis3.png)
  
 ### 4. Business Classification
 
@@ -137,7 +137,7 @@ Here is how Yelp classify business in details. [Yelp Category List](https://www.
 In other side, from the restaurant composition, we can infer the population composition in U.S.
 
 #### Visualization
- ![Analysis4](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4.png)
+ ![Analysis4](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4/analysis4.png)
  
 ### 5. Simple Search Engine
 
@@ -152,7 +152,7 @@ In other side, from the restaurant composition, we can infer the population comp
 User can enter City name and business Category, Then a plot will show the business ranking for that kind category in that city with business total score(Average rate * review count) and top five business addresses.
 
 #### Visualization
- ![Analysis5](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis5.png)
+ ![Analysis5](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis5/analysis5.png)
  
 ## Author
 
