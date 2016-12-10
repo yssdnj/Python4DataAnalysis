@@ -74,7 +74,7 @@ We can easily know which state is above averate level and which state is below.
 avgerage rate and $$ businesses have the lowest. However, the difference  between each price level is very small.
 So the conclusion is price level makes a small influence on average rate.
 
-> $\$ businesses occupy more than half of whole busienss, and $$$$ businesses only occupy 1.2%.  
+> $$ businesses occupy more than half of whole busienss, and $$$$ businesses only occupy 1.2%.  
 
 #### Visualization
  ![Analysis1](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/analysis1.png)
@@ -85,7 +85,7 @@ So the conclusion is price level makes a small influence on average rate.
   - Relationship between register User Count and Review Count in each month
 
 #### Date table
-![df_analysis2](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis2/df_analysis21.png)
+![df_analysis2](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis2/analysis2_top10.png)
 
 #### Aanalysis
 > According to the plot, We can easily find that new user count and review count follow the same trend before 2015. 
