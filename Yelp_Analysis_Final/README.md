@@ -22,6 +22,10 @@ in September 20, 2016 via [Yelp Blog](https://www.yelpblog.com/2016/09/yelp-fusi
 resp = requests.get(url=url, params=params, headers=headers)
 ```
 
+#### Notes on the Dataset
+business
+![business](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/business.png)
+
 ### [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
 Due to the limitation and incompletion of Yelp Fusion API, developer can only fetch 3 reviews for each business and can not fetch user information, So I use [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge) as an auxiliary dataset.
 
@@ -40,6 +44,9 @@ Cities:
  
 In this Analysis, mainly focus on reviews, users and business in U.S cities
 
+#### Notes on the Dataset
+review & user
+![reviewanduser](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/review%26user.png)
 
 ## Analysis
 
@@ -51,18 +58,23 @@ In this Analysis, mainly focus on reviews, users and business in U.S cities
   - Average Rate in each price level
   - Percentage of each price level
 
+#### Date table
+![df_price_avgRate](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/df_price_avgRate.png)
+![df_state_avgRate](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/df_state_avgRate.png)
+![df_state_pricelevel](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1/df_state_pricelevel.png)
+
 #### Analysis
-> The consumption level can infer from the amount of $ and $\$\$\$ businesses.
-NY (New York) and NV (Nevada) have the most number of $\$\$\$ businesses，which is same as common sense
+> The consumption level can infer from the amount of $ and $$$$ businesses.
+NY (New York) and NV (Nevada) have the most number of $$$$ businesses，which is same as common sense
 
 > Plot 2 shows the  Average Rate in each state and the horizontal red line is the U.S average rate.
 We can easily know which state is above averate level and which state is below.
 
-> the connection between Average rate and business price level. It shows $\$\$\$ businesses have the highest
-avgerage rate and $\$ businesses have the lowest. However, the difference  between each price level is very small.
+> the connection between Average rate and business price level. It shows $$$$ businesses have the highest
+avgerage rate and $$ businesses have the lowest. However, the difference  between each price level is very small.
 So the conclusion is price level makes a small influence on average rate.
 
-> $\$ businesses occupy more than half of whole busienss, and $\$\$\$ businesses only occupy 1.2%.  
+> $\$ businesses occupy more than half of whole busienss, and $$$$ businesses only occupy 1.2%.  
 
 #### Visualization
  ![Analysis1](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis1.png)
@@ -71,6 +83,9 @@ So the conclusion is price level makes a small influence on average rate.
 
 #### Question
   - Relationship between register User Count and Review Count in each month
+
+#### Date table
+![df_analysis2](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis2/df_analysis2.png)
 
 #### Aanalysis
 > According to the plot, We can easily find that new user count and review count follow the same trend before 2015. 
@@ -93,6 +108,9 @@ This can be a further research.
   - Ranking of User review votes
   - Comparison amonge each kind of votes
 
+#### Date table
+![df_analysis3](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis3/df_analysis3.png)
+
 #### Analysis
 > The ranking is based on total votes. Harald is No.1 in all three kinds of votes (funny, cool and useful).
 > Among these three kinds of votes,  useful vote is always the highest, so it is the most significant, then cool and funny. 
@@ -107,6 +125,10 @@ This can be a further research.
   - Percentage of each category
   - What subclass does a certain category have
 
+#### Date table
+![df_categories](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4/df_categories.png)
+![df_restaurant](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4/df_restaurant.png)
+
 #### Analysis
 > According to the pie char, We can find almost a quarter are Restaurant businesses, then Shopping and food. 
 Here is how Yelp classify business in details. [Yelp Category List](https://www.yelp.com/developers/documentation/v3/all_category_list)
@@ -118,8 +140,12 @@ In other side, from the restaurant composition, we can infer the population comp
  ![Analysis4](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4.png)
  
 ### 5. Simple Search Engine
+
 #### Question
   - If I wanna to have Brunch in Pittsburgh, How can I fand a nice restaurant
+
+#### Date table
+![analysis5_Pitsburgh_Brunch](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis5/analysis5_Pitsburgh_Brunch.csv)
 
 #### Analysis
 > This is a simple Search Engine for Pittsburgh, Charlotte, Urbana-Champaign, Phoenix, Las Vegas, Madison. 
