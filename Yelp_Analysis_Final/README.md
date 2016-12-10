@@ -127,3 +127,12 @@ User can enter City name and business Category, Then a plot will show the busine
 
 #### Visualization
  ![Analysis5](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis5.png)
+ 
+## Author
+
+* **Wanli Ma** 
+
+## Acknowledgments
+
+* Spandan Brahmbhattd
+
