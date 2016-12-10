@@ -126,8 +126,7 @@ This can be a further research.
   - What subclass does a certain category have
 
 #### Date table
-![df_categories](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4/df_categories.png)
-![df_restaurant](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4/df_restaurant.png)
+![df_categories](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4/df_categories.png)![df_restaurant](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis4/df_restaurant.png)
 
 #### Analysis
 > According to the pie char, We can find almost a quarter are Restaurant businesses, then Shopping and food. 
@@ -145,7 +144,7 @@ In other side, from the restaurant composition, we can infer the population comp
   - If I wanna to have Brunch in Pittsburgh, How can I fand a nice restaurant
 
 #### Date table
-![analysis5_Pitsburgh_Brunch](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis5/analysis5_Pitsburgh_Brunch.csv)
+![analysis5_Pitsburgh_Brunch](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis5/df_analysis5.png)
 
 #### Analysis
 > This is a simple Search Engine for Pittsburgh, Charlotte, Urbana-Champaign, Phoenix, Las Vegas, Madison. 
