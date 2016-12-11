@@ -157,7 +157,7 @@ User can enter City name and business Category, Then a plot will show the busine
 
 
 ## Dashboard
-http://localhost:8000/en-US/app/search/yelp_python
+https://prd-p-ztjbtz7l9q8t.cloud.splunk.com/en-US/app/search/yelp_python_cloud
 
 ## Author
 
