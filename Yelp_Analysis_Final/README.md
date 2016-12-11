@@ -157,7 +157,8 @@ User can enter City name and business Category, Then a plot will show the busine
 
 
 ## Dashboard
-Please send email to mengdnj@gmail.com to get permission
+Please send request email to mengdnj@gmail.com to get permission
+
 *Link: https://prd-p-ztjbtz7l9q8t.cloud.splunk.com/en-US/app/search/yelp_python_cloud
 
 ####Screenshot
