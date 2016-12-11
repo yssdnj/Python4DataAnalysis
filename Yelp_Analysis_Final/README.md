@@ -1,4 +1,6 @@
 # Yelp Data Analysis
+## Intro
+This is a Yelp data analysis based on business, review and user data. It explained the different consumption level and business level between states. Also make analysis to users' review votes, business classification, and a simple search engine.
 
 ## Dataset 
 ### [Yelp Fusion API (v3)](https://www.yelp.com/developers/documentation/v3/get_started):
@@ -152,7 +154,11 @@ User can enter City name and business Category, Then a plot will show the busine
 
 #### Visualization
  ![Analysis5](https://github.com/yssdnj/Python4DataAnalysis/blob/master/Yelp_Analysis_Final/output/analysis5/analysis5.png)
- 
+
+
+## Dashboard
+http://localhost:8000/en-US/app/search/yelp_python
+
 ## Author
 
 * **Wanli Ma** 
